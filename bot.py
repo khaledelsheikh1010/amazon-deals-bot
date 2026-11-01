@@ -613,4 +613,28 @@ def main():
 
 
 if __name__ == '__main__':
+   def main():
+    if not BOT_TOKEN or not CHAT_ID:
+        raise SystemExit('Missing token')
+    if not URLS:
+        raise SystemExit('No URLs')
+
+    if os.getenv('RUN_ONCE', '0').strip() == '1':
+        run_cycle()
+        return
+
+    if SEND_START_MESSAGE:
+        telegram_send('✅ <b>Amazon Bot Started (Grocery Filtered)</b>')
+
+    while True:
+        try:
+            run_cycle()
+        except KeyboardInterrupt:
+            break
+        except Exception:
+            logging.exception('Error')
+        time.sleep(CHECK_EVERY_MINUTES * 60)
+
+
+if __name__ == '__main__':
     main()
