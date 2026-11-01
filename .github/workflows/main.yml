@@ -1,0 +1,45 @@
+name: Amazon Price Tracker
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # يعمل تلقائياً كل 15 دقيقة
+  workflow_dispatch: # يتيح لك تشغيله يدوياً في أي وقت للتجربة
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 python-dotenv urllib3
+
+      - name: Run Bot Cycle
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          AMAZON_URLS: ${{ secrets.AMAZON_URLS }}
+          RUN_ONCE: "1"
+          MIN_DISCOUNT: "60"
+          PRICE_DROP_ALERT_PERCENT: "30"
+          USED_VS_NEW_ALERT_PERCENT: "35"
+          NORMAL_SCAN_PAGES: "5"
+          DEEP_SCAN_PAGES: "20"
+        run: python bot.py
+
+      - name: Save Price History
+        run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "AmazonBot"
+          git add price_history.json seen_deals.json scan_state.json
+          git diff --staged --quiet || git commit -m "Update price history"
+          git push
