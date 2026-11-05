@@ -32,10 +32,10 @@ jobs:
           MIN_DISCOUNT: "60"
           PRICE_DROP_ALERT_PERCENT: "30"
           USED_VS_NEW_ALERT_PERCENT: "35"
-          NORMAL_SCAN_PAGES: "2"
-          DEEP_SCAN_PAGES: "3"
-          REQUEST_DELAY_MIN: "0.5"
-          REQUEST_DELAY_MAX: "1.0"
+          NORMAL_SCAN_PAGES: "8"
+          DEEP_SCAN_PAGES: "25"
+          REQUEST_DELAY_MIN: "1.0"
+          REQUEST_DELAY_MAX: "2.0"
         run: python bot.py
 
       - name: Save Price History
