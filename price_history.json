@@ -16227,10 +16227,10 @@
         "price": 85.0
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B09SQ21VHK": {
-    "title": "HESIMING USB C to Lightning Adapter Kit,Multi Charging Cable Case Convertor USB C to Type C/iOS Device/Micro Adapter Travel Data Cable Set Contains Card Storage，Phone Holder, Tray Eject Pin(Black)",
+    "title": "HESIMING",
     "url": "https://www.amazon.eg/dp/B09SQ21VHK",
     "last_price": 56.0,
     "lowest_price": 55.76,
@@ -16367,7 +16367,7 @@
         "price": 56.0
       }
     ],
-    "last_seen": 1795142403
+    "last_seen": 1795145790
   },
   "B0DVRJ4FMM": {
     "title": "Multi USB Cable 3 in 1 Braided Fast Charging 6A/100W - Smart Chip - Thicker Version Compatible with Lightning/Micro/Type-C - Multi Fast Charging Cable 3 in 1 Type C - (Black)",
@@ -25087,7 +25087,7 @@
         "price": 20499.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0HLDWXJ3M": {
     "title": "ZTE Nubia A36 Smartphone (RAM: 2GB + 4GB, ROM: 64GB), 6.75\" IPS 90Hz Display, Dual SIM, 5000 mAh, 13 MP Main Camera, 5 MP Selfie camera, Android 15, Clear Water Green",
@@ -25199,7 +25199,7 @@
         "price": 8599.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0HHYKVSN7": {
     "title": "Mobile 105 – Phone 105 – Black, Dual SIM",
@@ -25601,7 +25601,7 @@
         "price": 11999.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0HJCYXSGC": {
     "title": "HONOR Play 20A 4G Smartphone, 6.9\" Display, 5850mAh battery 13MP Camera, Smart Rear Screen, MediaTek Helio G81, 4GB+64GB Android 16 Go, Dual SIM, USB-C, Blue, Tax paid, 1 year warranty",
@@ -25867,7 +25867,7 @@
         "price": 9099.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0GYM5186C": {
     "title": "Xiaomi Redmi A7 Pro Smartphone 4GB+128GB 4G, Battery 6000mAh Octa-Core Processor, 13MP AI Dual Camera, 6.9\" 120Hz Display, Mist Blue| 18 Month manufacturer warranty",
@@ -25915,7 +25915,7 @@
         "price": 8999.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0HGLMVLYZ": {
     "title": "OPPO A6 5G Smartphone, 256GB 8GB RAM Sapphire Blue, Unlocked Dual SIM, 6.75 Inch HD+ LCD 120Hz Display, 50MP Dual Camera, MediaTek Dimensity 6300, 45W SUPERVOOC Fast Charging",
@@ -26591,7 +26591,7 @@
         "price": 28200.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0FB9FMRZ5": {
     "title": "Infinix SMART 10 Dual SIM Smartphone – 6.67 inches 120Hz LCD Display,4+4GB RAM, 128GB Storage, 5000mAh, Android 15, Sleek Black - 2 Years Warranty and 6 Months Screen Warranty",
@@ -26725,7 +26725,7 @@
         "price": 14990.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0GDBRV5KV": {
     "title": "OPPO A6x 4G 128GB 4GB RAM Ice Blue, AI Smartphone, 6500mAh Battery",
@@ -28477,7 +28477,7 @@
         "price": 23149.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0HK44ZRTT": {
     "title": "Girasole G30-2.4-inch Dual SIM Mobile Phone - Champagne Gold, Earphone Free, 12 Months Warranty",
@@ -29367,7 +29367,7 @@
         "price": 18499.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145870
   },
   "B0GSVY2KY7": {
     "title": "Samsung Galaxy A57 5G Android Smartphone, 512GB Storage, 12GB RAM, 6X OS Upgrades, Large Display, 50MP Camera, Long Battery Life, Awesome Navy - 1 Year Warranty/Local Version",
@@ -30733,7 +30733,7 @@
         "price": 21000.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0FGP8CBQ7": {
     "title": "GameSir X5s Bluetooth Mobile Gaming Controller for Switch 2/Switch/Android/iPhone/iPad mini, Hall Effect Joystick, Lightweight Ergonomic Phone Controller- Play Genshin Impact & Zenless Zone Zero",
@@ -39416,11 +39416,13 @@
     "last_seen": 1793435546
   },
   "B0GTLX3PTN": {
-    "title": "2026 NEW Upgrade R36MAX Ⅱ Retro Handheld Video Game Console-4.5 Inch Ultra-Large Screen,Support 18000+ Classic Games,64G TF Card,Linux System,4000mAh Battery,Birthday Gift for Friends-Black",
+    "title": "Amazon.eg product",
     "url": "https://www.amazon.eg/dp/B0GTLX3PTN",
-    "last_price": 3900.0,
-    "lowest_price": 3900.0,
+    "last_price": 3799.28,
+    "lowest_price": 3799.28,
     "highest_price": 3900.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793433117,
@@ -39429,9 +39431,13 @@
       {
         "timestamp": 1793435546,
         "price": 3900.0
+      },
+      {
+        "timestamp": 1795145870,
+        "price": 3799.28
       }
     ],
-    "last_seen": 1793435546
+    "last_seen": 1795145870
   },
   "B0CT2QT7LR": {
     "title": "R36S Retro Handheld Video Game Console,3.5Inch IPS Screen Video Player 64g TF Card 10,000+ Games Retro Handheld Game Console, With Open Source Linux System,Black",
@@ -54465,7 +54471,7 @@
         "price": 80.96
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B08WJL45KJ": {
     "title": "Five Fives Salicylic Soap - 50 gm",
@@ -54489,7 +54495,7 @@
         "price": 30.9
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B086DTP966": {
     "title": "Flormar Waterproof Lipliner – 244 Chocolate Fondue – Blendable, Long-Wear, Waterproof, Precise Tip, Smooth",
@@ -54761,7 +54767,7 @@
         "price": 85.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0FWKQ38L9": {
     "title": "ZOZY Mascara & Eyelash Brush Spoolies Eyelash Extension & Eyebrow Applicator, Assorted Colors (1PCS)",
@@ -54835,7 +54841,7 @@
         "price": 19.8
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0C99YVVFJ": {
     "title": "Amanda Milano Lip Balm, No. 08 Peach",
@@ -55011,7 +55017,7 @@
         "price": 67.5
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0D8QJDCW4": {
     "title": "Powder Sponge Makeup Puff Sponge Powder Foundation Triangular Blush Makeup Face Makeup Sponge-multi colour",
@@ -55399,7 +55405,7 @@
         "price": 32.0
       }
     ],
-    "last_seen": 1795121424
+    "last_seen": 1795145908
   },
   "B08WJJGMC1": {
     "title": "Imtenan Castor Oil -25 ml",
@@ -55435,7 +55441,7 @@
         "price": 20.99
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B09P8GYRBY": {
     "title": "Hair Remover For Women Skincare Lipstick Shape Mini Epilator trimmer Machine for face, Upper Lip, Chin, Eyebrow, etc. with Battery (White)",
@@ -55555,7 +55561,7 @@
         "price": 91.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0HHFW16RY": {
     "title": "Vacation Watermelon Hand Cream 60ml",
@@ -55707,7 +55713,7 @@
         "price": 273.98
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0FX418XT8": {
     "title": "Arencia Vitamin C Booster Shot Serum with Glutathione, Niacinamide and Vitamin E for Dark Spot Care, Fine Lines & Wrinkles, Glass Skin, Korean Skincare 30ml/1.01 fl.oz",
@@ -57401,7 +57407,7 @@
         "price": 119.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0DRZ8QJYV": {
     "title": "Dear Facial Cleanser 400 ml - Purifies the Skin - With Vitamin E & Matmarine - Panthenol- Removes Impurities and Pimples - Closes Pores - Reduces Sebum Secretion - deep cleansing and skin hydration",
@@ -57482,7 +57488,7 @@
   "B0DVCSTC9H": {
     "title": "Dear Hydration Body Milk - 300 ML – With Coconut Oil | Shea Butter | Argan Oil |Nourishing & Hydration |Skin Renewal |Face and Body Soft skin",
     "url": "https://www.amazon.eg/dp/B0DVCSTC9H",
-    "last_price": 142.57,
+    "last_price": 140.57,
     "lowest_price": 139.29,
     "highest_price": 160.68,
     "last_alerted_price": null,
@@ -57655,9 +57661,13 @@
       {
         "timestamp": 1795142520,
         "price": 142.57
+      },
+      {
+        "timestamp": 1795145908,
+        "price": 140.57
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0DVCKWPNZ": {
     "title": "DEAR HYDRATION MOISTURIZING CREAM 200 GM – | Long-Lasting Hydration | Nourishing and Protective | Skin Barrier Repair",
@@ -58431,7 +58441,7 @@
         "price": 146.48
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0CC9CJN8S": {
     "title": "Ciao Shock Out Lip Gloss - Non Sticky, High Shine Finish, Hydrating & Long Lasting, Lightweight Nourishing Formula, Shade 13, 3ml",
@@ -62127,7 +62137,7 @@
         "price": 77.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0FTK13Q1V": {
     "title": "VETELLY- Makeup Sponge Set, Beauty Blender Foundation Sponges with Storage Case, 4 Pack, Wet and Dry Use",
@@ -77743,7 +77753,7 @@
         "price": 2888.88
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0C9JF8M1M": {
     "title": "Magnetic Watch Band 16mm 18mm 19mm 20mm 22mm - Quick Release - Skin-Friendly Soft Silicone Sport Watch Band for Men Women, Magnetic Folding Clasp Silicone Strap",
@@ -79847,7 +79857,7 @@
         "price": 245.0
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0F54GPYWT": {
     "title": "KIDSZONE Magic Water Elf Toy Kit,Aqua Fairy Water Gel kit Craft,Water Pets,Birthday Gifts,Party Favors,Make Your own Squishies Toys DIY Craft Kit for Kids Ages 3+ (13 Pcs Kit)",
@@ -79891,7 +79901,7 @@
         "price": 185.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0DQKXVKGG": {
     "title": "Mini Karaoke Machine Speaker for Kids Adults,Portable Bluetooth with 2 Wireless Microphones,Christmas Birthday Gifts Toys Girls Boys Ages 4, 5, 6,7, 8,9,10,11,12+ Years Old Toddler (Pink - 2 Mic)",
@@ -80227,7 +80237,7 @@
         "price": 294.0
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0DFLKYMG6": {
     "title": "Magnetic Chess Game, Fun Family Magnet Chess Game with 20pcs Stones, for Kids and Adults, Magnetic Gifts for Boys & Girls, 2-4 Players",
@@ -80411,7 +80421,7 @@
         "price": 80.0
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B094D42LRN": {
     "title": "PEBIRA Montessori for 1 to 3-Year-Old Boys Girls Toddlers, Wooden Sorting & Stacking Toys for Toddlers and Kids Preschool, Educational Toys, Color Recognition Shape Sorter, Learning Puzzles Gift",
@@ -80567,12 +80577,12 @@
         "price": 74.48
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B091CZJK32": {
     "title": "Other Creative children kid crocodile mouth dentist bite finger game funny toy",
     "url": "https://www.amazon.eg/dp/B091CZJK32",
-    "last_price": 74.98,
+    "last_price": 76.95,
     "lowest_price": 68.0,
     "highest_price": 86.38,
     "last_alerted_price": null,
@@ -80753,9 +80763,13 @@
       {
         "timestamp": 1795139389,
         "price": 74.98
+      },
+      {
+        "timestamp": 1795145976,
+        "price": 76.95
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0GKMG9J53": {
     "title": "Keyboard Fidget Keyboard Key Ring with Colourful LED Light 4 Buttons",
@@ -80787,7 +80801,7 @@
         "price": 152.25
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0GKX5JJNK": {
     "title": "KIDSZONE Motion‑Activated Web Shooter Gloves – Realistic Spider Hero Launcher Toy Set for Kids’ Play & Cosplay",
@@ -80831,7 +80845,7 @@
         "price": 110.0
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0BS9T5JG5": {
     "title": "Kidology Electric Stair Climbing Track Toy for Kids, Duck Roller Coaster Toys with Flashing Lights and Music for Toddlers Boys and Girls (3 Duck Slide)",
@@ -81071,7 +81085,7 @@
         "price": 164.95
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0G5PZVKZF": {
     "title": "DIY 216-Pcs Ball Toys for Kids – STEM Educational Learning Balls Game Set, 6×6 Cube, 6 Colors,Boys & Girls Toddlers",
@@ -81243,7 +81257,7 @@
         "price": 75.03
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0G22BHS13": {
     "title": "Toymendous Squishy Carrot – Jumbo 11.5 Inch Squishy Vegetable | Giant Stress Relief Toy | Fidget Sensory Food Fun for Kids, Teens & Adults",
@@ -81371,7 +81385,7 @@
         "price": 150.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0H1FVPQ1Z": {
     "title": "Butter Squishy, XXL Butter Squishy Squeeze Toy, Squeeze Toy, Anti-Stress Toy, Stress Squeeze Toy, Anti-Stress Balls Toy for Adults, Squishy Ball for Birthday Party",
@@ -81451,7 +81465,7 @@
         "price": 145.0
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0FTYZK522": {
     "title": "KIDSZONE Transformable Mechanical Fingertip Spinner Toy | Deformable Chain Robot Fidget Spinner | Stress Relief & Sensory Toy for Kids & Adults (1) PCS",
@@ -81651,7 +81665,7 @@
         "price": 125.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0HBCRXKPZ": {
     "title": "Squeeze Ice Cube Stress Relief Squeeze Toy Anti Anxiety Sensory Toy for Kids and Adults, 1 Piece Assorted Colors Attractive",
@@ -81883,7 +81897,7 @@
         "price": 114.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0DWLVD4HN": {
     "title": "Digital Waterproof Stylish Wrist Smart Watch LED Band for Kids, Birthday Gift, Toys, Colorful Cartoon Character Super Hero for Boys & Girls Age 2 to 12 Years Multicolor (Red Spiderman)",
@@ -81940,9 +81954,9 @@
   "B09BZ53D4C": {
     "title": "Topcolor Educational Toy for Kids Listen and Learn Literacy Audible Flash Cards for Toddlers 1 2 3 4 5 6 Years Old Boys Girls Flashcards Device with 112 pcs Double-Sided Cards 224 Words, Pink Reader",
     "url": "https://www.amazon.eg/dp/B09BZ53D4C",
-    "last_price": 164.83,
+    "last_price": 165.18,
     "lowest_price": 144.63,
-    "highest_price": 164.83,
+    "highest_price": 165.18,
     "last_alerted_price": null,
     "last_alerted_used_price": null,
     "history": [
@@ -82161,9 +82175,13 @@
       {
         "timestamp": 1795142654,
         "price": 164.83
+      },
+      {
+        "timestamp": 1795145976,
+        "price": 165.18
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B091J9KZ41": {
     "title": "Amscan disappearing dagger - 6 years and above",
@@ -82224,7 +82242,7 @@
   "B0B8XN3W8S": {
     "title": "Generic Remote Control Flying Toys, 2.5 Channel High Low Flight Suspension Induction Helicopter, Mini RC for Kids Party Favors, Boy&Girls Birthday Gifts - Multicolor",
     "url": "https://www.amazon.eg/dp/B0B8XN3W8S",
-    "last_price": 124.0,
+    "last_price": 123.0,
     "lowest_price": 123.0,
     "highest_price": 135.0,
     "last_alerted_price": null,
@@ -82385,9 +82403,13 @@
       {
         "timestamp": 1795142657,
         "price": 124.0
+      },
+      {
+        "timestamp": 1795145979,
+        "price": 123.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0DVS1G5SM": {
     "title": "KIDSZONE SET of 4/10 Giraffe Pieces LED Telescopic Suction Cup Giraffe Toy, Shape Changing Telescopic Tube Fidget Toys, Pop Tubes, Fidget Tubes Sensory Toys for Girls Boys Baby Gift (Set of 4)",
@@ -82571,7 +82593,7 @@
         "price": 69.0
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0FYZMVNVY": {
     "title": "KIDSZONE Interactive Steering Wheel Toy Driving Simulator for Kids Ages 3+ with",
@@ -82719,7 +82741,7 @@
         "price": 108.5
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B09X9GDJXJ": {
     "title": "Bath Duck Toys Rubber Ducks Family Squeak and Float Duckies Baby Shower Toy Party Decoration for Toddlers Boys Girls (Winking Duck Family)",
@@ -82747,7 +82769,7 @@
         "price": 36.66
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B09TW3VVJP": {
     "title": "Star Projector Galaxy Night Light,Birthday Gifts Toys for 2-10 Year Old Boys Girls- Astronaut Starry Nebula Ceiling LED Lamp with Timer and Remote,Projection Lights for Bedroom Décor",
@@ -83037,7 +83059,7 @@
         "price": 85.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0CTHJ1576": {
     "title": "Gorilla Toy, Anti-Stress Monkey Toy, Rubber Monkey Stretch by Monkey Kong, Stretch Gorilla Stress Gorilla for Adults, Children, Home School (Multi Color, 10 x 10 cm)",
@@ -83253,7 +83275,7 @@
         "price": 88.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0CFW195Y5": {
     "title": "KIDSWAY Plastic Bubble Maker 32 Holes Bubble Gun & Fan, Big Size, Machine with Bubble Solution, Bubble Makers for Kids. (Assorted Colors)",
@@ -83461,7 +83483,7 @@
         "price": 30.05
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0DXFZXW24": {
     "title": "KIDSZONE Montessori Toys for 1 2 3 Years Old, Wooden Sorting & Stacking Toys for Toddlers 1-3, Education Preschool Toddler Puzzles,Best Gift. (4 shapes)",
@@ -83629,7 +83651,7 @@
         "price": 58.87
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0F4PXV6T1": {
     "title": "KIDSZONE DIY T13 3D Printed Movable Robot T13 Action Figure Dummy13,Hand Painted Figures, Desk Decoration, for Collectors Game Lovers,Creative Gifts For Boys Girls (6 Random Colors)",
@@ -83761,7 +83783,7 @@
         "price": 105.9
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0F8TW3GWL": {
     "title": "2Pack Creativity Fireworks Water Gun, Squirt Gun for Kids/Adults, Bulk Samll Blaster Summer Pool, Backyard, Beach Game Outdoor Toys",
@@ -83917,7 +83939,7 @@
         "price": 47.86
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0D131WPSD": {
     "title": "1Pcs Taba Squishy Cat Paw Squeeze Toys, Squishy Fidget Toy, Kawaii Squishies Sensory Toys, Pinch Family Squishy Toys, Cat Paws Mochi Toys,Stress Relief for Party Favors,Novelty Things for Adults Kids",
@@ -83953,7 +83975,7 @@
         "price": 42.0
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B086W9CMCS": {
     "title": "2 Pack LED Light Airplane,17.5'' Large Throwing Foam Plane,2Flight Mode Glider Plane,Flying Toy for Kids,Gifts for 3 4 5 6 7 8 9 Yrs Old BoyGirl, Outdoor Sport Toys Birthday Party Favors Foam Airplane",
@@ -84259,7 +84281,7 @@
         "price": 34.0
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0F2B1B8XG": {
     "title": "KIDSZONE Rabbit Cuddly Toy Hide 20-25 cm, Rabbit Cuddly Toy Plush Toy, Bunny in Strawberry Bag Soft Toy, Creative Plush Toy Gift, for Boys Girls Babies Children Adults Birthday (Orange)",
@@ -84401,7 +84423,7 @@
         "price": 125.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0FYXFW1CV": {
     "title": "KIDSZONE Hedgehog Shape & Color Sorting Toy for Toddlers – Educational Peg Board with 12 Colorful Pegs for Fine Motor Skill Development and Learning Activities",
@@ -84631,7 +84653,7 @@
         "price": 87.71
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B09CPV16J5": {
     "title": "Beauenty Magic Water Book, Water Coloring Book, Doodling Paint with Water Magic Pen Painting Board For Children Education Drawing Toy,",
@@ -84691,7 +84713,7 @@
         "price": 24.0
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0F9477CM7": {
     "title": "KIDSZONE Educational Shape Sorter Blocks for Toddlers | 16 Colorful ABCD & Geometric Shapes | Baby's First Blocks for Boys & Girls Aged 6 Months to 2 Years | Early Learning Toy Multicolor",
@@ -84731,7 +84753,7 @@
         "price": 214.0
       }
     ],
-    "last_seen": 1795139433
+    "last_seen": 1795145985
   },
   "B09QSGTMQ9": {
     "title": "Squishy Cheese Toy, Squeeze Cheese Rat, Stress Ball, Squeeze Fidget, Mouse in Cheese Toy, Anxiety Relief, Sensory Toy, Squishy Mouse Toy",
@@ -85425,7 +85447,7 @@
         "price": 112.9
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0FY36CC4H": {
     "title": "2Pcs Keyboard Fidget Toy, Cute Clicky Fidget Clicker Stress Relief Keychain",
@@ -85649,7 +85671,7 @@
         "price": 87.5
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0C48N6JTQ": {
     "title": "Hopping Bunny Toys for Kids Interactive Electronic Pet Plush with Sounds and Movements - Walking, Barking, Tail Wagging, Stretching Companion Animal Dog Toys Gift for Kids Toddlers(Pink, 7 in)",
@@ -86187,7 +86209,7 @@
         "price": 126.0
       }
     ],
-    "last_seen": 1795142690
+    "last_seen": 1795145985
   },
   "B0HC7D58V6": {
     "title": "Fidget Cube Squeeze Toy, Clear Flexible Gel Cube, Stress Relief Toy, Glow in The Dark, Snowflakes Design, Random Colors, 5.5 Pcs, 1 x 5.5cm",
@@ -86423,7 +86445,7 @@
         "price": 140.22
       }
     ],
-    "last_seen": 1795142690
+    "last_seen": 1795145985
   },
   "B0H88DP7HC": {
     "title": "KIDSZONE Shape Sorting Cube Toy for Babies & Toddlers, Soft Textured Shape Matching Activity Cube with 6 Colorful Shapes, Fine Motor Learning Toy, Early Shape Recognition Gift",
@@ -88589,7 +88611,7 @@
         "price": 250.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145976
   },
   "B0FQCNZ8SW": {
     "title": "Panini FIFA 365 Adrenalyn XL Trading Cards - Tin",
@@ -91023,7 +91045,7 @@
         "price": 135.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0B9DHBY4Q": {
     "title": "Baby Gym Play Mat, Kick And Play Piano Tummy Time Gym Mat, Musical Piano Activity Playmat For Girl & Boy 0 To 3 6 9 12 Months, Floor Mat Activity Center For Newborn Infant Toddler (Purple)",
@@ -91087,7 +91109,7 @@
         "price": 420.54
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0HD1FSQWV": {
     "title": "Baby Nasal Aspirator, Electric with LCD Display, USB Rechargeable",
@@ -91167,7 +91189,7 @@
         "price": 105.0
       }
     ],
-    "last_seen": 1795142690
+    "last_seen": 1795146037
   },
   "B0BVVT73LP": {
     "title": "Baby Crib Hanging Rattles Toys - Infant Baby Worm Crib Bed Around Rattle Bell Cartoon Insect Spiral Hanging Toy with Ringing Bell for Infants Bed Stroller Car Seat Bar for Babies Boys and Girls",
@@ -91243,7 +91265,7 @@
         "price": 103.45
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0C6ZZBX18": {
     "title": "SCOOVY Baby Bottle Cleaner Brush with Holder, Silicone Bottle Brush, Long Handle Cup Cleaner, BP-Free",
@@ -91267,7 +91289,7 @@
         "price": 17.11
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0F943TZMZ": {
     "title": "11PCS Baby Rattles 0 with 6 Months, Teething Toys Storage Case, Infant 3 12 Girl Toys, Best Newborn Christmas Gift for Babies Infants Boy (Pink)",
@@ -91323,7 +91345,7 @@
         "price": 231.01
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0FBX9FN6B": {
     "title": "KIDSZONE Inflatable Tummy Time Water Mat Baby – Infant and Toddler Play Sensory Toys for Early Development Activities | Age 3 to 12 Months (Circular Extra Large)",
@@ -91391,7 +91413,7 @@
         "price": 127.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B09JZSCSWH": {
     "title": "Baby head cushion",
@@ -91479,7 +91501,7 @@
         "price": 121.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0B21ZM7LJ": {
     "title": "Infinno Baby Wrist Rattle Socks & Foot Finder Set, Perfect for 0-12 Months, Garden Bug Series",
@@ -91687,7 +91709,7 @@
         "price": 113.45
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0BHJ7FP5C": {
     "title": "Bubbles fruits teether -blue",
@@ -91751,7 +91773,7 @@
         "price": 62.5
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B09WF45GCS": {
     "title": "Baby Hair Brush and Comb Set, Baby Brush with Soft Natural Bristles",
@@ -91935,7 +91957,7 @@
         "price": 44.1
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B07F3B6W5L": {
     "title": "Sanosan Bath And Shampoo For Baby, 500 Ml",
@@ -92131,7 +92153,7 @@
         "price": 431.18
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0BBVWK5VS": {
     "title": "Bubbles bubbles baby luffa",
@@ -92191,7 +92213,7 @@
         "price": 175.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0CK5GSN31": {
     "title": "Cute Panda Night Light, Squishy Lamp For Kids, 7 Color Changing Bedside Lamp For Baby Nursery, Animal Night Light For Bedroom For Girls Boys Toddler Baby(Panda) - Silicone, Led, White",
@@ -92269,7 +92291,7 @@
         "price": 55.25
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B09GYLK58K": {
     "title": "POLKA TOTS",
@@ -92361,7 +92383,7 @@
         "price": 70.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0B2LTDFP8": {
     "title": "B4BRAIN Sensory Balls Toys Pack of 6 | Colourful Squeaky Ball | Soft Ball for 0-1 Year Babies for Brain Development Soft Silicone Rubber (Squash, Multicolored)",
@@ -92591,7 +92613,7 @@
         "price": 99.96
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B09JB59KXG": {
     "title": "DOUBLE 2 C Baby Infant Toddler Safety Helmet, Toddler No Bumps Head Cushion Bumper Bonnet Adjustable Safety Headguard Hat Protective Harnesses Cap for Running Walking Crawling",
@@ -92725,7 +92747,7 @@
         "price": 99.99
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0HC48ZYG4": {
     "title": "Newborn Baby Clothing (Pack- of 2), Bodysuits, Short Sleeve, Soft Cotton- Envelop Neck",
@@ -93103,7 +93125,7 @@
         "price": 468.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0BH54DRZP": {
     "title": "Fine Baby Diapers, Size 4, Large, 7-14 kg, 80 Diaper",
@@ -93247,7 +93269,7 @@
         "price": 426.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0BH5TS8CV": {
     "title": "Fine Baby Diapers, Size 3, Medium, 4-9 kg, 58 Diaper",
@@ -93435,7 +93457,7 @@
         "price": 72.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B09WB3NYV3": {
     "title": "Baby Hair Brush and Comb Set, Baby Brush with Soft Natural Bristles, Shower Gift",
@@ -93613,7 +93635,7 @@
         "price": 189.45
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0CRPQYY4Q": {
     "title": "junior",
@@ -93725,7 +93747,7 @@
         "price": 90.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0CVFP1XPL": {
     "title": "Passion baby shampoo &Shower 2x1 275 ml",
@@ -93885,7 +93907,7 @@
         "price": 129.99
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0HFK9HCQY": {
     "title": "4 Piece Baby Bowknot Headband Set, Pastel Colors",
@@ -94093,7 +94115,7 @@
         "price": 169.2
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0HFPR9LN2": {
     "title": "LC WAIKIKI",
@@ -94285,7 +94307,7 @@
         "price": 45.24
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0D4ZC72H8": {
     "title": "White Baby Sensitive Wet Wipes - 72 Sheets | Extra Gentle, Ideal for NewBorns",
@@ -94321,7 +94343,7 @@
         "price": 54.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B096R3KH8S": {
     "title": "Floral Baby Bib with Sleeves - Green",
@@ -95075,7 +95097,7 @@
         "price": 426.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0F4XLZTVC": {
     "title": "Nunu Baby Care Travel Set, 5 Pieces, Shampoo,Baby oil,Babybath,shampoo plus 2 * 1 (Assorted) نونو طقم 5 قطع 50 مل شامبو,سائل استحمام,زيت أطفال,شامبو و بلسم 2 * 1,",
@@ -95189,7 +95211,7 @@
         "price": 49.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B082N5RG6M": {
     "title": "Johnson's Baby Cologne Dream Gentle Fragrance Delicate Skin 100ml",
@@ -95315,7 +95337,7 @@
         "price": 46.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B09MKDQKCN": {
     "title": "Hero baby Nutrasense 2 milk- 400g",
@@ -96849,7 +96871,7 @@
         "price": 439.43
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0D8TG4KTM": {
     "title": "Sanosan Baby Care Oil | With Almond, Organic Olive & Sunflower Seed | Biodegradable - 100ml",
@@ -97417,7 +97439,7 @@
         "price": 289.07
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B09TYZPY4T": {
     "title": "Snosan Care Cream for New born Moisturizes for 24 hours with organic olive oil to Calm, Nourish & Comfort Dry-Skin Care Cream -95% ingredients of natural origin Fragrance Free & Paraben Free,100 ML",
@@ -99385,7 +99407,7 @@
         "price": 150.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0HFQ5QXCH": {
     "title": "LC WAIKIKI",
@@ -99965,7 +99987,7 @@
         "price": 80.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0HFQBZG8V": {
     "title": "LC WAIKIKI",
@@ -100901,7 +100923,7 @@
         "price": 474.99
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0CNSW7YJ8": {
     "title": "ZAIN Potty Training Seat Children Potty Baby Toilet Seat Travel Music Baby Boy Girl Potty (Color : B) (B)",
@@ -101007,7 +101029,7 @@
         "price": 70.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B091NXKJX7": {
     "title": "JOHNSON’S Baby Shampoo, 500ml",
@@ -101115,7 +101137,7 @@
         "price": 133.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0G8NBWBZK": {
     "title": "GHAZAL foldable baby bathtub.",
@@ -101295,7 +101317,7 @@
         "price": 171.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0BWJP3NSK": {
     "title": "SYOSI Curve Highlighter Pen Set, 6Pcs Flownwing Flair Pens with 6 Different Curve Shape Fine Tips, Colored Curve Pens Craft Pens for Scrapbook Journaling Supplies Planner Art Design Note Take",
@@ -116309,7 +116331,7 @@
         "price": 38.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B09V27R871": {
     "title": "NC Car Windshield Sun Shade Foldable car Sun Umbrella,Blocks UV Rays Sun Visor for car[48 25.6 inches (122 * 65 cm)] Fit Most Vehicle",
@@ -116369,7 +116391,7 @@
         "price": 125.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0GY91FSH8": {
     "title": "CGS DTR Label & Sticker Remover D503 - Professional Automotive Adhesive Remover - Safely Removes Car Decals, Glue Residue & Tape - Paint Safe Formula - Large 500ML Spray Can",
@@ -121087,7 +121109,7 @@
         "price": 6737.4
       }
     ],
-    "last_seen": 1795142632
+    "last_seen": 1795145954
   },
   "B078BYR1NM": {
     "title": "SONAX",
@@ -126923,7 +126945,7 @@
         "price": 274.95
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B00FFE8TDG": {
     "title": "Al Doha Egyptian Rice-1 kg",
@@ -126955,7 +126977,7 @@
         "price": 34.95
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B00XHWTK36": {
     "title": "Al Doha Egyptian Rice, White, 5 kg (Pack of 1)",
@@ -127095,7 +127117,7 @@
         "price": 244.75
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B08WJJDQ6R": {
     "title": "Harvest tomato paste - 320 grams",
@@ -127303,7 +127325,7 @@
         "price": 48.95
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B0CRF7HBF8": {
     "title": "VCOLA V7 super soda",
@@ -127529,7 +127551,7 @@
         "price": 89.95
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B0B34QF2S2": {
     "title": "AL SA`A El Egyptian White Rice - 1 Kg",
@@ -127637,7 +127659,7 @@
         "price": 34.0
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B00UEMFGJO": {
     "title": "Aldoha White Sugar, 1 KG",
@@ -127681,7 +127703,7 @@
         "price": 39.0
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B089QRRJZV": {
     "title": "Indomie instant fried noodles, 80 gm",
@@ -127749,7 +127771,7 @@
         "price": 35.5
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B08WJN6YCC": {
     "title": "Maggi Chicken Stock, Bouillon, 12 cubes - 108g",
@@ -127817,7 +127839,7 @@
         "price": 46.8
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B00XYEVCZ6": {
     "title": "Dolphin Tuna Solid, 200 gm - Set Of 3",
@@ -128183,7 +128205,7 @@
         "price": 53.95
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B01JSDLGKC": {
     "title": "Misr Café Instant Karak Chai Tea with Creamer, Sugar and cardomom, 8 x 25g sachets",
@@ -128275,7 +128297,7 @@
         "price": 65.67
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B07CN4W513": {
     "title": "El Maleka Risoni - 400 Grams",
@@ -128355,7 +128377,7 @@
         "price": 83.0
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B08WJNNBWH": {
     "title": "Harvest Plain Fava Beans - 400 gm",
@@ -129155,7 +129177,7 @@
         "price": 66.42
       }
     ],
-    "last_seen": 1795134109
+    "last_seen": 1795145892
   },
   "B084LNHZ55": {
     "title": "Abu Auf Maamoul date (Box)-12 Pieces",
@@ -130013,7 +130035,7 @@
         "price": 44.6
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0D4LTQ2YY": {
     "title": "Bobs Bake Sugar-Free Protein Jelly Mix Blueberry 23g, 18g Protein",
@@ -132345,7 +132367,7 @@
         "price": 90.0
       }
     ],
-    "last_seen": 1795142517
+    "last_seen": 1795145892
   },
   "B0GF9JG88W": {
     "title": "Dancing Goat Coffee Instant Drip Coffee Bags, Medium Roast, 100% Arabica Ground Coffee, 5 individually sealed bags",
@@ -137721,7 +137743,7 @@
         "price": 26990.25
       }
     ],
-    "last_seen": 1795142414
+    "last_seen": 1795145813
   },
   "B0HJWKCLYR": {
     "title": "Amazon.eg product",
@@ -137757,7 +137779,7 @@
         "price": 9099.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145870
   },
   "B0GVSDYFYB": {
     "title": "Nokia 125 Dual SIM Keypad Feature Mobile Phone, Green, FM Radio, Torch Beam",
@@ -139267,7 +139289,7 @@
         "price": 16649.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0DZ78XL57": {
     "title": "Apple iPad with A16 chip: 11-inch Liquid Retina Display, 256 GB, Wi-Fi 6, 12MP Front / 12MP Back Camera, Touch ID, All-Day Battery Life — Silver",
@@ -139431,7 +139453,7 @@
         "price": 7900.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0D9PKL6VM": {
     "title": "HP Victus Gaming Laptop 12th Gen Intel 8-Core i5-12450H, 8GB RAM, 512GB SSD, 4GB NVIDIA GeForce RTX 3050, 15.6” FHD (1920 x 1080) 144Hz, Windows 11 Home",
@@ -139479,7 +139501,7 @@
         "price": 18499.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0DSQ3KYKB": {
     "title": "Samsung Galaxy S25 Ultra AI Phone, 256GB Storage, 12GB RAM, Titanium Whitesilver, Android Smartphone, 200MP Camera, S Pen, Long Battery Life 1 Year Warranty/Local Version",
@@ -139591,7 +139613,7 @@
         "price": 3696.25
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0FNNDQG1T": {
     "title": "Redmi 15C 256GB, 6000mAh 2-Day Battery, 33W Fast Charge, 6.9\" 120Hz, IP64 Water Resistant, 50MP AI Camera,m18-Month Warranty - Black Midnight",
@@ -139659,7 +139681,7 @@
         "price": 13000.0
       }
     ],
-    "last_seen": 1795142414
+    "last_seen": 1795145813
   },
   "B0BKWMYC88": {
     "title": "RAPOO (Renewed) M100 / Silent Multi Mode (4 Device Connectivity) Wireless Optical Mouse (2.4GHz Wireless, Bluetooth, Dark Grey)",
@@ -139675,7 +139697,7 @@
         "price": 475.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0C9QRW4H6": {
     "title": "Sony WH-CH720N Noise Cancelling Wireless Bluetooth Headphones - Up to 35 hours battery life and Quick Charge - Blue (Renewed)",
@@ -139691,7 +139713,7 @@
         "price": 6999.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B07H22RMJG": {
     "title": "Bose QuietComfort 35 II (Special Edition) Noise-Cancelling Wireless Bluetooth Headphones, Mic with Superior voice pickup - Midnight Blue",
@@ -139723,7 +139745,7 @@
         "price": 4099.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0DY7MMDW5": {
     "title": "Belkin SoundForm Surround Bluetooth Over-Ear Headphones, Environmental Noise Cancelling Headphones, Wireless with 60H Playtime & Soft Ear Cups for iPhone, Galaxy, iPad, Travel, Home, or Office - Sand",
@@ -139815,7 +139837,7 @@
         "price": 26598.7
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B08XMXF3YY": {
     "title": "(Renewed) JBL Quantum 200 Wired Over-Ear Gaming Headphones- Black",
@@ -139831,7 +139853,7 @@
         "price": 7200.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B09YLCXLKY": {
     "title": "Sony WI-C100 Wireless in-Ear Bluetooth Headphones with Built-in Microphone, Comfortable And Easy To Use With Long Battery Life And Quick Charging, Blue",
@@ -139871,7 +139893,7 @@
         "price": 1792.25
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0D6TD1KL9": {
     "title": "HP Docking Station for Laptop Dual Monitor Bundle 5TW10AA / 5TW10UT / 5TW10AA#ABB - 1 Year Warranty - HP USB-C Dock G5, HDMI & DP Cable (Renewed)",
@@ -139903,7 +139925,7 @@
         "price": 2599.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0DY7LWSFG": {
     "title": "HP Mobile Workstation ZBook Firefly 14 G8 Laptop, 14-inch FHD Notebook Computer, Quad-Core i5-1135G7, 16GB RAM, 512GB SSD, Backlit Keyboard, Windows 11 Pro (Renewed)",
@@ -139967,7 +139989,7 @@
         "price": 648.17
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0GLKBTQQF": {
     "title": "JBL Tune 520C USB-C Wired on-Ear Headphones with Hi-Res Audio Support, JBL Pure Bass Sound, USB-C connectivity, 3-Button Remote with Microphone and EQ presets Control (Black) (Renewed)",
@@ -139983,7 +140005,7 @@
         "price": 5200.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0DGD9XBMK": {
     "title": "Marshall Minor IV True Wireless Earbuds - Black (Renewed)",
@@ -139999,7 +140021,7 @@
         "price": 15500.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0G6HLWS6Q": {
     "title": "Sony Earbud Headphones",
@@ -140031,7 +140053,7 @@
         "price": 1299.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B09Y5H2T1W": {
     "title": "JBL (Renewed) Flip 6 Bluetooth Box in Blue - Waterproof Portable Speaker with 2-Way Speaker System for Powerful Sound - Up to 12 Hours of Wireless Music Play",
@@ -140047,7 +140069,7 @@
         "price": 7700.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0H27JGCMJ": {
     "title": "Dell Latitude 5420 14\" 16GB 512GB SSD Core™ i5-1145G7 2.6GHz WIN11P, Titan Grey (Renewed Premium)",
@@ -140163,7 +140185,7 @@
         "price": 25000.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0FJ8FRXP5": {
     "title": "JBL (Renewed) Quantum 100M2 - Wired Gaming Headphones with JBL QuantumSOUND Signature and 3.5 mm Plug, Compatible with Various Gaming Platforms, Detachable Mic with Silent Function, Black",
@@ -142123,7 +142145,7 @@
         "price": 1528.21
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0DH8JZ2Z4": {
     "title": "Anker USB-C to USB-C 2.0 cable (3ft/0.9m), High Durability Type C Braided Charging Cable Compatible with All Android Devices And More, Black, 18 Months Warranty",
@@ -142438,9 +142460,9 @@
     "last_seen": 1795142400
   },
   "B0GRBJTM54": {
-    "title": "Samsung 50 Inch Crystal UHD TV, U8000H, 4K, Crystal Processor, 4K Upscaling, Q-Symphony,Samsung TV Plus, Secured by Knox, UA50U8000HUXEG (2026 Model)",
+    "title": "Amazon.eg product",
     "url": "https://www.amazon.eg/dp/B0GRBJTM54",
-    "last_price": 17999.0,
+    "last_price": 18199.0,
     "lowest_price": 17911.0,
     "highest_price": 18499.0,
     "last_alerted_price": null,
@@ -142465,9 +142487,13 @@
       {
         "timestamp": 1794619092,
         "price": 17999.0
+      },
+      {
+        "timestamp": 1795145870,
+        "price": 18199.0
       }
     ],
-    "last_seen": 1794619092
+    "last_seen": 1795145870
   },
   "B0CP31QS6R": {
     "title": "Amazon Kindle 16 GB (2024 model) - Light and compact, with fast page turns, and high contrast ratio - Matcha",
@@ -142938,9 +142964,9 @@
     "last_seen": 1795142385
   },
   "B0GSVQJ1XX": {
-    "title": "Samsung Galaxy A57 5G Android Smartphone, 256GB Storage, 8GB RAM, 6x OS Upgrades, Large Display, 50MP Camera, Long Battery Life, Awesome Navy - 1 Year Warranty/Local Version",
+    "title": "Amazon.eg product",
     "url": "https://www.amazon.eg/dp/B0GSVQJ1XX",
-    "last_price": 30565.0,
+    "last_price": 26999.0,
     "lowest_price": 26999.0,
     "highest_price": 30565.0,
     "last_alerted_price": null,
@@ -142957,9 +142983,13 @@
       {
         "timestamp": 1793980249,
         "price": 30565.0
+      },
+      {
+        "timestamp": 1795145870,
+        "price": 26999.0
       }
     ],
-    "last_seen": 1793983673
+    "last_seen": 1795145870
   },
   "B0G4K44FZC": {
     "title": "Zebra Wax Ribbon, 60mmx450m, 2300; Performance Wax; 25mm (1 inch) core",
@@ -147559,7 +147589,7 @@
         "price": 92833.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145870
   },
   "B00QM9KL5M": {
     "title": "AUKEY Gaming Mouse Pad Large XXL (900 X 400 X 3 MM) Thick Extended Mouse Mat Non-Slip Spill-Resistant Desk Pad with Special-Textured Surface, Anti-Fray Stitched Edges for Keyboard, PC - Black",
@@ -149379,7 +149409,7 @@
         "price": 16444.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B077PZLGVB": {
     "title": "TP-Link AC1200 Archer VR300 Wireless VDSL and ADSL Modem Router - Black",
@@ -150955,7 +150985,7 @@
         "price": 66.06
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0FXBJDMHK": {
     "title": "Anker Nano 45W Type C Charger Fast Charging, Compact and Foldable Plug USB C Charger Block for Samsung Galaxy S25 Ultra/S24 Series, iPhone 16 Series, MacBook, Pixel 9, iPad",
@@ -151875,7 +151905,7 @@
         "price": 59849.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0F8N88PZ1": {
     "title": "USB C Headphones for iPhone 16, Type C Earbuds Wired Earbuds with Microphone & Remote Control Noise Cancelling Earphones, Compatible with iPhone 16 Pro Max, iPad Pro, Most USB C Jack Devices",
@@ -152979,7 +153009,7 @@
         "price": 13999.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0G6GF642Y": {
     "title": "موبايل 105-هاتف 105-اسود بشريحتين اتصال",
@@ -153163,7 +153193,7 @@
         "price": 7249.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0FR9BJ5KZ": {
     "title": "Samsung Galaxy A07, 4GB RAM, 128GB storage, Black, Dual SIM (Egyptian Version)",
@@ -154043,7 +154073,7 @@
         "price": 7249.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0GXV772PG": {
     "title": "Infinix NOTE 60 +5G Dual SIM Smartphone- (Rose Gold), 6.78 Inches 144Hz AMOLED Display, 8GB RAM, 256GB Storage, 50MP Rear Camera,13MP Front Camera, 6150mAh,- 24 Month Warranty",
@@ -156831,7 +156861,7 @@
         "price": 14.99
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B0D9FH4JTD": {
     "title": "Molto XXL Cream-Filled Pastry",
@@ -157179,7 +157209,7 @@
         "price": 239.95
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B08WJSC7BB": {
     "title": "Juhayna full cream milk, 1.5",
@@ -157331,7 +157361,7 @@
         "price": 229.95
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B0FXWNY66J": {
     "title": "Kimo Cono Chocolate and Vanilla Ice Cream Cone 105 ml",
@@ -157395,7 +157425,7 @@
         "price": 65.0
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B013M45O7Y": {
     "title": "Nestlé Pure Life Water Shrink of 2 bottles x 6L",
@@ -157447,7 +157477,7 @@
         "price": 112.95
       }
     ],
-    "last_seen": 1795142517
+    "last_seen": 1795145892
   },
   "B07P67NLZZ": {
     "title": "Zalatimo Asst Traditional Baklava Pouch - 150 gm(Pack of 1)",
@@ -157511,7 +157541,7 @@
         "price": 12.82
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B0H7CKC3T1": {
     "title": "Pepsi Cola Soft Drink, 1 L Bottle",
@@ -157811,7 +157841,7 @@
         "price": 27.99
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B08WJLG3Q6": {
     "title": "Rehana white sugar - 1 kg",
@@ -157934,7 +157964,7 @@
     "last_seen": 1795081126
   },
   "B0FQWD845J": {
-    "title": "Amazon.eg product",
+    "title": "Almarai Milk 1.5L FF 4 Bundle Save 25",
     "url": "https://www.amazon.eg/dp/B0FQWD845J",
     "last_price": 249.99,
     "lowest_price": 249.99,
@@ -157975,7 +158005,7 @@
         "price": 249.99
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145892
   },
   "B0G3V5471Y": {
     "title": "Fresh Pick Lemon Balady 250gm",
@@ -159435,7 +159465,7 @@
         "price": 389.95
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B0FY2WRNNR": {
     "title": "Fresh Farm Smoked Turkey Breast 200 g",
@@ -163883,7 +163913,7 @@
         "price": 45.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B092312R94": {
     "title": "VGR Men's Electric Shave Machine (V-071)",
@@ -163963,7 +163993,7 @@
         "price": 322.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B07B188F84": {
     "title": "NIVEA MEN 3in1 Shower Gel Body Wash, DEEP Micro-Fine Clay, Woody Scent, 250ml",
@@ -164003,7 +164033,7 @@
         "price": 83.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0FKHGKKD2": {
     "title": "Lux Perfumed Shower Gel Magical Orchid For 30 Hours Long Lasting Fragrance 500ML",
@@ -164079,7 +164109,7 @@
         "price": 77.81
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B07LG24QPF": {
     "title": "NIVEA MEN Antiperspirant Roll-on for Men, DEEP Black Carbon Antibacterial, Dark Wood Scent, 50ml",
@@ -164115,7 +164145,7 @@
         "price": 69.34
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0D7KBL2WG": {
     "title": "Easy to Fill Travel Perfume Atomizer Bottle - Glass & Mineral Assorted colors",
@@ -164147,7 +164177,7 @@
         "price": 19.67
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B01FN772MS": {
     "title": "L’Oréal Paris L'Oréal Paris Elvive Extraordinary Oil Serum For Dry Hair Types, 100ml",
@@ -164295,7 +164325,7 @@
         "price": 345.75
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B07MV12R61": {
     "title": "Dove Deeply Nourishing Handwash Made with ¼ moisturizing cream for Soft Smooth hands 500ML",
@@ -164331,7 +164361,7 @@
         "price": 73.3
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B08WT25HD1": {
     "title": "Clorox Liquid Bleach Floral 950ML",
@@ -164751,7 +164781,7 @@
         "price": 35.75
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0CQHPMPD8": {
     "title": "Root To End Conditioner For Dry And DAmaged HAir 400ml",
@@ -164783,7 +164813,7 @@
         "price": 143.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0BL3PRB3F": {
     "title": "Blankie Kids Hair Cream - 120 ml",
@@ -164819,7 +164849,7 @@
         "price": 77.33
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B09WMVJN3W": {
     "title": "Superkids Hair Cream 200 ml Jar",
@@ -165043,7 +165073,7 @@
         "price": 198.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0DFYZN9V3": {
     "title": "VGR V-360 Digital Display Cordless Dual Sided OneBlade Trimmer & Shaver 0.5-9mm Adjustable Comb for complete Beard Styling & Body Hair Trimming 90 mins Runtime Fully Washable IPX5 Waterproof, Green",
@@ -165255,7 +165285,7 @@
         "price": 555.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0BPTGPQ1Z": {
     "title": "Shaan body milk 300 ml",
@@ -165303,7 +165333,7 @@
         "price": 149.5
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0BVMY8PZW": {
     "title": "Feather Flamingos ECVV Platinum Hardened Blade For Women",
@@ -166071,7 +166101,7 @@
         "price": 109.6
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B096L5T9JB": {
     "title": "Penduline cocoa butter hair cream for kids - 150 ml",
@@ -166323,7 +166353,7 @@
         "price": 157.5
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0B8NYF6MV": {
     "title": "AVUVA Body Splash Passion Fruit 55 ml",
@@ -167091,7 +167121,7 @@
         "price": 49.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B08YY1ZCN9": {
     "title": "Rivoli Fantasy Bath Soap - 2 x 165g - Pack of 2 - Color and scent may vary",
@@ -167775,7 +167805,7 @@
         "price": 133.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B09JWKC19L": {
     "title": "Raw African | Follicle Booster Oil | Hair Growth| For Hair| 100ml",
@@ -168663,7 +168693,7 @@
         "price": 39.96
       }
     ],
-    "last_seen": 1795139244
+    "last_seen": 1795145908
   },
   "B08K7LPBPG": {
     "title": "Avuva white paste hair removal - 100 gm- cherry blossom",
@@ -169211,7 +169241,7 @@
         "price": 280.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0CVQ8JKGT": {
     "title": "Clary Hair Leave In Cream 300 gm",
@@ -170044,8 +170074,8 @@
   "B0FPQQR4R6": {
     "title": "Dove Advanced Care Women Antiperspirant Deodorant Roll On Even Tone, Helps Whiten Underarm Dark Spots, with Vitamin B3, 50ML",
     "url": "https://www.amazon.eg/dp/B0FPQQR4R6",
-    "last_price": 70.5,
-    "lowest_price": 70.5,
+    "last_price": 65.66,
+    "lowest_price": 65.66,
     "highest_price": 94.5,
     "last_alerted_price": null,
     "last_alerted_used_price": null,
@@ -170077,9 +170107,13 @@
       {
         "timestamp": 1795042314,
         "price": 70.5
+      },
+      {
+        "timestamp": 1795145908,
+        "price": 65.66
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B07D68RZBH": {
     "title": "NIVEA Body Cream Dry Skin, Cocoa Butter Vitamin E, Jar 50ml",
@@ -170435,7 +170469,7 @@
         "price": 118.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0972FTQF8": {
     "title": "Dandel - Cotton Swabs Ear Care - 100 Pieces",
@@ -170451,7 +170485,7 @@
         "price": 13.6
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B08WJL2CJV": {
     "title": "Diva Liquid Hand soap 500 Ml Ultra Guard (Packaging May Vary)",
@@ -170515,7 +170549,7 @@
         "price": 39.96
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0DGDMH3J8": {
     "title": "SOKANY SK-15008 Hair straightener brush 1080 Degree Max (Smart heat memory system-rapid heating)",
@@ -170790,7 +170824,7 @@
     "last_seen": 1795142528
   },
   "B088F8R7WH": {
-    "title": "Miserwe Makeup Organiser 360 Degree Rotating 7 Adjustable Layers Large Capacity Cosmetic Organiser Transparent Make Up Organisers and Storage",
+    "title": "Amazon.eg product",
     "url": "https://www.amazon.eg/dp/B088F8R7WH",
     "last_price": 196.4,
     "lowest_price": 195.0,
@@ -171047,7 +171081,7 @@
         "price": 196.4
       }
     ],
-    "last_seen": 1795142532
+    "last_seen": 1795145870
   },
   "B0FPQQLKFR": {
     "title": "Dove Advanced Care Women Antiperspirant Deodorant Spray Even Tone, Helps Whiten Underarm Dark Spots, with Vitamin B3, 150ML",
@@ -171551,7 +171585,7 @@
         "price": 189.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0D1FQPHYF": {
     "title": "ZHUOAI Adjustable Microneedling Derma Stamp, Derma Roller Alternative, Reusable Microneedle pen with Needle Cover, Skin Care Tools for Face Body, Hair Beard Growth",
@@ -172751,7 +172785,7 @@
         "price": 239.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B091CGGQHY": {
     "title": "Sharp Nail Clipper and Trimmer",
@@ -172899,7 +172933,7 @@
         "price": 348.98
       }
     ],
-    "last_seen": 1795142546
+    "last_seen": 1795145908
   },
   "B0GWX296JV": {
     "title": "Nuveracosmetics Sebio-Control Gel-Cream Moisturiser, Oil-Balancing, Zinc PCA + Ceramide Complex, Shine Control, 50ml",
@@ -172975,7 +173009,7 @@
         "price": 68.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B07FZMWXKR": {
     "title": "L’Oréal Paris L'Oréal Paris Elvive Extraordinary Oil Jojoba 400 ML",
@@ -173631,7 +173665,7 @@
         "price": 93.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0GZP5MHSB": {
     "title": "Camay Bar Soap Sophistique 110G",
@@ -174879,7 +174913,7 @@
         "price": 158.98
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0F92LYDKK": {
     "title": "VETELLY- Professional Wooden Hair Brush, Dual Nylon Bristles, Salon Styling and Detangling Brush",
@@ -175835,7 +175869,7 @@
         "price": 25.7
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0H2VHCW7Q": {
     "title": "Nutshell Shea Butter and Coconut Lip Therapy Nourishing Lip Balm 1 Count",
@@ -177395,7 +177429,7 @@
         "price": 49.16
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B09KQP311K": {
     "title": "Axe Body Spray for Men Dark Temptation 150ML",
@@ -177855,7 +177889,7 @@
         "price": 80.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0151NW9EA": {
     "title": "Maybelline New York Lash Sensational Mascara - 0.32 Oz, Extra Black",
@@ -178319,7 +178353,7 @@
         "price": 215.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B08WJLGXNB": {
     "title": "Bobai Sunscreen Hydrocare Gel SPF50 60 gm",
@@ -181351,7 +181385,7 @@
         "price": 184.8
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B09WRNRMK2": {
     "title": "Clary Hair Mask 300 ml",
@@ -182831,7 +182865,7 @@
         "price": 135.69
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B09JSXLKD4": {
     "title": "Argento clear facial cleanser skin cleanser 200ml",
@@ -183331,7 +183365,7 @@
         "price": 170.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0C7YL2BCD": {
     "title": "Camay Bar Soap Classique 165G",
@@ -186015,7 +186049,7 @@
         "price": 160.0
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B0BSXT47FF": {
     "title": "Familia Facial Tissue - PE MultiPack - 3 Ply - 500 X 3 (Assorted color)",
@@ -186059,7 +186093,7 @@
         "price": 80.0
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B09BMJGS9C": {
     "title": "Fine Deluxe - 3 Ply Toilet Tissue Paper - 12 Rolls",
@@ -186103,7 +186137,7 @@
         "price": 109.95
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B076THR61J": {
     "title": "Fine - Pocket Facial Tissue - 3 Ply, Pack of 10",
@@ -186135,7 +186169,7 @@
         "price": 16.92
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B08FTZNBSJ": {
     "title": "Frida home cleaner - clean, 480 ml",
@@ -186219,7 +186253,7 @@
         "price": 160.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145870
   },
   "B0B4339XBF": {
     "title": "OXI LS Lavender 8KG +1KG",
@@ -186355,7 +186389,7 @@
         "price": 174.99
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B076T12GR2": {
     "title": "Fine Kitchen Tissue Paper kitchen towel, 2 layers 6 rolls",
@@ -186647,10 +186681,10 @@
         "price": 58.89
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B0DPWVMNXM": {
-    "title": "Amazon.eg product",
+    "title": "Ariel Automatic Detergent Gel with Touch of Downy - 3.6 KG",
     "url": "https://www.amazon.eg/dp/B0DPWVMNXM",
     "last_price": 249.0,
     "lowest_price": 247.45,
@@ -186715,7 +186749,7 @@
         "price": 249.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145930
   },
   "B0DCGLBH27": {
     "title": "Papia Tissue - Toilet paper - 4 Ply - 12 Rolls",
@@ -186764,7 +186798,7 @@
   "B0FTXSNHWJ": {
     "title": "Molfix Baby Diaper Pants Size 6, Mega Pack, 15+ KG, 60 Units, Molfix Pants Diapers, Size 6, 15+KG, Jumbo Pack, 60 Count, Cotton Material",
     "url": "https://www.amazon.eg/dp/B0FTXSNHWJ",
-    "last_price": 429.75,
+    "last_price": 419.75,
     "lowest_price": 386.78,
     "highest_price": 465.0,
     "last_alerted_price": null,
@@ -186909,9 +186943,13 @@
       {
         "timestamp": 1794314423,
         "price": 429.75
+      },
+      {
+        "timestamp": 1795146008,
+        "price": 419.75
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B09ZSRPRQ1": {
     "title": "Fine Super Mega roll kitchen paper Tissues, 2 ply 375 sheets",
@@ -187091,7 +187129,7 @@
         "price": 459.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0FJR782D7": {
     "title": "elmagic Trash Bag Roll 1KG size 70 cm X 90 cm",
@@ -187331,7 +187369,7 @@
         "price": 419.75
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0B1BY4671": {
     "title": "Persil Automatic Universal Powder Laundry Detergent 8KG",
@@ -187367,7 +187405,7 @@
         "price": 399.99
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B0DZHKJGVT": {
     "title": "Yono Signature Lavender Scent, 120 Wipes",
@@ -188063,7 +188101,7 @@
         "price": 418.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B08WJNCVKM": {
     "title": "Velveta fabric softener with lavender scent , 3 kg",
@@ -188243,7 +188281,7 @@
         "price": 161.0
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B0FTMLYY3Z": {
     "title": "ZOZY Dental Floss Picks for Teeth & Gum Cleaning, Pack of 30",
@@ -188323,7 +188361,7 @@
         "price": 263.0
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B09T3HLTGR": {
     "title": "Zpac freezer bag - heavy duty 17 * 30 cm - 100 bag",
@@ -188927,7 +188965,7 @@
         "price": 419.75
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0BSXSY3RS": {
     "title": "Molped Extra Hygeine Sanitary Pad, Extra Long, Family Pack 40 Units, Cotton Material, Maxi Compressed , Unscented for Heavy Flow",
@@ -189651,7 +189689,7 @@
         "price": 398.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145870
   },
   "B0G4W2HRFF": {
     "title": "Ludwik Dishwasher Powder Bag 2Pcs+1Pce Free",
@@ -190119,7 +190157,7 @@
         "price": 346.75
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0F43Q9QS6": {
     "title": "Cotton Swabs100 Count,-Friendly Strong Bamboo Sticks Cotton Swabs for Ears, Hygiene, Beauty Care,Clean Skin, Round Tips & Thick Cotton & Sturdy Wooden Cotton Buds (100Count)",
@@ -190179,7 +190217,7 @@
         "price": 749.99
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B0BSXRRMMX": {
     "title": "Molped Extra Hygiene Sanitary Pad, Long, Family Pack 44 Units, Cotton Material, Maxi Compressed , Unscented for Heavy Flow",
@@ -192267,7 +192305,7 @@
         "price": 165.0
       }
     ],
-    "last_seen": 1795134188
+    "last_seen": 1795145930
   },
   "B083X1TKQL": {
     "title": "Papia Tissue - Toilet paper - 3 Ply - 6 Rolls",
@@ -192331,7 +192369,7 @@
         "price": 61.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B08WJJJ8H4": {
     "title": "Feba All Purpose Cleaners Liquid 4 kgm Green Apple",
@@ -192839,7 +192877,7 @@
         "price": 429.92
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B09Q1FM6RG": {
     "title": "Sofy maxi lump free ex-long 32cm mega bundle (3 * 14)",
@@ -193415,7 +193453,7 @@
         "price": 34.5
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B07FPQ9F4H": {
     "title": "Pampers Premium Extra Care Pants, Size 4, 9-14kg, with lotion with aloe vera, 44 diapers. (Pack may vary)",
@@ -193731,7 +193769,7 @@
         "price": 387.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0BB2LT96N": {
     "title": "Frida wood furniture cleaner 600ML",
@@ -194579,7 +194617,7 @@
         "price": 414.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B085XN2S1R": {
     "title": "Durex Strawberry Condom |Pack Of 3",
@@ -195191,7 +195229,7 @@
         "price": 458.77
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B08WJJG76M": {
     "title": "Feba All Purpose Cleaners Liquid 2 kg Lemon",
@@ -196403,7 +196441,7 @@
         "price": 419.75
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B07G9BKFZ3": {
     "title": "Clorox Liquid Bleach Lemon 4L",
@@ -197831,7 +197869,7 @@
         "price": 474.99
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0FGD9JHPH": {
     "title": "Sedra Natural White Vinegar 1 L",
@@ -198171,7 +198209,7 @@
         "price": 17.11
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B091MDSKTQ": {
     "title": "Generic Elastic Food Storage Covers (100 Covers) - Reusable Stretch Plastic Wrap Bowl Covers – Transform Dishes, Aluminum Cans or Cooking Pans into Food Storage Containers",
@@ -198199,7 +198237,7 @@
         "price": 23.74
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B0C4RTP4QD": {
     "title": "Plain Fitted Sheet Set for Hotels, Homes & Touristic Villages (Baby Blue, 160)",
@@ -199126,7 +199164,7 @@
     "last_seen": 1795139303
   },
   "B0C6FKFHVB": {
-    "title": "LeRoy microfiber cleaning cloths, multi-colored, 20.1 x 20.1 cm, pack of 20, low-lint, quick-drying, and super absorbent.",
+    "title": "Amazon.eg product",
     "url": "https://www.amazon.eg/dp/B0C6FKFHVB",
     "last_price": 50.46,
     "lowest_price": 50.46,
@@ -199171,7 +199209,7 @@
         "price": 50.46
       }
     ],
-    "last_seen": 1795142585
+    "last_seen": 1795145870
   },
   "B0G229JVYV": {
     "title": "Glade Multipurpose Fragrance Concentrate, Oriental Scent, 480ml, 24-Hour Fresh",
@@ -199290,7 +199328,7 @@
     "last_seen": 1795081140
   },
   "B0CMX33JW1": {
-    "title": "3PCS Large Fabric Storage Baskets for Shelves,18.5*11in Closet Storage Bins for Sturdy Foldable Storage Boxes for Organizing Clothing, Sheets, Toys, BooksShelves,Fabric Basket,Linen Closet Organizers",
+    "title": "Amazon.eg product",
     "url": "https://www.amazon.eg/dp/B0CMX33JW1",
     "last_price": 166.42,
     "lowest_price": 160.0,
@@ -199419,7 +199457,7 @@
         "price": 166.42
       }
     ],
-    "last_seen": 1795142585
+    "last_seen": 1795145870
   },
   "B0BYXPL4N7": {
     "title": "Nestlé Pure Life water Set of 12, 1L (Package design may vary)",
@@ -202767,7 +202805,7 @@
         "price": 59.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0CCXZRDV7": {
     "title": "Godrej aer O – Hanging Car Air Freshener | Car Accessories | Cool Aqua (7.5g)",
@@ -202931,7 +202969,7 @@
         "price": 56.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B08WJNDTZZ": {
     "title": "Frida Car Polish and cleaner3 in 1, Raspberry Icecream - 300 ml",
@@ -202967,7 +203005,7 @@
         "price": 55.99
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0DMF1DHF3": {
     "title": "Car Windshield Cleaning Degreasing Cleaning Window Rainproof Cleaning Car Glass Cleaning Brush 120ml Car Windshield Cleaner Liquid Hydrophobic Coating for Car Glass Car Cleaning Accessories",
@@ -203127,7 +203165,7 @@
         "price": 28.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B096L5ZB2L": {
     "title": "Water For Glass Wipers 2 Liter",
@@ -203155,7 +203193,7 @@
         "price": 26.16
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0BGPLGQKQ": {
     "title": "Miytsya 1 PC Car Trash Can with Lid, Multifunctional Folding Car Dustbin Garbage Organizer Holder, Leak-Proof Hanging Mini Trash Can Containers, Suitable for Cars, Homes, Offices (Black)",
@@ -203319,7 +203357,7 @@
         "price": 64.27
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0BKWXJB29": {
     "title": "TotalEnergies QUARTZ 7000 10W-40 Synthetic Technology Engine oil for Passenger Car - 5 Liters - 10,000 KM",
@@ -203351,7 +203389,7 @@
         "price": 1172.3
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0B2JHS3ZS": {
     "title": "generic PRAMUKHAM Car Cleaning Microfiber Removable Telescopic Brush Dusting Tool Car and Solar Panel Washing Mop Dash Duster Exterior Interior Cleaning Car Duster 1 Pcs",
@@ -203431,7 +203469,7 @@
         "price": 123.5
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0CCXZ8NXN": {
     "title": "Godrej aer O – Hanging Car Air Freshener | Car Accessories | Rose Blossom (7.5g)",
@@ -203467,7 +203505,7 @@
         "price": 80.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B091J64SNB": {
     "title": "Compressor Car 2 cylinder 12 volts Model TOTAL TTAC2506",
@@ -203547,7 +203585,7 @@
         "price": 53.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B09NCVS7V4": {
     "title": "Singaro car cup coaster, 4pcs universal non-slip cup holders embedded in ornaments coaster, car interior accessories, black",
@@ -203607,7 +203645,7 @@
         "price": 98.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B08WJPYF9B": {
     "title": "Maxell Magic Sprays Air Freshener with Rumba Scent , 475 ml",
@@ -203771,7 +203809,7 @@
         "price": 70.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0H8LNT7J9": {
     "title": "Di Pelle™ Car Trunk Organizer 48L, Heavy Duty Oxford Fabric Boot Storage Bag with Velcro Lid, 4 Outer Pockets, Collapsible, Anti-Slip Straps, Carry Handles,(Black, M)",
@@ -203919,7 +203957,7 @@
         "price": 25.7
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0CD5XYSMJ": {
     "title": "Roseraie Air & Fabric Freshener Spray Fruity & Jasmine Black - 500 ml",
@@ -204087,7 +204125,7 @@
         "price": 265.5
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0C7HDHYR7": {
     "title": "Frida Aqua Sensations Vanilla and Cinnamon Air Freshener 460 ml",
@@ -204135,7 +204173,7 @@
         "price": 53.6
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B09W6668DR": {
     "title": "Multi-Purpose Rust Remover Refill, 400ml",
@@ -204375,7 +204413,7 @@
         "price": 18.17
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0F48C858F": {
     "title": "Upgraded 360° Nano Gel Vacuum Magnetic Phone Holder, Car Phone Holder for Magsafe[108+LBS Strongest Suction & 3000gf Strongest Magnetic], Suction Cup Phone Mount for Car/for iPhone 17 Pro Max",
@@ -204839,7 +204877,7 @@
         "price": 56.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B08WJPYF33": {
     "title": "Maxell Magic Sprays Air Freshener with Peach Scent , 475 ml",
@@ -227467,7 +227505,7 @@
         "price": 24.62
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0HFWPDS6T": {
     "title": "Butter Squishy 4 OZ Small Slow Rising PU (One Random Piece)",
@@ -227527,7 +227565,7 @@
         "price": 63.75
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0GTL7YKSL": {
     "title": "Sugar Cube Powder Glitter 5X5X5cm New Edition Assortment ( One Random Color )",
@@ -227695,7 +227733,7 @@
         "price": 124.9
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0H1HG4JBL": {
     "title": "WKW - Face Paint Colors, Set Of Different Colour, 20ML For Each Jar (6, Different Colour)",
@@ -227947,7 +227985,7 @@
         "price": 117.47
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0951TZRMW": {
     "title": "TG Top Gear Drift Car 24 (24V), Green",
@@ -228211,7 +228249,7 @@
         "price": 99.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0H5HGV3M8": {
     "title": "كتاب تلوين ماندالا كبير الحجم - 24 رسمة احترافية عالية الدقة للكبار والأطفال الموهوبين بجودة فائقة (Cozy friends)",
@@ -228227,7 +228265,7 @@
         "price": 89.0
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0CG3F4FM7": {
     "title": "Kacunoki Water Magic Colouring Book 5Pcs Water Painting Books Reusable Water Colouring Books for Children Mess Free Magic Painting Books with Water Pens for 3 4 5 6 Year Old Kids Boys Girls, Style B",
@@ -228351,7 +228389,7 @@
         "price": 95.5
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0CPQ65KQS": {
     "title": "2ool Ameme 2ool aw E3mel Geib Game",
@@ -228391,7 +228429,7 @@
         "price": 32.83
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0BK8MVX46": {
     "title": "208 PCS Art Supplies,Drawing Art Kit for Kids Girls Boys Teens Artist, Art Set Case with Trifold Easel, Includes Oil Pastels, Crayons, Colored Pencils, Coloring Book, Scissors, Origami Paper 40 Sheets",
@@ -228727,7 +228765,7 @@
         "price": 275.26
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0FTM13ST5": {
     "title": "Al Naeem Frozen Green Peas",
@@ -228907,7 +228945,7 @@
         "price": 103.0
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0FBX8HS8P": {
     "title": "KIDSZONE Butterfly Fairy Angel Wing, Wand And Headband Set,Costume For Girls Kids Angel For Butterfly Wings- Set Of 3,Satin (Pink)",
@@ -228967,7 +229005,7 @@
         "price": 97.75
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0BNL7GF41": {
     "title": "Squishy Ball Squeeze Grape Ball Relieve Pressure Ball for Kids Girls Boys | Squeeze Grape Balls for Kids - 6 cm (1 Pcs Mesh Ball)",
@@ -229019,7 +229057,7 @@
         "price": 37.5
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0HDP3QPS5": {
     "title": "Squishy Cube Sugar Rebound 5.50 CM Cherry",
@@ -229187,7 +229225,7 @@
         "price": 70.44
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0H23RHPVJ": {
     "title": "KIDSZONE Toy Octopus Plushie Reversible Soft Toys for Kids | Plush Soft Toys for Baby Boys and Girls | Octopus Soft Toy for Kids Gift Birthday -25 cm (Blue/Pink 25CM)",
@@ -229235,7 +229273,7 @@
         "price": 107.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0GXXR5L93": {
     "title": "Colorful Dumplings Squishy Toy Multi Color",
@@ -229403,7 +229441,7 @@
         "price": 122.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B00LY281H2": {
     "title": "Faber-Castell Wax Crayons, Set of 12, Assorted Colours",
@@ -229659,7 +229697,7 @@
         "price": 160.29
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0BZTVJHWJ": {
     "title": "MINMEER Arabic English Alphabet Talking Flash Cards for Kids, Learning Arabic Letters, 224 Basic Sight Words, Arabic Learning Toys for Toddlers",
@@ -229699,7 +229737,7 @@
         "price": 133.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0CQCD6FWV": {
     "title": "Falafoty Doctor's Case Children's Play Set, 15 Pieces Doctor Case with Real Stethoscope, Thermometer, Syringe, Gift for Children, Role Play, Medical Learning Toy, Party Game Toy from 3 Years (Pink)",
@@ -229731,7 +229769,7 @@
         "price": 115.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0FDDM9TDB": {
     "title": "Printed Spiral Wirebound Notebook A5 Size 100 Sheets",
@@ -229871,7 +229909,7 @@
         "price": 123.49
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0B3H22XJK": {
     "title": "Wonka Maleficent Horns Headpiece Girls Witch Costume Evil Headband Women Gothic Devil Headdress for Halloween Accessory",
@@ -230095,7 +230133,7 @@
         "price": 160.0
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B096L4HBBH": {
     "title": "White board 30 * 20 cm with pen and eraser for school and office - white",
@@ -230499,7 +230537,7 @@
         "price": 94.0
       }
     ],
-    "last_seen": 1795139399
+    "last_seen": 1795145985
   },
   "B081VFXQZN": {
     "title": "Other Soft Plastic Ocean Ball Toys - 50 Pieces",
@@ -230555,7 +230593,7 @@
         "price": 74.2
       }
     ],
-    "last_seen": 1795142654
+    "last_seen": 1795145976
   },
   "B0C53DTV6Z": {
     "title": "Wooden Puzzles for Toddlers 3-5, Boys & Girls, Montessori Toddler",
@@ -230755,7 +230793,7 @@
         "price": 252.29
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0H8R6N4RQ": {
     "title": "Squishy Crunchy Soap Bar",
@@ -230875,7 +230913,7 @@
         "price": 135.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0HFK2TJWY": {
     "title": "Dumplimg 8.5cm Maltose & Glitter ( Slow Rising ) ( One Random Piece)",
@@ -231155,7 +231193,7 @@
         "price": 115.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0HLFVGKQX": {
     "title": "Crunchy Butter Squishy Stress Relief Toy, 113g",
@@ -231575,7 +231613,7 @@
         "price": 65.0
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0C2YML74X": {
     "title": "54pcs Wooden Blocks with 4 pcs, Hardwood Blocks, Stacking Tower Game for 4+ Year Kids 1 or More Players",
@@ -232063,7 +232101,7 @@
         "price": 175.0
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0G5KZP38Y": {
     "title": "KIDSZONE Dancing & Singing Cactus Toy – Interactive Plush that Dances, Sings, Records & Repeats – Fun Gift for Kids & Adults",
@@ -232383,7 +232421,7 @@
         "price": 34.1
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0G8G4KK2L": {
     "title": "B7000 Jewelry Glue for Jewelry Making, FITTDYHE 1PC 50ML/19oz Transparent Glue Rhinestone Transparent Glue Fabric Glue, Multi-Purpose Super Adhesive B-7000 Glue Nail Art for Phone Repair",
@@ -233559,7 +233597,7 @@
         "price": 89.24
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0CJF93LPQ": {
     "title": "Baybee Kitchen Toy for Kids, Toddler - Kitchen Playset, Kitchen Accessories with Role Playing Game Food and Cooking Playset for Toddlers, 35 PCS Indoor Play Set for 1 to 4 Years Girl Boy (Pink)",
@@ -234739,7 +234777,7 @@
         "price": 88.4
       }
     ],
-    "last_seen": 1795139395
+    "last_seen": 1795145985
   },
   "B0D31YGXD8": {
     "title": "Mamas Gift Anti-Stress Coloring Book – Thick Perforated Pages for Adults – Mandala & Pattern Designs – For Markers, Gel Pens & Pencils – Relaxing Art Therapy Book",
@@ -235295,7 +235333,7 @@
         "price": 227.0
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0F9YPF1V3": {
     "title": "Kinderkraft I-360 2 PRO Car Seat, I-Size 40-150 cm, Isofix, Baby Seat, for Children, Adjustable, Sillade, RWF, FWF, 360º, Group 0+/1/2/3, 0-36 kg, Green",
@@ -235355,7 +235393,7 @@
         "price": 88.43
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B08YDR6TJ1": {
     "title": "NAN Optipro Stage 3 (1 - 3 years), 800g",
@@ -235391,14 +235429,14 @@
         "price": 680.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B09DCNTC7W": {
     "title": "NAN Optipro Stage 1 (0 - 6 months), 800g",
     "url": "https://www.amazon.eg/dp/B09DCNTC7W",
-    "last_price": 654.99,
+    "last_price": 694.99,
     "lowest_price": 638.07,
-    "highest_price": 654.99,
+    "highest_price": 694.99,
     "last_alerted_price": null,
     "last_alerted_used_price": null,
     "history": [
@@ -235409,9 +235447,13 @@
       {
         "timestamp": 1794842778,
         "price": 654.99
+      },
+      {
+        "timestamp": 1795146025,
+        "price": 694.99
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B07BQV41FB": {
     "title": "Molfix Baby Diaper Open Size 1, Jumbo Pack, 2-5 KG, 60 Units, Molfix Open Diapers, Size 1, 2-5KG, Jumbo Pack, 60 Count, Cotton Material",
@@ -235447,7 +235489,7 @@
         "price": 329.98
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0FTXS5DYM": {
     "title": "Molfix Baby Diaper Pants Size 7, Jumbo Pack, 19+ KG, 34 Units, Molfix Pants Diapers, Size 7, 19+KG, Jumbo Pack, 34 Count, Cotton Material",
@@ -235495,7 +235537,7 @@
         "price": 385.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B08WJKTV74": {
     "title": "Cerelac 3 Fruits with Milk 500g",
@@ -235515,7 +235557,7 @@
         "price": 173.99
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B08ZSJZ8M8": {
     "title": "Nestle NAN Optipro Stage 2 Follow Up Formula From 6 to 12 Months 800g",
@@ -235543,7 +235585,7 @@
         "price": 711.04
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0CF2GYRY7": {
     "title": "100Pcs Wooden Bamboo Sticks cotton Ear Buds Package design may vary",
@@ -235575,7 +235617,7 @@
         "price": 32.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B096L66CD9": {
     "title": "Penduline Baby Shampoo 250ml",
@@ -235607,7 +235649,7 @@
         "price": 167.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B08XNQQNJJ": {
     "title": "Jolik Upgrade Home Refrigerator Fridge Freezer Door Lock, Latch Catch Toddler Kids Child Fridge Locks Baby Safety Child Lock, Easy to Install and Use 3M VHB Adhesive no Tools Need or Drill (Grey)",
@@ -235703,7 +235745,7 @@
         "price": 44.7
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0F1LWFKT2": {
     "title": "Cerelac Wheat without Milk 400g",
@@ -235739,7 +235781,7 @@
         "price": 98.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0CKF4387L": {
     "title": "Nido Fiber Milk Powder 100g",
@@ -235763,7 +235805,7 @@
         "price": 51.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0CN72CWD5": {
     "title": "Toffee Cream for Kids 200ml",
@@ -235799,7 +235841,7 @@
         "price": 93.0
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B09NTRK9Z5": {
     "title": "Ronza Baby Girl Wipes with Lid 120-Pieces",
@@ -235999,7 +236041,7 @@
         "price": 191.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0F5474TYZ": {
     "title": "Molfix Baby Diapers Open Size 1, Jumbo Pack, 2-5 KG, 58 Units, Molfix Premium Oxygen Open Diapers, Size 1, 2-5 KG, Jumbo 58 count, Cotton Material",
@@ -236403,7 +236445,7 @@
         "price": 319.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B09TK86QWF": {
     "title": "Baby Proofing Clear Corner Guards - Silicone Soft Protectors With Pre-Taped Strong Adhesive for Sharp Edges of Cabinets, Tables, Drawers (4 Pack)",
@@ -236427,7 +236469,7 @@
         "price": 29.8
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0G43SVK5N": {
     "title": "Premium Breastmilk Storage,Bags 210ml,Pre-Sterilized.,Leak proof,Freezer safe,Double zip lock. (210, 25, Piece)",
@@ -236471,7 +236513,7 @@
         "price": 197.18
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B07NF7WCX9": {
     "title": "Hero baby Rice and chicken Jar",
@@ -236499,7 +236541,7 @@
         "price": 44.76
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B08WJN6MNK": {
     "title": "Cerelac Wheat with Milk 500g",
@@ -236535,7 +236577,7 @@
         "price": 154.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B08Z7CYDCY": {
     "title": "Molfix Baby Diaper Open Size 3, Mega Pack, 4-9 KG, 80 Units, Molfix Open Diapers, Size 6, 4-9 KG, Mega Pack, 80 Count, Cotton Material",
@@ -236807,7 +236849,7 @@
         "price": 429.99
       }
     ],
-    "last_seen": 1795142677
+    "last_seen": 1795146013
   },
   "B0BG2T2V9H": {
     "title": "Penduline Curly Kids Detangling Spray 250 Ml",
@@ -236879,7 +236921,7 @@
         "price": 169.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B07P12NBSH": {
     "title": "Hero baby Mixed Vegetables Jar",
@@ -236907,7 +236949,7 @@
         "price": 45.24
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0FTXRYST7": {
     "title": "Molfix Baby Diapers Open Size 6, Mega Pack, 16+ KG, 60 Units, Molfix Premium Oxygen Open Diapers, Size 6, 16+ KG, Mega 60 count, Cotton Material",
@@ -236991,7 +237033,7 @@
         "price": 468.75
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0CGPYWVZ3": {
     "title": "Penduline Moringa Kids Conditioner | Shea Butter | Gentle Cleansing & Frizz Control |Nourishing & Moisturizing |for Silky & Oily hair |300 Ml",
@@ -237287,7 +237329,7 @@
         "price": 474.99
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0DCTPMYTN": {
     "title": "Bubbles Breast Milk Storage Bottles",
@@ -237487,7 +237529,7 @@
         "price": 140.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0FTXTH494": {
     "title": "Molfix Baby Diapers Open Size 3, Mega Pack, 4-9 KG, 76 Units, Molfix Premium Oxygen Open Diapers, Size 3, 4-9 KG, Mega 76 count, Cotton Material",
@@ -237711,7 +237753,7 @@
         "price": 429.99
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0CP2LJBY1": {
     "title": "Bubbles Disposable Nursing Pads, Soft and Super Absorbent Breast Pads up to 120ml, Breastfeeding Supplies for Mums, 10 Pieces",
@@ -237811,7 +237853,7 @@
         "price": 373.99
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B08WJJPJ83": {
     "title": "BabyJoy Compressed diapers with back leakage stopper , Size 1, New born, up to 4 Kg, Jumbo pack, 60 Diapers",
@@ -237827,7 +237869,7 @@
         "price": 329.99
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0D2WC64XQ": {
     "title": "Nesquik Minis Cereals 300g",
@@ -237843,7 +237885,7 @@
         "price": 109.25
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0F43QLNX6": {
     "title": "Cotton Swabs 200 Count,-Friendly Strong Bamboo Sticks Cotton Swabs for Ears, Hygiene, Beauty Care,Clean Skin, Round Tips & Thick Cotton & Sturdy Wooden Cotton Buds (200Count)",
@@ -237871,7 +237913,7 @@
         "price": 33.37
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0F54759XJ": {
     "title": "Molfix Baby Diapers Open Size 2, Jumbo Pack, 3-6 KG, 58 Units, Molfix Premium Oxygen Open Diapers, Size 2, 3-6 KG, Jumbo 58 count, Cotton Material",
@@ -238167,7 +238209,7 @@
         "price": 319.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0BBVH9T6C": {
     "title": "Bubbles cup with straw rose",
@@ -238475,7 +238517,7 @@
         "price": 520.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B012CDLHR2": {
     "title": "Sudo Cream 60ml",
@@ -238659,7 +238701,7 @@
         "price": 232.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B08WJL4G6J": {
     "title": "Bab ElSham Coriander Powder - 45g",
@@ -238823,7 +238865,7 @@
         "price": 73.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0FHWVM9GF": {
     "title": "BubbleJoy Teats And Bottle Cleanser, Highly Concentrated Formula, Fragrance Free, MYDLO Bubble Joy 500 ml",
@@ -239023,7 +239065,7 @@
         "price": 222.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B07NWXJ52Z": {
     "title": "Huggies extra care pants, size 6, 15-25 kg, 30 diaper pants",
@@ -239371,7 +239413,7 @@
         "price": 306.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0FTXN3LVS": {
     "title": "Bebem Natural Baby Diapers Pants Diapers Size 6,15+ KG, 46 Units, Organic Cotton & Bamboo Fibers",
@@ -239543,7 +239585,7 @@
         "price": 155.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0BSGZVFJZ": {
     "title": "Penduline Diaper Rash Cream | Protect | Heal, and Moisturize Baby’s Skin | 75 Ml",
@@ -240031,7 +240073,7 @@
         "price": 197.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B09MKF4NNN": {
     "title": "Hero baby milk Nutrasense 3-400g",
@@ -240159,7 +240201,7 @@
         "price": 25.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0FTXSBH8K": {
     "title": "Molfix Baby Diapers Pants Size 6, Mega Pack, 15+ KG, 58 Units, Molfix Premium Oxygen Pants Diapers, Size 6, 15+ KG, Mega 58 count, Cotton Material",
@@ -240235,7 +240277,7 @@
         "price": 155.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0DD5787X2": {
     "title": "Wooden Cotton Swabs (500 Count) - Biodegradable Cotton Swabs with Eco-Friendly Double Tip Cotton Swabs, Made of 100% Wood, Great for Makeup, Ears, Cleaning",
@@ -241075,7 +241117,7 @@
         "price": 9.0
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B08WJJG2PK": {
     "title": "Hero Baby Infant Formula Milk 1, From Birth - 400 gm",
@@ -241247,7 +241289,7 @@
         "price": 37.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0CZ9M6YR5": {
     "title": "Nestogen Stage 2 400g",
@@ -241539,7 +241581,7 @@
         "price": 104.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B07SS5MD4Y": {
     "title": "Sanita Charm EarBuds (2+1) 600 Buds",
@@ -243299,7 +243341,7 @@
         "price": 21.74
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0CJYLVZ2B": {
     "title": "Elmaayergy TY-48 Numerical Lock With Durable Material, Suitable For School And Home",
@@ -243375,7 +243417,7 @@
         "price": 69.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B08YNDXSPP": {
     "title": "Remote Control for LG Amazon Screen, Infrared",
@@ -243391,7 +243433,7 @@
         "price": 71.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0GSS21BFP": {
     "title": "Brass Padlock 1.5 Inch 38MM Heavy Duty Security Lock with Keys for Doors Gates Cabinets and Storage – Gold",
@@ -243415,7 +243457,7 @@
         "price": 73.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0922YNFFF": {
     "title": "Wild Wolf",
@@ -243467,7 +243509,7 @@
         "price": 67.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0BCVJ3PVP": {
     "title": "SupCares",
@@ -243487,7 +243529,7 @@
         "price": 99.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0C87HWB7D": {
     "title": "Zero Wireless Mouse Zero ZR-1000 - Assorted Colors + Battery Free",
@@ -243503,7 +243545,7 @@
         "price": 103.95
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0DP2X6Y7B": {
     "title": "Cat Paw Squeeze Toys, 2 Squishy Big Cat Paw Silicone Squeeze Toys, Stress Relief Toys for Children and Adults (A)",
@@ -243579,7 +243621,7 @@
         "price": 107.98
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0F7P46D5W": {
     "title": "wolf INTERNATIONAL Men's Stainless Steel Bracelet, Accessories, Venetian Chain, Thin, Silver, Width 0.08 inch (2 mm), Length 7.5 inches (19 cm)",
@@ -243595,7 +243637,7 @@
         "price": 120.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0GSRSDHFZ": {
     "title": "Price Label Rolls for Price Label Gun Model K1 Pack of 10 Rolls 600 Labels Each Replacement Sticker Rolls for Pricing Guns Retail Shops and Supermarkets – White",
@@ -243647,7 +243689,7 @@
         "price": 135.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B091DCPPGF": {
     "title": "Gadget World Vegetable Stainless Steel Herbs Scissor with Blade Comb",
@@ -243703,7 +243745,7 @@
         "price": 179.9
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0DP71DP4S": {
     "title": "2 Inch Standard Digital Lock, Keyless Lock Suitable for School, Gym, Lockers, etc.",
@@ -243719,7 +243761,7 @@
         "price": 164.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0C4JRWJGM": {
     "title": "Earbuds Air31, Wireless, Wired Earphones Transparent with Deep Bass, Stereo Sound, Bluetooth Headphone with Charging Case, White, Black and Pink (black)",
@@ -243863,7 +243905,7 @@
         "price": 178.2
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0F9WXCGHG": {
     "title": "AJYAL",
@@ -243891,7 +243933,7 @@
         "price": 143.65
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0CSZ4W59B": {
     "title": "Wireless Earbuds Bluetooth 5.3 Headphones Deep Bass with Mic 140H Playtime LED Display with Charging Case IPX4 Waterproof Stereo Earphones In-Ear CVC 8.0 Noise Reduction Headset For Sport/Work M90 Pro",
@@ -244019,7 +244061,7 @@
         "price": 141.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0GHGFYX2F": {
     "title": "Adjustable Aluminum Smart Laptop Stand – Optimal Comfort & Excellent Ventilation Up to 15.6 Inch",
@@ -244035,7 +244077,7 @@
         "price": 175.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0BQYMDPHD": {
     "title": "OOK",
@@ -244111,7 +244153,7 @@
         "price": 135.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0FL7NC197": {
     "title": "Future",
@@ -244127,7 +244169,7 @@
         "price": 189.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0FL7LTZLT": {
     "title": "Future",
@@ -244143,7 +244185,7 @@
         "price": 189.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0BFR34FYZ": {
     "title": "Silent Rechargeable Bluetooth Mouse, Wireless Mouse, Portable USB Phone Computer Mouse Type-C Port, Bluetooth Mouse for Windows Laptop Desktop USB Receiver (Matte Black)",
@@ -244159,7 +244201,7 @@
         "price": 190.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0CQVJ4KNN": {
     "title": "M19 Earbuds，Wireless Earbuds Bluetooth Headphones, HiFi Stereo Deep Bass, Bluetooth 5.3 Touch Control Headphones, Mini Ear Buds Mic in-Ear Headset IP7 Waterproof LED Display for iPhone and Android",
@@ -244307,7 +244349,7 @@
         "price": 199.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0H7N18GF3": {
     "title": "M19 Wireless Bluetooth Earbuds HiFi Deep Stereo Bluetooth 5.3 Touch Control Mini Earbuds with Mic in-Ear IP7 Waterproof LED Display Compatible with iPhone and Android",
@@ -244359,7 +244401,7 @@
         "price": 188.06
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B09LQSPDJP": {
     "title": "HomeHacks",
@@ -244391,7 +244433,7 @@
         "price": 249.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0DJTBH2Y2": {
     "title": "[COUNTRY] Flag, 90 cm x 150 cm, Large Flag with Pole Loop and Laces for Fastening, Lightweight, for Sports, Football, Buildings (Georgia 1pc)",
@@ -244435,7 +244477,7 @@
         "price": 234.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0GW42RT94": {
     "title": "Wireless Bluetooth Earbuds with Noise Cancelling Technology High Fidelity Stereo Sound Bluetooth 5.3 In Ear Headphones with Wireless Charging Case for IOS, Android White (Pro 1ST, White)",
@@ -244451,7 +244493,7 @@
         "price": 279.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B09W2YK3H4": {
     "title": "Amazon portable blender cup,electric usb juicer blender,mini blender portable blender for shakes and smoothies, juice,380ml, six blades great for mixing,light (multicolor)",
@@ -244475,7 +244517,7 @@
         "price": 281.96
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0G6HHZ9NJ": {
     "title": "Wireless Earbuds Bluetooth Earbuds with Charging Case, Noise Cancelling, IPX5 Waterproof, Touch Control, Built-in Mic, Compatible with iPhone and Android, White",
@@ -244511,7 +244553,7 @@
         "price": 257.99
       }
     ],
-    "last_seen": 1795142364
+    "last_seen": 1795145790
   },
   "B0G5PRCFBL": {
     "title": "Cardboard Box 30×24×30 cm | Corrugated Packing Box | Strong Shipping & Storage Carton | Multi-Purpose Packaging for E-Commerce & Warehouses (10 Boxes)",
@@ -244539,7 +244581,7 @@
         "price": 251.72
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B09WW3BBPQ": {
     "title": "Boigoo",
@@ -244555,7 +244597,7 @@
         "price": 290.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0DCTQSFBV": {
     "title": "Andora",
@@ -244591,7 +244633,7 @@
         "price": 299.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0HN5XMH8V": {
     "title": "Mini Christmas Tree, Xmas Green Pine Tree Indoor Natural Decorate Mall Decoration With Ornaments Led Lights (Size : 30cm)",
@@ -244619,7 +244661,7 @@
         "price": 266.11
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0CQ4Q6G4M": {
     "title": "مانع ترطشه الزيت الشبك الأسود او غطاء حمايه للأكل و الحماية ايك من الزيت (قطعتين فقط) واحصل عليه من ايجل شوب - IGLE shop*",
@@ -244655,7 +244697,7 @@
         "price": 320.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0FFVZ94G6": {
     "title": "In-Ear Bluetooth Wireless Touch Headset, Slightly Noise Reduction Built-in Microphone, Digital Display, Transparent Charging Box Latest Version Charging Type C (Black)",
@@ -244671,7 +244713,7 @@
         "price": 328.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0BXDKFGR4": {
     "title": "Film for Furniture, Packaging Film on Roll | Stretch Film 50 cm Wide, 350 m, 2.5 kg | Packaging Material Moving, Packaging Film Transparent Wrap Film for Moving, Stretch Film Roll",
@@ -244703,7 +244745,7 @@
         "price": 343.79
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0BRK2BJBC": {
     "title": "Replace YKR-K/002E Remote Control fit for AUX Air Conditioner",
@@ -244719,7 +244761,7 @@
         "price": 350.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0DV4NQL2B": {
     "title": "Amoun",
@@ -246439,7 +246481,7 @@
         "price": 3999.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0GQBZ32Y3": {
     "title": "Samsung Galaxy S26 AI Phone, 256GB Storage, 12GB RAM, Customized AP, Built-in Privacy Display, Photo Assist, 200MP Camera, 5000mAh Battery, Black - 1 Year Warranty/Local Version",
@@ -246475,7 +246517,7 @@
         "price": 54599.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0CWV5LG6M": {
     "title": "Version: Bluetooth 5.4 ANC noise cancelling (Noise reduction depth up to 43dB) AI-powered Noise-free Calls Support Sony Hi-Res wired version 4 microphones 40mm drivers",
@@ -246527,7 +246569,7 @@
         "price": 2999.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0CK7ZD681": {
     "title": "Samsung Galaxy Tab A9 4G LTE, 8.7 Inch Android Tablet, 4GB RAM, 64GB Storage, 8MP Rear Camera, Silver-1 Year Warranty/Local Version",
@@ -246555,7 +246597,7 @@
         "price": 12099.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0DWT48ZFY": {
     "title": "G3100 Gaming Headset Lightweight - Jack 3.5mm Wired - Fillable Noise reduction Microphone - Rotation Ear-Cups for PS5 - PS4 / PC/Mobile Laptop Tablet (blue)",
@@ -280407,7 +280449,7 @@
         "price": 46.0
       }
     ],
-    "last_seen": 1795142680
+    "last_seen": 1795146025
   },
   "B0F91SK7LC": {
     "title": "VETELLY- Hair Ties, Black Elastic Bands, Non-Slip Design, 10 Pieces",
@@ -324515,7 +324557,7 @@
         "price": 135.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B093FMPQ33": {
     "title": "Watch Charger for Huawei Honor Band 6 Charger Portable Charger Charging Cable Cord Compatible with Huawei Watch Fit/Honor Watch ES/Honor Band 6 (White)",
@@ -324555,7 +324597,7 @@
         "price": 188.53
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0HH4957KH": {
     "title": "Smarter Mini Smart Module 1 Gang Wifi",
@@ -324683,7 +324725,7 @@
         "price": 45215.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0CH9LSX5M": {
     "title": "TOZO T6 Mini Wireless Bluetooth Headphones, Wireless Earbuds Erogonomic Design Sport 50H, IPX8 Wireless Bluetooth Headset EQ Customized by App Black",
@@ -324699,7 +324741,7 @@
         "price": 2490.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B08TQX99P3": {
     "title": "CCA KZ ZSN PRO X IEM Earphones Dual Driver in Ear Monitor 1BA 1DD Wired Earphones HiFi Gaming Earbuds for Phone Computer Tablet",
@@ -324811,7 +324853,7 @@
         "price": 7397.08
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B08W6PQ4Q3": {
     "title": "Linksys EA6100 AC1200 K (Renewed)",
@@ -324859,7 +324901,7 @@
         "price": 17500.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0F9482ZX9": {
     "title": "LCD Writing Tablet - 10 Inch Electronic Drawing Board for Adults, Portable with Stylus for Home or Office Use (1 piece of the color shown)",
@@ -325194,10 +325236,10 @@
     "last_seen": 1794058603
   },
   "B0FND1XJCN": {
-    "title": "Samsung Galaxy A17 LTE, Android Smartphone, 256GB Storage, 8GB RAM, Blue, 6x OS Upgrades, Large Display, 50MP OIS Camera - 1 Year Warranty/Local Version",
+    "title": "Amazon.eg product",
     "url": "https://www.amazon.eg/dp/B0FND1XJCN",
-    "last_price": 16899.0,
-    "lowest_price": 16899.0,
+    "last_price": 16599.0,
+    "lowest_price": 16599.0,
     "highest_price": 17499.0,
     "last_alerted_price": null,
     "last_alerted_used_price": null,
@@ -325213,9 +325255,13 @@
       {
         "timestamp": 1794331950,
         "price": 16899.0
+      },
+      {
+        "timestamp": 1795145870,
+        "price": 16599.0
       }
     ],
-    "last_seen": 1794356427
+    "last_seen": 1795145870
   },
   "B0GYM4SM3F": {
     "title": "Xiaomi Redmi A7 Pro Smartphone 4GB+128GB 4G, Battery 6000mAh Octa-Core Processor, 13MP AI Dual Camera, 6.9\" 120Hz Display, Black| 18 Month manufacturer warranty",
@@ -325751,7 +325797,7 @@
         "price": 449.95
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B07RDPFYRM": {
     "title": "Decoholic Modern Computer Desk 63 Inch Large Workstation Office Desk Computer Table Study Writing Desk for Office Home, Industrial Style, Sandalwood Board Black Leg",
@@ -325803,7 +325849,7 @@
         "price": 424.99
       }
     ],
-    "last_seen": 1795142632
+    "last_seen": 1795145954
   },
   "B0CS9RSNXV": {
     "title": "Electric Hydraulic Jack, 3 Ton Hydraulic 12V Car Floor Jack with long cord (Max height 360mm)",
@@ -328015,7 +328061,7 @@
         "price": 843.0
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B09VNP9H9W": {
     "title": "Nido 1+ Milk Powder 576g",
@@ -328063,7 +328109,7 @@
         "price": 338.95
       }
     ],
-    "last_seen": 1795142687
+    "last_seen": 1795146040
   },
   "B0GXS961JT": {
     "title": "Fantastic-Kids-Toys 13-in-1 Baby Health Care Kit - Completely Safe and BPA Free Materials - Professional Design to Protect Your Baby's Tender Skin and Nails by Fantastic-Kids-Toys",
@@ -328187,7 +328233,7 @@
         "price": 112.95
       }
     ],
-    "last_seen": 1795142517
+    "last_seen": 1795145892
   },
   "B0FY2R91P7": {
     "title": "Fresh Farm Old Romy Cheese 250 g",
@@ -329095,7 +329141,7 @@
         "price": 429.99
       }
     ],
-    "last_seen": 1795142673
+    "last_seen": 1795146008
   },
   "B0HQHHC47K": {
     "title": "Women Lingerie Different Design Sexy Sexy Feminine Look Special Times Code 577 AL",
@@ -330403,7 +330449,7 @@
         "price": 12149.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0GCNS5NMN": {
     "title": "XIAOMI Redmi Note 15 Pro 5G Smartphone (12+512 GB) – 6580 mAh Battery, IP66/IP68 Dust & Water Protection, 200 MP Camera, 6.83\" AMOLED Display, Black",
@@ -330967,7 +331013,7 @@
         "price": 750.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145976
   },
   "B0D4DG1XDJ": {
     "title": "Marble Effect Self Adhesive Wallpaper (2m x 60cm) Vinyl Strong and Waterproof - New Look for Kitchen, Bathroom Countertops, Tables and Furniture, Now Exclusive in Al-Isra (White & Grey)",
@@ -360623,7 +360669,7 @@
         "price": 28.73
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0DD8CSRFH": {
     "title": "Coloring Book 24 Professional Drawing Suitable For Adults And Kids Gifted Multi Shapes (Orange)",
@@ -361531,7 +361577,7 @@
         "price": 880.48
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145979
   },
   "B0G49X9K8G": {
     "title": "Naughty Bunny Run Behind Your Baby And Make A Sound Fun Toy For Unisex Children Contains (Assoreted)",
@@ -371883,7 +371929,7 @@
         "price": 188.34
       }
     ],
-    "last_seen": 1795142683
+    "last_seen": 1795146037
   },
   "B0DF6NQX5V": {
     "title": "Philips Avent Ultra Air Soother, For Girls and Boys, 0-6 Months",
@@ -374175,7 +374221,7 @@
         "price": 59849.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0F549C7WZ": {
     "title": "Redragon Wired Mechanical Keyboard FIZZ K617 60%, Red Switches, No-Slip Stand, Vibrant RGB, Hot-Swappable, 20 Presets Backlighting, Detachable Type-C Cable, English Layout, (White - Blue)",
@@ -374331,7 +374377,7 @@
         "price": 68999.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0HC4FT1QS": {
     "title": "HONOR X7e Plus 5G Smartphone, 6GB RAM + 128GB Storage, 8100mAh Battery, Snapdragon 4 Gen 4, 6.87\" 120Hz Display, 50MP AI Camera, IP69K, Dual SIM, Meteor Silver +Earbuds X7e, Tax paid, 1 year warranty",
@@ -374815,7 +374861,7 @@
         "price": 31900.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0FQWSYP17": {
     "title": "JK Type Screen Replacement Compatible with iPhone X",
@@ -375539,7 +375585,7 @@
         "price": 1700.0
       }
     ],
-    "last_seen": 1795142657
+    "last_seen": 1795145976
   },
   "B0GMCL4STL": {
     "title": "True Gold Silicone Fork & Spoon Set-4+ months-Super Soft Silicone",
@@ -384123,7 +384169,7 @@
         "price": 448.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0FBRPVXXV": {
     "title": "HONOR 400 Pro 5G, 12GB RAM, 512GB Storage, Snapdragon 8 Gen 2, Midnight Black |1 year manufacturer warranty, Tax paid, 1 year warranty",
@@ -384367,7 +384413,7 @@
         "price": 48888.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0GTB4HMBY": {
     "title": "15-inch MacBook Air: Apple M5 chip with 10‑core CPU and 10‑core GPU, 16GB, 512GB SSD - Sky Blue",
@@ -384507,7 +384553,7 @@
         "price": 68.0
       }
     ],
-    "last_seen": 1795142520
+    "last_seen": 1795145908
   },
   "B0FLDK16XX": {
     "title": "Samsung Galaxy A17 5G, Android Smartphone, 256GB Storage, 8GB RAM, Blue, 6x OS Upgrades, Large Display, 50MP OIS Camera",
@@ -384535,7 +384581,7 @@
         "price": 17299.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0G87WPYMP": {
     "title": "Wayfare",
@@ -401015,7 +401061,7 @@
         "price": 5956.5
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0GQWJC2VZ": {
     "title": "Apple iPhone 17e 512GB: 6.1-inch Super Retina XDR Display, A19 Chip, All-Day Battery Life, 48MP Fusion Camera; Black",
@@ -402267,7 +402313,7 @@
         "price": 70750.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0DSLSCCM8": {
     "title": "Amazon.eg product",
@@ -402283,7 +402329,7 @@
         "price": 67999.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145870
   },
   "B0GQCB3GLH": {
     "title": "Samsung Galaxy S26+ AI Phone, 256GB Storage, 12GB RAM, Customized AP, Built-in Privacy Display, Photo Assist, 200MP Camera, 5000mAh Battery, Cobalt Violet - 1 Year Warranty/Local Version",
@@ -407931,7 +407977,7 @@
         "price": 234.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B097B2XYV1": {
     "title": "6/8/10mm Natural Stone Beads Energy Crystal Healing Power Semi-precious Gemstone Round Loose Beads for Jewelry Making",
@@ -408235,7 +408281,7 @@
         "price": 300.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0DJTC4NJM": {
     "title": "[Country] Flag 90 cm x 150 cm, Large with Pole Loop and Laces to Fasten, Lightweight, for Sports, Football, Buildings (Russia 1pc)",
@@ -409179,7 +409225,7 @@
         "price": 23999.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0FQFH7JVK": {
     "title": "Apple iPhone 17 Pro (256 GB) - Cosmic Orange with Face ID | Tax Paid | 2 Years Official Warranty",
@@ -409243,7 +409289,7 @@
         "price": 1699.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0HJNNQWMJ": {
     "title": "Replacement Ear Pads Compatible with JBL Live 650BTNC / 660NC - Soft Memory Foam Cushions, Comfortable Protein Leather Ear Cups (Black)",
@@ -414723,7 +414769,7 @@
         "price": 68000.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0GTWFFH1W": {
     "title": "2PCS Invisible Laptop Stand – Ultra Slim Foldable Cooling Stand for Laptop & Tablet | Ergonomic Design, Strong Adhesive, Anti-Slip, Travel Friendly",
@@ -415239,7 +415285,7 @@
         "price": 78999.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145870
   },
   "B0HRDYPMVH": {
     "title": "psychic break book",
@@ -420023,7 +420069,7 @@
         "price": 8599.0
       }
     ],
-    "last_seen": 1795142407
+    "last_seen": 1795145838
   },
   "B0HRHR7583": {
     "title": "Fashion Square Youth Sunglasses, Shiny Red Clear Plastic Frame",
@@ -420307,7 +420353,7 @@
         "price": 10449.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B07MMFCV2D": {
     "title": "Garnier Skinactive Micellar Cleansing Water With Moroccan Argan Oil 100Ml",
@@ -422367,7 +422413,7 @@
         "price": 1999.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0HN7C53JK": {
     "title": "Black Croc-Embossed Patent Tote Handbag with Top Handles",
@@ -428751,7 +428797,7 @@
         "price": 7315.0
       }
     ],
-    "last_seen": 1795142421
+    "last_seen": 1795145813
   },
   "B07M7NKWLD": {
     "title": "APC by Schneider Electric UPS BVS-500VA-AVR-230V-BVS500I-GR",
@@ -429471,7 +429517,7 @@
         "price": 62.1
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0HQYJC637": {
     "title": "Rawnaq Car Polish Spray 220 ml with Microfiber Towel, Car and Surface Polish Kit, Bubble Gum Scent",
@@ -429487,7 +429533,7 @@
         "price": 62.1
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0HQY687Q9": {
     "title": "Rawnaq Car Polish Spray 220 ml with Microfiber Towel, Car and Surface Polish Kit, Vanilla Scent",
@@ -429503,7 +429549,7 @@
         "price": 62.1
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0HPG7N7WF": {
     "title": "Rawnaq Car Air Freshener Spray 220 ml for Car and Home, Long Lasting Premium Fragrance, Ocean Scent",
@@ -430871,7 +430917,7 @@
         "price": 152.0
       }
     ],
-    "last_seen": 1795142615
+    "last_seen": 1795145954
   },
   "B0HQYC8H82": {
     "title": "Rawnaq Car Polish Spray 220 ml with Microfiber Towel, Car and Surface Polish Kit, Lavender Scent",
@@ -433975,7 +434021,7 @@
         "price": 296.1
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B09SJ3S7JG": {
     "title": "SteelSeries Apex 3 TKL RGB Gaming Keyboard - Compact Tenkeyless Form Factor - 8 Zone RGB Lighting - IP32 Water and Dust Resistant - Silent Gaming Switch - Anti-Ghosting",
@@ -434367,7 +434413,7 @@
         "price": 1822.35
       }
     ],
-    "last_seen": 1795142632
+    "last_seen": 1795145954
   },
   "B0DGRX5H2M": {
     "title": "Gold/Silver Bamboo Bangle Bracelets Stylish Simple Thin Open Bangle Bracelets Boho Vintage Cuff Bangle Adjustable for Women",
@@ -434423,7 +434469,7 @@
         "price": 72.0
       }
     ],
-    "last_seen": 1795142494
+    "last_seen": 1795145892
   },
   "B09W37PYPW": {
     "title": "Les Secrets Seven Spices 140 g",
@@ -434671,7 +434717,7 @@
         "price": 325.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0H4P4H8M4": {
     "title": "Women's Camisole Cami HAN-besha-310",
@@ -438787,7 +438833,7 @@
         "price": 77.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0FBKCSVKP": {
     "title": "Next store",
@@ -438803,7 +438849,7 @@
         "price": 152.9
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0HJB1N4MC": {
     "title": "iPhone Duo 256GB Night Sky",
@@ -438987,7 +439033,7 @@
         "price": 13888.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0HKXKGP9B": {
     "title": "Zone Shop Women's Mini Shoulder Bag Stylish Crossbody Bag With Shoulder Strap And Gold Metal Detail For Daily Use And Outdoor",
@@ -439067,7 +439113,7 @@
         "price": 103.0
       }
     ],
-    "last_seen": 1795142342
+    "last_seen": 1795145790
   },
   "B0DPVBXL1J": {
     "title": "COUGAR-EGY Slim Laptop Backpack for School, Travel, and Business - Unisex Bag for Women and Men - Model: s33",
@@ -439115,7 +439161,7 @@
         "price": 2346.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0F272WSTS": {
     "title": "Wireless Earbuds Professional Smart Touch Control White",
@@ -439147,7 +439193,7 @@
         "price": 8599.0
       }
     ],
-    "last_seen": 1795142585
+    "last_seen": 1795145930
   },
   "B0BNCBFPW1": {
     "title": "H HANSEL HOME Bamboo Cutting Board, Kitchen Board, Resistant, Antiseptic, Ideal for Meats, Vegetables, Cheese and Bread, 30 x 20 x 1.5 cm",
@@ -439163,7 +439209,7 @@
         "price": 2500.0
       }
     ],
-    "last_seen": 1795142577
+    "last_seen": 1795145930
   },
   "B0892T45D7": {
     "title": "Premium Expandable Drawer Organizer- 100% Organic Bamboo Cutlery and Utensil Tray- Perfect For The , Bathroom, Desk, etc- Adjustable Drawer Divider with 7 Compartments",
@@ -439195,7 +439241,7 @@
         "price": 2999.0
       }
     ],
-    "last_seen": 1795142690
+    "last_seen": 1795146037
   },
   "B0HS7Z56B2": {
     "title": "High Quality Floor Mats Imported Custom Fit for Geely Coolray Premium TPE Car Mats for Geely Coolray",
@@ -441819,7 +441865,7 @@
         "price": 10200.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0DRHSSX25": {
     "title": "Dell Inspiron 14-7440 2n1 Laptop - Intel Core 5 120U 10Cores, 8GB DDR5-5200 RAM, 512GB SSD, Intel Graphics, 14\" FHD (1920x1200) 60Hz WVA IPS 250 nit ComfortView Touch, Backlit, FinderPrint, Windows 11",
@@ -441835,7 +441881,7 @@
         "price": 46999.0
       }
     ],
-    "last_seen": 1795142358
+    "last_seen": 1795145813
   },
   "B0HHSKFYR2": {
     "title": "Premium Floor Mats Imported for Ha.Val Julian Domestic Assembly 2026–2027 Premium TPE Car Mats for HavaaI Jolion 2026-2027",
@@ -441915,7 +441961,7 @@
         "price": 2250.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145870
   },
   "B0816P5T8P": {
     "title": "Amazon.eg product",
@@ -441947,7 +441993,7 @@
         "price": 43299.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145870
   },
   "B0HLY83YGX": {
     "title": "Amazon.eg product",
@@ -441963,6 +442009,326 @@
         "price": 112230.0
       }
     ],
-    "last_seen": 1795142603
+    "last_seen": 1795145870
+  },
+  "B0G6DJLR4K": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0G6DJLR4K",
+    "last_price": 288.0,
+    "lowest_price": 288.0,
+    "highest_price": 288.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 288.0
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B08N4HFCJ4": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B08N4HFCJ4",
+    "last_price": 37777.0,
+    "lowest_price": 37777.0,
+    "highest_price": 37777.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 37777.0
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0FQG8RX96": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0FQG8RX96",
+    "last_price": 88990.0,
+    "lowest_price": 88990.0,
+    "highest_price": 88990.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 88990.0
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0GR1KD189": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0GR1KD189",
+    "last_price": 83699.0,
+    "lowest_price": 83699.0,
+    "highest_price": 83699.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 83699.0
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0CN6QG9XR": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0CN6QG9XR",
+    "last_price": 17800.0,
+    "lowest_price": 17800.0,
+    "highest_price": 17800.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 17800.0
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0GW34XLJ1": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0GW34XLJ1",
+    "last_price": 2880.0,
+    "lowest_price": 2880.0,
+    "highest_price": 2880.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 2880.0
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0DC9NCRHQ": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0DC9NCRHQ",
+    "last_price": 6304.03,
+    "lowest_price": 6304.03,
+    "highest_price": 6304.03,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 6304.03
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0CWV9LST4": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0CWV9LST4",
+    "last_price": 6945.0,
+    "lowest_price": 6945.0,
+    "highest_price": 6945.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 6945.0
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0BXPLCQPM": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0BXPLCQPM",
+    "last_price": 478.44,
+    "lowest_price": 478.44,
+    "highest_price": 478.44,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 478.44
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0HKKD9Z7G": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0HKKD9Z7G",
+    "last_price": 1666.0,
+    "lowest_price": 1666.0,
+    "highest_price": 1666.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 1666.0
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0GNSCYZ57": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0GNSCYZ57",
+    "last_price": 3592.85,
+    "lowest_price": 3592.85,
+    "highest_price": 3592.85,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 3592.85
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0GXZYQCCM": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0GXZYQCCM",
+    "last_price": 107.1,
+    "lowest_price": 107.1,
+    "highest_price": 107.1,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 107.1
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B088FHNPRZ": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B088FHNPRZ",
+    "last_price": 1601.11,
+    "lowest_price": 1601.11,
+    "highest_price": 1601.11,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 1601.11
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0F8P7TCLK": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0F8P7TCLK",
+    "last_price": 2200.5,
+    "lowest_price": 2200.5,
+    "highest_price": 2200.5,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 2200.5
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0DF6LCZFK": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0DF6LCZFK",
+    "last_price": 731.73,
+    "lowest_price": 731.73,
+    "highest_price": 731.73,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 731.73
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0GDYKCQC1": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0GDYKCQC1",
+    "last_price": 1068.0,
+    "lowest_price": 1068.0,
+    "highest_price": 1068.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 1068.0
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0GNT18J5Y": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0GNT18J5Y",
+    "last_price": 3592.85,
+    "lowest_price": 3592.85,
+    "highest_price": 3592.85,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 3592.85
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B09MNT8QT6": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B09MNT8QT6",
+    "last_price": 589.5,
+    "lowest_price": 589.5,
+    "highest_price": 589.5,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 589.5
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0CXPWMSX6": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0CXPWMSX6",
+    "last_price": 2700.0,
+    "lowest_price": 2700.0,
+    "highest_price": 2700.0,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 2700.0
+      }
+    ],
+    "last_seen": 1795145870
+  },
+  "B0GL3YW8DF": {
+    "title": "Amazon.eg product",
+    "url": "https://www.amazon.eg/dp/B0GL3YW8DF",
+    "last_price": 517.4,
+    "lowest_price": 517.4,
+    "highest_price": 517.4,
+    "last_alerted_price": null,
+    "last_alerted_used_price": null,
+    "history": [
+      {
+        "timestamp": 1795145870,
+        "price": 517.4
+      }
+    ],
+    "last_seen": 1795145870
   }
 }
