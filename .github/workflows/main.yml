@@ -40,8 +40,11 @@ jobs:
 
       - name: Save Price History
         run: |
-          git config --local user.email "bot@github.com"
-          git config --local user.name "AmazonBot"
-          git add price_history.json seen_deals.json scan_state.json
-          git diff --staged --quiet || git commit -m "Update price history"
-          git push
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Update price history"
+            git pull --rebase --autostash origin main
+            git push origin main
+          fi
