@@ -18,10 +18,8 @@ load_dotenv()
 
 BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '').strip()
 CHAT_ID = os.getenv('TELEGRAM_CHAT_ID', '').strip()
-MIN_DISCOUNT = float(os.getenv('MIN_DISCOUNT', '60'))
-PRICE_DROP_ALERT_PERCENT = float(os.getenv('PRICE_DROP_ALERT_PERCENT', '49'))
 USED_VS_NEW_ALERT_PERCENT = float(os.getenv('USED_VS_NEW_ALERT_PERCENT', '35'))
-ALERT_THRESHOLDS = sorted({float(x.strip()) for x in os.getenv('ALERT_THRESHOLDS', '30,50,60,70,80').split(',') if x.strip()})
+PRICE_DROP_ALERT_PERCENT = float(os.getenv('PRICE_DROP_ALERT_PERCENT', '49'))
 PRICE_HISTORY_MAX_ENTRIES = int(os.getenv('PRICE_HISTORY_MAX_ENTRIES', '365'))
 CHECK_EVERY_MINUTES = int(os.getenv('CHECK_EVERY_MINUTES', '15'))
 NORMAL_SCAN_PAGES = int(os.getenv('NORMAL_SCAN_PAGES', '10'))
@@ -33,7 +31,6 @@ SIMILARITY_THRESHOLD = float(os.getenv('SIMILARITY_THRESHOLD', '0.80'))
 REQUEST_DELAY_MIN = float(os.getenv('REQUEST_DELAY_MIN', '2.5'))
 REQUEST_DELAY_MAX = float(os.getenv('REQUEST_DELAY_MAX', '4.5'))
 SEND_START_MESSAGE = os.getenv('SEND_START_MESSAGE', '1').strip() == '1'
-SEND_CYCLE_SUMMARY = os.getenv('SEND_CYCLE_SUMMARY', '0').strip() == '1'
 
 raw_urls = os.getenv('AMAZON_URLS', '').replace(',', '\n').splitlines()
 URLS = [
@@ -190,38 +187,25 @@ def first_href(node, selectors):
     return None
 
 
-def is_used_section_url(url):
-    u = url.lower()
-    keywords = [
-        'warehouse', 'used', 'renewed', 'open-box', 'refurbished',
-        'p_n_condition-type', '15164964031', '15164965031'
-    ]
-    return any(k in u for k in keywords)
-
-
-def extract_used_or_secondary_price(card, visible_text, title):
-    grocery_keywords = [
-        'oil', 'zayt', 'زيت', 'grocery', 'بقالة', 'food', 'طعام', 'chocolate', 'شوكولاتة',
-        'tea', 'شاي', 'coffee', 'قهوة', 'sugar', 'سكر', 'rice', 'أرز', 'milk', 'حليب', 'laundry',
-        'detergent', 'مسحوق', 'gel', 'جل', 'oxi', 'تيد', 'persil', 'hygiene', 'wipes', 'مناديل',
-        'yogurt', 'زبادي', 'okra', 'بامية', 'frozen', 'مجمد', 'suisse', 'snack', 'سناك'
-    ]
-    title_lower = title.lower()
-    if any(kw in title_lower for kw in grocery_keywords):
-        return None
+def extract_new_reference_price(card, visible_text, strike_price):
+    """يحاول استخراج سعر النسخة الجديدة للمقارنة مع سعر المستعمل"""
+    candidates = []
+    if strike_price and strike_price > 0:
+        candidates.append(strike_price)
 
     patterns = [
-        r'More Buying Choices.*?(?:EGP|E£|جنيه)\s*([\d,]+(?:\.\d+)?)',
-        r'([\d,]+(?:\.\d+)?)\s*(?:EGP|E£|جنيه).*?(?:used|مستعمل)',
-        r'خيارات شراء أخرى.*?(?:EGP|E£|جنيه)?\s*([\d,]+(?:\.\d+)?)',
+        r'(?:New|جديد)\s*(?:from|:)?\s*(?:EGP|E£|جنيه)?\s*([\d,]+(?:\.\d+)?)',
+        r'List\s*Price\s*:?\s*(?:EGP|E£|جنيه)?\s*([\d,]+(?:\.\d+)?)',
+        r'سعر\s*الجديد\s*:?\s*(?:EGP|E£|جنيه)?\s*([\d,]+(?:\.\d+)?)',
     ]
     for pat in patterns:
         m = re.search(pat, visible_text, flags=re.I)
         if m:
             val = normalize_price(m.group(1))
             if val and val > 0:
-                return val
-    return None
+                candidates.append(val)
+
+    return max(candidates) if candidates else None
 
 
 def extract_promotions(visible_text):
@@ -256,41 +240,10 @@ def extract_promotions(visible_text):
                     promo_badges.append(f"كوبون خصم {coupon_amt:.0f} EGP")
                     break
 
-    promo_patterns = [
-        r'(buy\s*\d+\s*get\s*\d+[^.,;\n]{0,30})',
-        r'(b\d+g\d+[^.,;\n]{0,30})',
-        r'(extra\s*\d{1,2}\s*%\s*(?:off|discount)[^.,;\n]{0,35})',
-        r'((?:get|save)\s*(?:an\s*)?extra\s*\d{1,2}\s*%[^.,;\n]{0,35})',
-        r'(\d{1,2}\s*%\s*(?:off|discount)\s*(?:at\s*checkout|on\s*payment|with\s*(?:code|promo))[^.,;\n]{0,35})',
-        r'(save\s*\d{1,2}\s*%[^.,;\n]{0,35})',
-        r'(اشترِ?\s*\d+[^.,;\n]{0,35})',
-        r'(خصم\s*(?:إضافي|فوري)?\s*\d{1,2}\s*%[^.,;\n]{0,35})',
-        r'(خصم\s*\d{1,2}\s*%\s*(?:عند\s*الدفع|عند\s*الشراء|بكود)[^.,;\n]{0,35})',
-        r'(وفر\s*\d{1,2}\s*%[^.,;\n]{0,35})',
-        r'(عرض\s*إضافي[^.,;\n]{0,35})',
-    ]
-    for pat in promo_patterns:
-        for m in re.finditer(pat, visible_text, flags=re.I):
-            badge_text = re.sub(r'\s+', ' ', m.group(1)).strip()
-            if badge_text and badge_text.lower() not in [b.lower() for b in promo_badges]:
-                promo_badges.append(badge_text)
-
-    fallback_keywords = [
-        'at checkout', 'on payment', 'extra discount', 'promo code',
-        'عند الدفع', 'عند الشراء', 'خصم إضافي', 'كود خصم', 'هدية مجانية', 'مجاناً'
-    ]
-    if not promo_badges:
-        low = visible_text.lower()
-        for kw in fallback_keywords:
-            if kw in low:
-                promo_badges.append(f"عرض إضافي ({kw})")
-                break
-
     return {
         'coupon_pct': coupon_pct,
         'coupon_amt': coupon_amt,
-        'promo_text': ' | '.join(promo_badges[:4]) if promo_badges else None,
-        'has_multi_buy_or_extra': bool(promo_badges),
+        'promo_text': ' | '.join(promo_badges) if promo_badges else None,
     }
 
 
@@ -338,7 +291,6 @@ def candidate_cards(soup):
         '[data-component-type="s-search-result"]',
         '[data-testid="deal-card"]',
         '[data-testid="product-card"]',
-        '.DealGridItem-module__dealItemDisplayGrid',
         '.a-cardui',
         '.a-section.a-spacing-base',
         '[data-asin]',
@@ -369,61 +321,60 @@ def parse_products(html):
             product_url = clean_url(href) if href else asin_to_url(asin)
             if not product_url:
                 continue
+
             title = first_text(card, [
                 'h2 span', 'h2', '[data-testid="product-title"]',
                 '.a-size-base-plus', '.a-size-medium', '.a-truncate-full', 'span.a-text-normal'
-            ]) or f'Amazon.eg product {asin or ""}'.strip()
+            ]) or f'Amazon.eg Used Product {asin or ""}'.strip()
+
+            visible = card.get_text(' ', strip=True)
+            low_check = f"{title} {visible} {href or ''}".lower()
+            if any(k in low_check for k in [
+                'amazon now', 'now.amazon', '/alm/', '/now/',
+                'delivery in 15', 'delivery in 30', 'delivery in 60',
+                'توصيل خلال 15', 'توصيل خلال 30', 'توصيل خلال 60',
+                'أمازون ناو', 'امازون ناو'
+            ]):
+                continue
+
             current = normalize_price(first_text(card, [
                 '.a-price:not(.a-text-price) .a-offscreen',
                 '.a-price .a-offscreen',
                 '[data-testid="deal-price"]',
                 '.a-price-whole',
             ]))
-            old = normalize_price(first_text(card, [
+            strike_price = normalize_price(first_text(card, [
                 '.a-price.a-text-price .a-offscreen',
                 'span[data-a-strike="true"] .a-offscreen',
                 '.a-text-price .a-offscreen',
                 '.a-price[data-a-strike="true"] .a-offscreen',
             ]))
-            visible = card.get_text(' ', strip=True)
-            used_price = extract_used_or_secondary_price(card, visible, title)
+
+            new_ref_price = extract_new_reference_price(card, visible, strike_price)
             promo_info = extract_promotions(visible)
 
-            discount = calculate_discount(old, current)
-            if discount is None:
-                for pattern in [
-                    r'(\d{1,2})\s*%\s*off',
-                    r'save\s*(\d{1,2})\s*%',
-                    r'خصم\s*(\d{1,2})\s*%',
-                    r'(\d{1,2})\s*%\s*خصم',
-                ]:
-                    m = re.search(pattern, visible, flags=re.I)
-                    if m:
-                        discount = float(m.group(1))
-                        break
-
-            is_warehouse_or_renewed = any(
-                w in title.lower() or w in visible.lower()
-                for w in ['renewed', 'مجدد', 'مستعمل', 'warehouse', 'like new', 'open box']
-            )
-
             if current and current > 0:
-                if not old and discount is not None and 0 < discount < 100:
-                    old = round(current / (1 - discount / 100), 2)
-
                 effective_current = current
                 if promo_info['coupon_pct']:
                     effective_current = round(current * (1 - promo_info['coupon_pct'] / 100.0), 2)
                 elif promo_info['coupon_amt'] and current > promo_info['coupon_amt']:
                     effective_current = round(current - promo_info['coupon_amt'], 2)
 
-                if effective_current < current:
-                    if old and old > effective_current:
-                        discount = calculate_discount(old, effective_current)
-                    elif discount is not None and promo_info['coupon_pct']:
-                        discount = min(99.0, round(discount + promo_info['coupon_pct'], 1))
-                    elif promo_info['coupon_pct']:
-                        discount = promo_info['coupon_pct']
+                discount_vs_new = calculate_discount(new_ref_price, effective_current) if (new_ref_price and new_ref_price > effective_current) else None
+
+                if discount_vs_new is None:
+                    for pattern in [
+                        r'(\d{1,2})\s*%\s*off',
+                        r'save\s*(\d{1,2})\s*%',
+                        r'خصم\s*(\d{1,2})\s*%',
+                        r'(\d{1,2})\s*%\s*خصم',
+                    ]:
+                        m = re.search(pattern, visible, flags=re.I)
+                        if m:
+                            discount_vs_new = float(m.group(1))
+                            if not new_ref_price and 0 < discount_vs_new < 100:
+                                new_ref_price = round(effective_current / (1 - discount_vs_new / 100), 2)
+                            break
 
                 products.append({
                     'asin': extract_asin(card, product_url),
@@ -431,21 +382,17 @@ def parse_products(html):
                     'url': product_url,
                     'current': effective_current,
                     'listed_price': current if effective_current < current else None,
-                    'old': old,
-                    'discount': discount,
-                    'used_price': used_price if (used_price and used_price < effective_current) else None,
-                    'is_used_item': is_warehouse_or_renewed,
+                    'new_price': new_ref_price if (new_ref_price and new_ref_price > effective_current) else None,
+                    'discount_vs_new': discount_vs_new,
                     'promo_text': promo_info['promo_text'],
-                    'has_extra_promo': promo_info['has_multi_buy_or_extra'],
                 })
         except Exception as e:
             logging.debug('Parse error: %s', e)
+
     unique = {}
     for product in products:
         key = product['asin'] or product['url']
-        current_discount = product.get('discount') or 0
-        saved_discount = unique.get(key, {}).get('discount') or 0
-        if key not in unique or current_discount > saved_discount:
+        if key not in unique or product['current'] < unique[key]['current']:
             unique[key] = product
     return list(unique.values())
 
@@ -458,45 +405,40 @@ def fetch(url):
     return r.text
 
 
-def format_deal(product, reason, last_price=None, highest_price=None, avg_price=None, real_drop_percent=None, used_saving_percent=None, is_used_section=False):
+def format_used_deal(product, reason, is_new_arrival=False, last_price=None, drop_vs_last=None):
     safe_title = html_lib.escape(product['title'])
     safe_reason = html_lib.escape(reason)
     url = product['url']
 
-    header = "♻️ <b>قسم المستعمل / مجدد - Amazon.eg</b>" if (used_saving_percent or product.get('is_used_item') or is_used_section) else "🔥 <b>تنبيه انخفاض سعر - Amazon.eg</b>"
+    header = "🆕♻️ <b>منتج جديد في قسم المستعمل - Amazon.eg</b>" if is_new_arrival else "🔥♻️ <b>فرصة خصم قوية في المستعمل - Amazon.eg</b>"
 
     lines = [
         header,
         "",
         f"📦 <b>{safe_title}</b>",
         "",
-        f"💰 <b>السعر الصافي: {product['current']:.2f} EGP</b>",
+        f"💰 <b>سعر المستعمل الحالي: {product['current']:.2f} EGP</b>",
     ]
 
     if product.get('listed_price'):
         lines.append(f"🏷 السعر قبل الكوبون: {product['listed_price']:.2f} EGP")
 
     if product.get('promo_text'):
-        lines.append(f"🎁 <b>عرض إضافي / كوبون: {html_lib.escape(product['promo_text'])}</b>")
+        lines.append(f"🎁 <b>كوبون / عرض إضافي: {html_lib.escape(product['promo_text'])}</b>")
 
-    if product.get('used_price') and used_saving_percent:
-        lines.append(f"🏷 <b>سعر المستعمل: {product['used_price']:.2f} EGP</b>")
-        lines.append(f"⚡ <b>أرخص من الجديد بـ: {used_saving_percent:.1f}%</b>")
+    if product.get('new_price'):
+        lines.append(f"🆕 سعر المنتج جديد (المرجعي): {product['new_price']:.2f} EGP")
+
+    if product.get('discount_vs_new') is not None:
+        lines.append(f"⚡ <b>الفرق عن الجديد: توفير {product['discount_vs_new']:.1f}%</b>")
 
     if last_price and last_price != product['current']:
-        lines.append(f"📉 آخر سعر مسجل: {last_price:.2f} EGP")
-    if avg_price and avg_price > product['current']:
-        lines.append(f"📊 متوسط السعر السابق: {avg_price:.2f} EGP")
-    if highest_price and highest_price > product['current'] and highest_price != last_price:
-        lines.append(f"📈 أعلى سعر مسجل: {highest_price:.2f} EGP")
-    if product.get('old'):
-        lines.append(f"❌ السعر المشطوب: {product['old']:.2f} EGP")
-    if product.get('discount') is not None:
-        lines.append(f"📢 إجمالي الخصم المحسوب: {product['discount']:.1f}%")
-    if real_drop_percent is not None and real_drop_percent > 0:
-        lines.append(f"✅ <b>نسبة الهبوط الحقيقي: {real_drop_percent:.1f}%</b>")
+        lines.append(f"📉 آخر سعر مستعمل مسجل: {last_price:.2f} EGP")
 
-    lines.append(f"💡 سبب التنبيه: {safe_reason}")
+    if drop_vs_last and drop_vs_last > 0:
+        lines.append(f"📉 <b>هبوط إضافي عن آخر سعر: {drop_vs_last:.1f}%</b>")
+
+    lines.append(f"💡 سبب الإشعار: {safe_reason}")
     lines.append("")
     lines.append(f"🔗 <a href=\"{url}\">اضغط هنا لفتح المنتج على أمازون</a>")
     lines.append(url)
@@ -511,11 +453,9 @@ def scan_url(base_url, max_pages, deals_state, price_history):
     url_notifications = 0
     pages_scanned = 0
     products_parsed_total = 0
-    qualifying_total = 0
-    used_section = is_used_section_url(base_url)
 
     logging.info('=' * 72)
-    logging.info('Starting URL (used_section=%s): %s', used_section, base_url)
+    logging.info('Starting Used Section URL: %s', base_url)
 
     for page in range(1, max_pages + 1):
         url = get_page_url(base_url, page)
@@ -534,8 +474,6 @@ def scan_url(base_url, max_pages, deals_state, price_history):
 
         products = parse_products(html)
         products_parsed_total += len(products)
-        qualifying = [p for p in products if (p.get('discount') or 0) >= MIN_DISCOUNT]
-        qualifying_total += len(qualifying)
 
         has_product_evidence = diag['product_link_count'] > 0 or diag['search_card_count'] > 0
         if diag['explicit_no_results'] or not has_product_evidence:
@@ -563,7 +501,6 @@ def scan_url(base_url, max_pages, deals_state, price_history):
         for product in products:
             asin = product['asin']
             current_price = product['current']
-            used_price = product.get('used_price')
             history = price_history.get(asin, {})
             history_list = history.get('history', [])
 
@@ -572,73 +509,49 @@ def scan_url(base_url, max_pages, deals_state, price_history):
                 legacy = deals_state.get(asin, {})
                 last_price = legacy.get('current')
 
-            past_prices = [float(item['price']) for item in history_list if item.get('price') is not None]
-            if last_price is not None and not past_prices:
-                past_prices = [float(last_price)]
-
-            highest_price = max(past_prices) if past_prices else None
-            lowest_price = min(past_prices) if past_prices else None
-            avg_price = (sum(past_prices) / len(past_prices)) if past_prices else None
-
-            drop_vs_last = calculate_discount(last_price, current_price) if last_price else None
-            drop_vs_avg = calculate_discount(avg_price, current_price) if avg_price else None
-            drop_vs_high = calculate_discount(highest_price, current_price) if highest_price else None
-
-            used_saving_percent = calculate_discount(current_price, used_price) if used_price else None
-            last_alerted_used_price = history.get('last_alerted_used_price')
-
-            real_drops = [d for d in (drop_vs_last, drop_vs_avg, drop_vs_high) if d is not None]
-            best_real_drop = max(real_drops) if real_drops else None
-
-            advertised_discount = product.get('discount')
-            effective_min_discount = max(30.0, MIN_DISCOUNT - 15.0) if product.get('has_extra_promo') else MIN_DISCOUNT
-            qualifies_by_badge = advertised_discount is not None and advertised_discount >= effective_min_discount
-
             first_seen = (not history) and (asin not in deals_state)
-            is_lower_than_last = last_price is not None and current_price < float(last_price)
+            discount_vs_new = product.get('discount_vs_new')
+            drop_vs_last = calculate_discount(last_price, current_price) if (last_price and last_price > current_price) else None
             last_alerted_price = history.get('last_alerted_price')
 
             reason = None
-            already_alerted_at_this_price = (
-                last_alerted_price is not None and current_price >= float(last_alerted_price)
-            )
+            is_new_arrival = False
 
-            if used_section and first_seen:
-                reason = 'منتج جديد نزل في قسم المستعمل / المجدد'
+            # 1) أي منتج ينزل جديد في قسم المستعمل يبعت إشعار فوراً
+            if first_seen:
+                is_new_arrival = True
+                if discount_vs_new is not None and discount_vs_new >= USED_VS_NEW_ALERT_PERCENT:
+                    reason = f'منتج جديد نزل في المستعمل بخصم كبير {discount_vs_new:.1f}% عن الجديد'
+                else:
+                    reason = 'منتج جديد نزل لأول مرة في قسم المستعمل'
+
+            # 2) ترشيح المنتج لو الخصم كبير بين الجديد والمستعمل أو نزل سعره أكتر
             elif (
-                used_price
-                and used_saving_percent is not None
-                and used_saving_percent >= USED_VS_NEW_ALERT_PERCENT
-                and (last_alerted_used_price is None or used_price < float(last_alerted_used_price))
+                discount_vs_new is not None
+                and discount_vs_new >= USED_VS_NEW_ALERT_PERCENT
+                and (last_alerted_price is None or current_price < float(last_alerted_price))
             ):
-                reason = f'نسخة مستعملة أرخص بـ {used_saving_percent:.1f}% من الجديد'
-                last_alerted_used_price = used_price
-            elif not already_alerted_at_this_price:
-                if drop_vs_last is not None and drop_vs_last >= PRICE_DROP_ALERT_PERCENT:
-                    reason = f'هبوط مفاجئ في السعر بنسبة {drop_vs_last:.1f}%'
-                elif is_lower_than_last and drop_vs_avg is not None and drop_vs_avg >= PRICE_DROP_ALERT_PERCENT:
-                    reason = f'تعديل سعر مخفي بنسبة {drop_vs_avg:.1f}% عن المتوسط'
-                elif first_seen and qualifies_by_badge:
-                    reason = f'عرض جديد بخصم {advertised_discount:.0f}%'
-                elif is_lower_than_last and product.get('promo_text') and qualifies_by_badge:
-                    reason = f'سعر منخفض مع عرض إضافي ({product["promo_text"]})'
+                reason = f'خصم كبير بين الجديد والمستعمل بنسبة {discount_vs_new:.1f}%'
+
+            elif (
+                drop_vs_last is not None
+                and drop_vs_last >= PRICE_DROP_ALERT_PERCENT
+                and (last_alerted_price is None or current_price < float(last_alerted_price))
+            ):
+                reason = f'هبوط إضافي في سعر المستعمل بنسبة {drop_vs_last:.1f}%'
 
             if reason:
                 telegram_send(
-                    format_deal(
+                    format_used_deal(
                         product,
                         reason,
+                        is_new_arrival=is_new_arrival,
                         last_price=last_price,
-                        highest_price=highest_price,
-                        avg_price=avg_price,
-                        real_drop_percent=best_real_drop,
-                        used_saving_percent=used_saving_percent,
-                        is_used_section=used_section,
+                        drop_vs_last=drop_vs_last,
                     )
                 )
                 url_notifications += 1
-                if not used_saving_percent:
-                    last_alerted_price = current_price
+                last_alerted_price = current_price
 
             if not history_list or last_price is None or float(last_price) != current_price:
                 history_list.append({'timestamp': now_ts(), 'price': current_price})
@@ -653,7 +566,6 @@ def scan_url(base_url, max_pages, deals_state, price_history):
                 'lowest_price': min(all_prices) if all_prices else current_price,
                 'highest_price': max(all_prices) if all_prices else current_price,
                 'last_alerted_price': last_alerted_price,
-                'last_alerted_used_price': last_alerted_used_price,
                 'history': history_list,
                 'last_seen': now_ts(),
             }
@@ -661,9 +573,8 @@ def scan_url(base_url, max_pages, deals_state, price_history):
             deals_state[asin] = {
                 'title': product['title'],
                 'current': current_price,
-                'used_price': used_price,
-                'old': product.get('old'),
-                'discount': product.get('discount'),
+                'old': product.get('new_price'),
+                'discount': discount_vs_new,
                 'promo_text': product.get('promo_text'),
                 'url': product['url'],
                 'last_seen': now_ts(),
@@ -680,7 +591,6 @@ def scan_url(base_url, max_pages, deals_state, price_history):
     return {
         'pages_scanned': pages_scanned,
         'products_parsed': products_parsed_total,
-        'qualifying_found': qualifying_total,
         'notifications': url_notifications,
     }
 
@@ -694,9 +604,9 @@ def run_cycle():
     max_pages = DEEP_SCAN_PAGES if deep_scan else NORMAL_SCAN_PAGES
     mode_name = 'DEEP' if deep_scan else 'NORMAL'
 
-    logging.info('Starting scan cycle | mode=%s | max_pages=%s | urls=%s', mode_name, max_pages, len(URLS))
+    logging.info('Starting Used Radar cycle | mode=%s | max_pages=%s | urls=%s', mode_name, max_pages, len(URLS))
 
-    totals = {'pages_scanned': 0, 'products_parsed': 0, 'qualifying_found': 0, 'notifications': 0}
+    totals = {'pages_scanned': 0, 'products_parsed': 0, 'notifications': 0}
     for base_url in URLS:
         res = scan_url(base_url, max_pages, deals_state, price_history)
         for k in totals:
@@ -707,7 +617,7 @@ def run_cycle():
     if deep_scan:
         scan_state['last_deep_scan_ts'] = now_ts()
     save_json(SCAN_STATE_FILE, scan_state)
-    logging.info('Completed scan cycle | totals=%s', totals)
+    logging.info('Completed Used Radar cycle | totals=%s', totals)
 
 
 def main():
@@ -721,7 +631,7 @@ def main():
         return
 
     if SEND_START_MESSAGE:
-        telegram_send('✅ <b>Amazon Bot Started (Coupons, Promos & Used Radar Enabled)</b>')
+        telegram_send('✅ <b>Amazon Used/Warehouse Radar Started</b>')
 
     while True:
         try:
