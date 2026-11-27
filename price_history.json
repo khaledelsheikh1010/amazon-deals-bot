@@ -17977,11 +17977,10 @@
   "B0DWLK9JJH": {
     "title": "Oraimo OSW-804 Smart Watch 5 Lite, 2.01\" TFT Display, HD Calling - Black",
     "url": "https://www.amazon.eg/dp/B0DWLK9JJH",
-    "last_price": 765.0,
-    "lowest_price": 727.93,
+    "last_price": 688.5,
+    "lowest_price": 688.5,
     "highest_price": 810.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": 526.5,
     "history": [
       {
         "timestamp": 1793432896,
@@ -18034,9 +18033,13 @@
       {
         "timestamp": 1795098115,
         "price": 765.0
+      },
+      {
+        "timestamp": 1795789434,
+        "price": 688.5
       }
     ],
-    "last_seen": 1795668622
+    "last_seen": 1795789529
   },
   "B09XVC72ZZ": {
     "title": "Mini Travel Electronics Accessories Bag, Universal Storage Bag for Small Electronics and Cables, Adapter, Battery, and More, black/Transparent, Compact",
@@ -76513,13 +76516,12 @@
     "last_seen": 1795208529
   },
   "B0HBNLP293": {
-    "title": "Oraimo",
+    "title": "Oraimo OSW-825N Watch 6RN Smartwatch, 1.39\" TFT, Bluetooth Calling - Black",
     "url": "https://www.amazon.eg/dp/B0HBNLP293",
-    "last_price": 999.0,
-    "lowest_price": 999.0,
+    "last_price": 899.1,
+    "lowest_price": 899.1,
     "highest_price": 1178.17,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793433609,
@@ -76532,9 +76534,13 @@
       {
         "timestamp": 1793859951,
         "price": 999.0
+      },
+      {
+        "timestamp": 1795789434,
+        "price": 899.1
       }
     ],
-    "last_seen": 1795668713
+    "last_seen": 1795789529
   },
   "B07B6ML1VJ": {
     "title": "SKMEI",
@@ -76651,11 +76657,10 @@
   "B0CYT4PJP9": {
     "title": "Oraimo Watch 2R Bluetooth Smart Watch for Men and Women, 1.39\" HD Fitness Tracker with Stepping Meter, Heart Rate Monitor, 120+ Sports Modes & Quick SMS Reply",
     "url": "https://www.amazon.eg/dp/B0CYT4PJP9",
-    "last_price": 958.0,
-    "lowest_price": 958.0,
+    "last_price": 854.1,
+    "lowest_price": 854.1,
     "highest_price": 1398.43,
     "last_alerted_price": null,
-    "last_alerted_used_price": 908.57,
     "history": [
       {
         "timestamp": 1793433609,
@@ -76812,9 +76817,13 @@
       {
         "timestamp": 1795556464,
         "price": 958.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 854.1
       }
     ],
-    "last_seen": 1795625426
+    "last_seen": 1795789529
   },
   "B0FMR7H8FT": {
     "title": "Oraimo OSW-807 Watch 6 Smartwatch, HD Display, BT Calling - Black",
@@ -77031,11 +77040,10 @@
   "B0CXMYJT8W": {
     "title": "Oraimo Watch 4 Plus OSW-801 Smart Watch, 2.01\" HD Display, Black",
     "url": "https://www.amazon.eg/dp/B0CXMYJT8W",
-    "last_price": 998.0,
-    "lowest_price": 998.0,
+    "last_price": 848.3,
+    "lowest_price": 848.3,
     "highest_price": 1208.12,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793433609,
@@ -77080,9 +77088,13 @@
       {
         "timestamp": 1795128325,
         "price": 998.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 848.3
       }
     ],
-    "last_seen": 1795668625
+    "last_seen": 1795789529
   },
   "B0HC55NTML": {
     "title": "Women's Quartz Wrist Watch, Brown Leather Strap and Gold Frame, Classic and Fashion Design, Precise Movement, Comfortable for Business and Occasions, Perfect Gift for Women and Girls.",
@@ -77415,11 +77427,12 @@
     "last_seen": 1793436042
   },
   "B0GS61XF2M": {
-    "title": "SKMEI",
+    "title": "SKMEI Men's 2401 Tactical Sports Watch, Dual Hand Digital Display, 50M Water Resistant, Alarm and Timer",
     "url": "https://www.amazon.eg/dp/B0GS61XF2M",
-    "last_price": 769.0,
-    "lowest_price": 769.0,
+    "last_price": 692.1,
+    "lowest_price": 692.1,
     "highest_price": 769.0,
+    "last_alerted_price": null,
     "history": [
       {
         "timestamp": 1793433618,
@@ -77428,9 +77441,13 @@
       {
         "timestamp": 1793436042,
         "price": 769.0
+      },
+      {
+        "timestamp": 1795789436,
+        "price": 692.1
       }
     ],
-    "last_seen": 1793436042
+    "last_seen": 1795789436
   },
   "B0BNPLYTHB": {
     "title": "FANMIS",
@@ -107353,9 +107370,10 @@
   "B00829FC72": {
     "title": "Deli Coloring Product Colored Pencil C113-24 Assorted",
     "url": "https://www.amazon.eg/dp/B00829FC72",
-    "last_price": 155.0,
-    "lowest_price": 155.0,
+    "last_price": 89.72,
+    "lowest_price": 89.72,
     "highest_price": 155.0,
+    "last_alerted_price": 89.72,
     "history": [
       {
         "timestamp": 1793433858,
@@ -107372,9 +107390,13 @@
       {
         "timestamp": 1793436295,
         "price": 155.0
+      },
+      {
+        "timestamp": 1795789518,
+        "price": 89.72
       }
     ],
-    "last_seen": 1793436295
+    "last_seen": 1795789518
   },
   "B0CN1GVWLB": {
     "title": "Bravo New Concord Notebook, Medium, 198 Sheets, Pink",
@@ -116683,9 +116705,10 @@
   "B0BTZ9WBQW": {
     "title": "YC FOOTBALL VEST Nebulin Men Sports Bra",
     "url": "https://www.amazon.eg/dp/B0BTZ9WBQW",
-    "last_price": 198.0,
-    "lowest_price": 198.0,
+    "last_price": 165.36,
+    "lowest_price": 165.36,
     "highest_price": 198.0,
+    "last_alerted_price": null,
     "history": [
       {
         "timestamp": 1793433984,
@@ -116694,9 +116717,13 @@
       {
         "timestamp": 1793436428,
         "price": 198.0
+      },
+      {
+        "timestamp": 1795789447,
+        "price": 165.36
       }
     ],
-    "last_seen": 1793436428
+    "last_seen": 1795789447
   },
   "B0HBN96FYL": {
     "title": "Meza",
@@ -138909,11 +138936,10 @@
   "B0DVZM99V8": {
     "title": "KIDSZONE Kids Digital Camera for 3-12 Years Old Boys/Girls, Pink with 32GB TF Card, Selfie Camera, Video, Puzzle Games, HD IPS Eye Protection Screen",
     "url": "https://www.amazon.eg/dp/B0DVZM99V8",
-    "last_price": 650.0,
+    "last_price": 629.1,
     "lowest_price": 599.0,
     "highest_price": 650.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793435278,
@@ -138934,9 +138960,13 @@
       {
         "timestamp": 1793521545,
         "price": 650.0
+      },
+      {
+        "timestamp": 1795789545,
+        "price": 629.1
       }
     ],
-    "last_seen": 1794667240
+    "last_seen": 1795789545
   },
   "B0G6M1V6QV": {
     "title": "1080 Power Strip 3 Outlets 5 Vertical USB Ports with Wireless Charging Pad 2500W 220V 250V Detachable Switch Charging Station for Office Home 750℃ Flame Retardant (Black)",
@@ -147559,11 +147589,10 @@
   "B0FMR6KPJG": {
     "title": "Oraimo OTW-324 SpaceBuds Lite Wireless Earbuds, 40H Playtime – Black",
     "url": "https://www.amazon.eg/dp/B0FMR6KPJG",
-    "last_price": 599.0,
-    "lowest_price": 550.0,
+    "last_price": 539.1,
+    "lowest_price": 539.1,
     "highest_price": 650.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514934,
@@ -147644,9 +147673,13 @@
       {
         "timestamp": 1795042179,
         "price": 599.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 539.1
       }
     ],
-    "last_seen": 1795502530
+    "last_seen": 1795789529
   },
   "B0C7CQT9ZS": {
     "title": "Anker Soundcore VI R50i True Wireless Earbuds with 10mm Drivers for Powerful Bass, Bluetooth 5.3, Long Playtime (30 Hours), Water Resistant, 2 Clear Mics, and 22 Preset EQs,18 Months Warranty",
@@ -147983,11 +148016,10 @@
   "B0DHHDRCVQ": {
     "title": "Oraimo OEB-311 Necklace Lite Wireless Neckband Earphones, ENC,30H – Black",
     "url": "https://www.amazon.eg/dp/B0DHHDRCVQ",
-    "last_price": 599.0,
-    "lowest_price": 599.0,
+    "last_price": 539.1,
+    "lowest_price": 539.1,
     "highest_price": 637.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514934,
@@ -148036,9 +148068,13 @@
       {
         "timestamp": 1795042182,
         "price": 599.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 539.1
       }
     ],
-    "last_seen": 1795668616
+    "last_seen": 1795789529
   },
   "B0CLPKWSHQ": {
     "title": "Joyroom JR-W020 20W PD 10000mAh Magnetic Wireless Power Bank - Black",
@@ -148191,11 +148227,10 @@
   "B00AHXXJVW": {
     "title": "TP-Link 300MBPS TL-WA850RE Wi-Fi Range Extender - White",
     "url": "https://www.amazon.eg/dp/B00AHXXJVW",
-    "last_price": 599.0,
-    "lowest_price": 599.0,
+    "last_price": 539.1,
+    "lowest_price": 539.1,
     "highest_price": 816.19,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514934,
@@ -148272,9 +148307,13 @@
       {
         "timestamp": 1795306877,
         "price": 599.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 539.1
       }
     ],
-    "last_seen": 1795668616
+    "last_seen": 1795789529
   },
   "B0GSVQJ1XX": {
     "title": "Samsung Galaxy A57 5G Android Smartphone, 256GB Storage, 8GB RAM, 6x OS Upgrades, Large Display, 50MP Camera, Long Battery Life, Awesome Navy - 1 Year Warranty/Local Version",
@@ -148465,13 +148504,12 @@
     "last_seen": 1795668616
   },
   "B0F98H2B53": {
-    "title": "Anker",
+    "title": "Anker Zolo Power Bank,20KmAh 22.5W Max Portable Charger, USB-C In and Out Fast Charging Battery Pack, Slim Travel Essential Phone Power Bank,18 Month Warranty, Black",
     "url": "https://www.amazon.eg/dp/B0F98H2B53",
-    "last_price": 1290.0,
+    "last_price": 1124.1,
     "lowest_price": 1099.0,
     "highest_price": 1799.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514941,
@@ -148568,9 +148606,13 @@
       {
         "timestamp": 1795466911,
         "price": 1290.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 1124.1
       }
     ],
-    "last_seen": 1795659973
+    "last_seen": 1795789529
   },
   "B0D4HKNTM5": {
     "title": "Aimery Active Stylus Pen for Touchscreen Android iPhone Tablet Phone，Touch Screen Pen for iPhone/iPad/Pencil/Samsung/iOS/Lenovo/Huawei/Vivo - White",
@@ -148915,11 +148957,10 @@
   "B0GGZ1VF7L": {
     "title": "UGREEN X524 USB-C GaN Fast Charger 45W Black",
     "url": "https://www.amazon.eg/dp/B0GGZ1VF7L",
-    "last_price": 520.0,
-    "lowest_price": 520.0,
+    "last_price": 442.0,
+    "lowest_price": 442.0,
     "highest_price": 742.72,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514941,
@@ -148984,18 +149025,21 @@
       {
         "timestamp": 1795042179,
         "price": 520.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 442.0
       }
     ],
-    "last_seen": 1795502530
+    "last_seen": 1795789529
   },
   "B0DBHRWRKC": {
     "title": "Xiaomi Wireless Earphones, Redmi buds 6 Play, 36 Hours Playtime, AI Call Noise Reduction, Ultra Lightweight, Compatible with Google Fast Pair, Fast Charging, Black |6 month manufacturer warranty",
     "url": "https://www.amazon.eg/dp/B0DBHRWRKC",
-    "last_price": 695.0,
-    "lowest_price": 680.0,
+    "last_price": 625.5,
+    "lowest_price": 625.5,
     "highest_price": 731.74,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514941,
@@ -149084,9 +149128,13 @@
       {
         "timestamp": 1795360663,
         "price": 695.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 625.5
       }
     ],
-    "last_seen": 1795668616
+    "last_seen": 1795789529
   },
   "B0GD8L1BKT": {
     "title": "SkyLine Digital Satellite Receiver Full High Definition HD-555X",
@@ -150819,11 +150867,10 @@
   "B0F7FVY8FS": {
     "title": "Oraimo OTW-323 SpaceBuds Neo Earbuds, Sound360 Audio, ANC - Black",
     "url": "https://www.amazon.eg/dp/B0F7FVY8FS",
-    "last_price": 597.0,
-    "lowest_price": 597.0,
+    "last_price": 537.3,
+    "lowest_price": 537.3,
     "highest_price": 730.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514950,
@@ -150840,9 +150887,13 @@
       {
         "timestamp": 1795042179,
         "price": 597.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 537.3
       }
     ],
-    "last_seen": 1795502530
+    "last_seen": 1795789529
   },
   "B0DCVPD66R": {
     "title": "soundcore by Anker R50i VI True Wireless Earbuds, 10mm Drivers with Big Bass, Bluetooth 5.3, 30H Long Playtime, Water-Resistant, 2 Mics for AI Clear Calls, (Blue) - 18 Months Warranty",
@@ -152243,11 +152294,10 @@
   "B0CNH6ZSN4": {
     "title": "Joyroom S-CL020A9 20W Type-C to Lightning Fast Charging & Data Cable, 1M – White PD Fast Charging & Reliable Data Sync Durable, Safe & Compatible with Lightning Devices",
     "url": "https://www.amazon.eg/dp/B0CNH6ZSN4",
-    "last_price": 116.0,
-    "lowest_price": 116.0,
+    "last_price": 92.65,
+    "lowest_price": 92.65,
     "highest_price": 169.0,
     "last_alerted_price": 117.8,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514961,
@@ -152356,9 +152406,13 @@
       {
         "timestamp": 1795663950,
         "price": 116.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 92.65
       }
     ],
-    "last_seen": 1795668619
+    "last_seen": 1795789529
   },
   "B0867X1QGP": {
     "title": "EZVIZ CS-C6N 1080p HD Indoor Wi-Fi Pan/Tilt Security Camera – White, Smart IR Night Vision, Motion Detection, Auto Tracking, Two-Way Audio, Works with Alexa & Google",
@@ -153111,11 +153165,10 @@
   "B0CCHTSFX1": {
     "title": "soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Wireless Over-Ear Bluetooth, 40H Long ANC Playtime, Hi-Res Audio, Big Bass, Customize via an App, Transparency - 18 Months Warranty",
     "url": "https://www.amazon.eg/dp/B0CCHTSFX1",
-    "last_price": 2789.89,
-    "lowest_price": 2588.0,
+    "last_price": 2406.85,
+    "lowest_price": 2406.85,
     "highest_price": 2995.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514961,
@@ -153228,9 +153281,13 @@
       {
         "timestamp": 1795277986,
         "price": 2789.89
+      },
+      {
+        "timestamp": 1795789537,
+        "price": 2406.85
       }
     ],
-    "last_seen": 1795668632
+    "last_seen": 1795789537
   },
   "B0HJ9SHXBS": {
     "title": "iPhone 18 Pro Max 256GB Burgundy",
@@ -153335,11 +153392,10 @@
   "B0F98WB7MY": {
     "title": "Zolo Power Bank 10000mAh 22.5W Fast Charging Power Bank with Built-in USB-C Cable [CCC Certified], 18 Month Warranty",
     "url": "https://www.amazon.eg/dp/B0F98WB7MY",
-    "last_price": 1060.0,
-    "lowest_price": 990.0,
+    "last_price": 891.0,
+    "lowest_price": 891.0,
     "highest_price": 1074.35,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514961,
@@ -153376,9 +153432,13 @@
       {
         "timestamp": 1795204626,
         "price": 1060.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 891.0
       }
     ],
-    "last_seen": 1795668625
+    "last_seen": 1795789529
   },
   "B0CDM94MJL": {
     "title": "HUAWEI FreeBuds SE 2, 40-Hour Battery Life, Compact and Comfortable to Grip, 3 Hours of Music Playback on a 10-Minute Charge, IP54 Dust & Splash Resistance, Robust Bluetooth 5.3 Connections, Blue",
@@ -156107,11 +156167,10 @@
   "B0DT4F2NM9": {
     "title": "Soundcore Liberty 5 by Anker, Noise-Cancelling Wireless Earbuds, 2x Stronger Voice Reduction, Adaptive Noise Cancellation, Fast Charging, Dolby Audio, 6-Mic AI Clear Calls,18 Months Warranty, Black",
     "url": "https://www.amazon.eg/dp/B0DT4F2NM9",
-    "last_price": 4180.0,
-    "lowest_price": 3075.0,
+    "last_price": 3038.27,
+    "lowest_price": 3038.27,
     "highest_price": 4180.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": 2716.65,
     "history": [
       {
         "timestamp": 1793514981,
@@ -156164,9 +156223,13 @@
       {
         "timestamp": 1795617741,
         "price": 4180.0
+      },
+      {
+        "timestamp": 1795789546,
+        "price": 3038.27
       }
     ],
-    "last_seen": 1795668632
+    "last_seen": 1795789546
   },
   "B0F4DBRRFQ": {
     "title": "Anker PowerPort III Cube, Type-C Wall Fast Charger, 20 Watt, PowerIQ 3.0, Compatible with iPhone 15/14/13 Series, Samsung Galaxy S25 / S24 / S23 Series And More, White, 18 Months Warranty",
@@ -156527,11 +156590,10 @@
   "B077PZLGVB": {
     "title": "TP-Link AC1200 Archer VR300 Wireless VDSL and ADSL Modem Router - Black",
     "url": "https://www.amazon.eg/dp/B077PZLGVB",
-    "last_price": 1939.43,
-    "lowest_price": 1939.43,
+    "last_price": 1709.1,
+    "lowest_price": 1709.1,
     "highest_price": 2012.25,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514987,
@@ -156600,9 +156662,13 @@
       {
         "timestamp": 1795655065,
         "price": 1939.43
+      },
+      {
+        "timestamp": 1795789544,
+        "price": 1709.1
       }
     ],
-    "last_seen": 1795655065
+    "last_seen": 1795789544
   },
   "B0C61PSF9V": {
     "title": "Portable Table Stand 6 Angles Adjustable, Aluminum Ventilated Cooling Stand Laptop Foldable, Multiple Angles Laptop Stand (Black)",
@@ -157119,11 +157185,10 @@
   "B0DYT76ZJS": {
     "title": "Brother DCP-T530DW | Affordable all-in-one printer with wireless and duplex features, A4 print speed up to 16/9 ipm (Mono/Colour), WiFi, WiFi-Direct, USB 2.0, Auto 2-sided (Duplex) printing.",
     "url": "https://www.amazon.eg/dp/B0DYT76ZJS",
-    "last_price": 8499.0,
-    "lowest_price": 8499.0,
+    "last_price": 7126.34,
+    "lowest_price": 7126.34,
     "highest_price": 10284.19,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514987,
@@ -157148,9 +157213,13 @@
       {
         "timestamp": 1795117640,
         "price": 8499.0
+      },
+      {
+        "timestamp": 1795789511,
+        "price": 7126.34
       }
     ],
-    "last_seen": 1795668635
+    "last_seen": 1795789511
   },
   "B0CXJGDGF4": {
     "title": "Camelion AA Super Heavy Duty Carbon Zinc Batteries - 4+2 Free Pack",
@@ -157751,11 +157820,10 @@
   "B09QFYNJMB": {
     "title": "Razer BlackShark V2 X Gaming Headset: 7.1 Surround Sound - 50mm Drivers - Memory Foam Cushion - for PC, Mac, PS4, PS5, Switch, Xbox One, Xbox Series X|S, Mobile - 3.5mm Audio Jack - White",
     "url": "https://www.amazon.eg/dp/B09QFYNJMB",
-    "last_price": 2444.0,
-    "lowest_price": 2444.0,
+    "last_price": 2099.7,
+    "lowest_price": 2099.7,
     "highest_price": 3351.88,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514995,
@@ -157768,9 +157836,13 @@
       {
         "timestamp": 1795207704,
         "price": 2444.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 2099.7
       }
     ],
-    "last_seen": 1795668632
+    "last_seen": 1795789529
   },
   "B0C5MV7JG6": {
     "title": "laptop sleeve 15.6'' case for laptop (black)",
@@ -158207,11 +158279,10 @@
   "B0FH1XTG9D": {
     "title": "Oraimo OHP-317 BoomPop Lite Wireless Headphones, Bluetooth, Mic – Black",
     "url": "https://www.amazon.eg/dp/B0FH1XTG9D",
-    "last_price": 999.0,
-    "lowest_price": 999.0,
+    "last_price": 899.1,
+    "lowest_price": 899.1,
     "highest_price": 1350.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514995,
@@ -158252,9 +158323,13 @@
       {
         "timestamp": 1795042198,
         "price": 999.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 899.1
       }
     ],
-    "last_seen": 1795668619
+    "last_seen": 1795789529
   },
   "B0B38ZZKF4": {
     "title": "Yeaki Selfie Stick Tripod with Wireless Remote, Cellphone Selfie Stick Tripod with LED Fill Light, for iPhone",
@@ -158323,11 +158398,10 @@
   "B09Y363M1G": {
     "title": "Ilock 3-way wall outlet adapter 3500 w - black",
     "url": "https://www.amazon.eg/dp/B09Y363M1G",
-    "last_price": 66.06,
-    "lowest_price": 63.0,
+    "last_price": 47.91,
+    "lowest_price": 47.91,
     "highest_price": 66.06,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793514995,
@@ -158348,9 +158422,13 @@
       {
         "timestamp": 1795563373,
         "price": 66.06
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 47.91
       }
     ],
-    "last_seen": 1795655068
+    "last_seen": 1795789529
   },
   "B0FXBJDMHK": {
     "title": "Anker Nano 45W Type C Charger Fast Charging, Compact and Foldable Plug USB C Charger Block for Samsung Galaxy S25 Ultra/S24 Series, iPhone 16 Series, MacBook, Pixel 9, iPad",
@@ -158615,11 +158693,10 @@
   "B07Y2G7VX5": {
     "title": "HAVIT H2002d Gaming Headsets for PS4, PS5, PC, Xbox Series X|S, Xbox One Controller Gaming Headphones with Mic - 53mm Drivers - Durable Aluminum Frame-Black & Ochre",
     "url": "https://www.amazon.eg/dp/B07Y2G7VX5",
-    "last_price": 1335.0,
-    "lowest_price": 1335.0,
+    "last_price": 1134.75,
+    "lowest_price": 1134.75,
     "highest_price": 1462.23,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793515003,
@@ -158648,9 +158725,13 @@
       {
         "timestamp": 1795360671,
         "price": 1335.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 1134.75
       }
     ],
-    "last_seen": 1795668629
+    "last_seen": 1795789529
   },
   "B095CLQ1PT": {
     "title": "TP-Link Tapo 2K Pan Tilt Security Camera for Baby Monitor, Dog Camera w/Motion Detection, 2-Way Audio Siren, Night Vision, SD Card Storage (Up to 256 GB), Works with Alexa & Google Home (C210)",
@@ -160103,11 +160184,10 @@
   "B0DR1K3DM1": {
     "title": "UGREEN Ergonomic Mouse, Wireless Bluetooth Vertical Mouse, Dual-Mode (BT 5.4 & USB 2.4G), Quiet Clicks, 4 Adjustable DPI (1000/1600/2000/4000), Compatible with Windows/Mac/Linux/Android/ChromeOS",
     "url": "https://www.amazon.eg/dp/B0DR1K3DM1",
-    "last_price": 999.0,
-    "lowest_price": 999.0,
+    "last_price": 849.15,
+    "lowest_price": 849.15,
     "highest_price": 1119.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793515010,
@@ -160136,9 +160216,13 @@
       {
         "timestamp": 1795042198,
         "price": 999.0
+      },
+      {
+        "timestamp": 1795789536,
+        "price": 849.15
       }
     ],
-    "last_seen": 1795668632
+    "last_seen": 1795789536
   },
   "B091J95N68": {
     "title": "iLOCK Extension cord ilock - 16 amp - 250v - 5 m",
@@ -212067,11 +212151,10 @@
   "B091D3D723": {
     "title": "Reusable Metal Drinking Straws 304 Stainless Steel Sturdy Bent Straight Drinks Straw with Cleaning Brush, 4 pcs",
     "url": "https://www.amazon.eg/dp/B091D3D723",
-    "last_price": 22.9,
-    "lowest_price": 22.9,
+    "last_price": 16.95,
+    "lowest_price": 16.95,
     "highest_price": 30.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793515567,
@@ -212080,9 +212163,13 @@
       {
         "timestamp": 1793859923,
         "price": 22.9
+      },
+      {
+        "timestamp": 1795789553,
+        "price": 16.95
       }
     ],
-    "last_seen": 1795502720
+    "last_seen": 1795789553
   },
   "B09GKBV77S": {
     "title": "Amazon.eg product",
@@ -212151,11 +212238,10 @@
   "B091MDSKTQ": {
     "title": "Generic Elastic Food Storage Covers (100 Covers) - Reusable Stretch Plastic Wrap Bowl Covers – Transform Dishes, Aluminum Cans or Cooking Pans into Food Storage Containers",
     "url": "https://www.amazon.eg/dp/B091MDSKTQ",
-    "last_price": 21.37,
-    "lowest_price": 17.1,
+    "last_price": 16.03,
+    "lowest_price": 16.03,
     "highest_price": 23.74,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793515567,
@@ -212176,9 +212262,13 @@
       {
         "timestamp": 1795367956,
         "price": 21.37
+      },
+      {
+        "timestamp": 1795789553,
+        "price": 16.03
       }
     ],
-    "last_seen": 1795502717
+    "last_seen": 1795789553
   },
   "B0C4RTP4QD": {
     "title": "Plain Fitted Sheet Set for Hotels, Homes & Touristic Villages (Baby Blue, 160)",
@@ -215387,11 +215477,10 @@
   "B0CJF94M8J": {
     "title": "Trend Plane 16oz/470ml Glass Olive Oil Sprayer for Cooking - 2 in 1 Olive Oil Dispenser Bottle for Kitchen Tools Air Fryer Accessories Salad BBQ - Assorted Colors",
     "url": "https://www.amazon.eg/dp/B0CJF94M8J",
-    "last_price": 82.99,
-    "lowest_price": 82.99,
+    "last_price": 72.25,
+    "lowest_price": 72.25,
     "highest_price": 97.07,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793515622,
@@ -215544,9 +215633,13 @@
       {
         "timestamp": 1795470759,
         "price": 82.99
+      },
+      {
+        "timestamp": 1795789553,
+        "price": 72.25
       }
     ],
-    "last_seen": 1795502732
+    "last_seen": 1795789553
   },
   "B0FXXTSB5C": {
     "title": "Wonderfit Mango Flavor without Sugar Ice Cream Cup 200 ml",
@@ -216779,11 +216872,10 @@
   "B0B7G3HBYV": {
     "title": "KELVEE Glass Drinking Cup with Straw and Silicone Lid 435 ml, Glass Cup with Leather Sleeve, Glass Coffee Mugs for Straw and Direct Drinking Mouth, Double Use, Essential Travel Bottle",
     "url": "https://www.amazon.eg/dp/B0B7G3HBYV",
-    "last_price": 38.29,
-    "lowest_price": 38.29,
+    "last_price": 29.84,
+    "lowest_price": 29.84,
     "highest_price": 54.97,
     "last_alerted_price": null,
-    "last_alerted_used_price": 31.44,
     "history": [
       {
         "timestamp": 1793515637,
@@ -216828,9 +216920,13 @@
       {
         "timestamp": 1795042391,
         "price": 38.29
+      },
+      {
+        "timestamp": 1795789553,
+        "price": 29.84
       }
     ],
-    "last_seen": 1795502739
+    "last_seen": 1795789553
   },
   "B09DGKXFLK": {
     "title": "Ludwik All-In-One Mint Dishwasher Tablets 2 x 30-Pieces",
@@ -232311,11 +232407,10 @@
   "B0DJXVYPQ3": {
     "title": "Spray Bottle For Hair,Continuous Water Mister for Hairstyling, Salons, Cleaning, Plants,Essential Oil Scents,Ultra Fine Mist Sprayer,6.8 OZ /200 ML-White(Christmas Gifts - Assorted Color)",
     "url": "https://www.amazon.eg/dp/B0DJXVYPQ3",
-    "last_price": 64.89,
-    "lowest_price": 64.89,
+    "last_price": 54.12,
+    "lowest_price": 54.12,
     "highest_price": 72.1,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793515789,
@@ -232324,9 +232419,13 @@
       {
         "timestamp": 1795368044,
         "price": 64.89
+      },
+      {
+        "timestamp": 1795789434,
+        "price": 54.12
       }
     ],
-    "last_seen": 1795668731
+    "last_seen": 1795789466
   },
   "B096VSVZTZ": {
     "title": "Mintra",
@@ -240029,13 +240128,12 @@
     "last_seen": 1795655378
   },
   "B0DCFZ1YMX": {
-    "title": "Joyroom",
+    "title": "Joyroom JR-TCF23 25W Fast Charger Power Adapter with EU Plug - Black",
     "url": "https://www.amazon.eg/dp/B0DCFZ1YMX",
-    "last_price": 286.0,
-    "lowest_price": 286.0,
+    "last_price": 215.24,
+    "lowest_price": 215.24,
     "highest_price": 313.6,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793515835,
@@ -240096,9 +240194,13 @@
       {
         "timestamp": 1795042454,
         "price": 286.0
+      },
+      {
+        "timestamp": 1795789434,
+        "price": 215.24
       }
     ],
-    "last_seen": 1795098130
+    "last_seen": 1795789538
   },
   "B0DBFJ56DY": {
     "title": "Waterproof Portable Prayer Drop Water Proof Material with Small Pouch (Assorted Colors) - Suitable for Travel and Trips and Summers",
@@ -263491,11 +263593,10 @@
   "B0C4JRWJGM": {
     "title": "Earbuds Air31, Wireless, Wired Earphones Transparent with Deep Bass, Stereo Sound, Bluetooth Headphone with Charging Case, White, Black and Pink (black)",
     "url": "https://www.amazon.eg/dp/B0C4JRWJGM",
-    "last_price": 178.2,
+    "last_price": 131.27,
     "lowest_price": 130.0,
     "highest_price": 417.0,
     "last_alerted_price": 168.2,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793519002,
@@ -263668,9 +263769,13 @@
       {
         "timestamp": 1795459076,
         "price": 178.2
+      },
+      {
+        "timestamp": 1795789536,
+        "price": 131.27
       }
     ],
-    "last_seen": 1795481895
+    "last_seen": 1795789536
   },
   "B0F9WXCGHG": {
     "title": "AJYAL",
@@ -268219,11 +268324,10 @@
   "B09FLN63B3": {
     "title": "4K HDMI Video Capture Card, Cam Link Card Game Capture Card Audio Capture Adapter HDMI to USB 2.0 Record Capture Device for Streaming, Live Broadcasting, Video Conference, Teaching, Gaming(Black)",
     "url": "https://www.amazon.eg/dp/B09FLN63B3",
-    "last_price": 215.0,
-    "lowest_price": 189.5,
+    "last_price": 170.1,
+    "lowest_price": 170.1,
     "highest_price": 227.99,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521350,
@@ -268248,9 +268352,13 @@
       {
         "timestamp": 1795655101,
         "price": 215.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 170.1
       }
     ],
-    "last_seen": 1795655101
+    "last_seen": 1795789529
   },
   "B0CFV9DRNP": {
     "title": "iLOCK power strip 3 universal outlets with switch (black)",
@@ -269511,11 +269619,10 @@
   "B006QV78DE": {
     "title": "Energizer Recharge Battery, Size AA, Pack of 2 Blister Card - 2 حجر شحن قلم",
     "url": "https://www.amazon.eg/dp/B006QV78DE",
-    "last_price": 348.0,
-    "lowest_price": 348.0,
+    "last_price": 311.4,
+    "lowest_price": 311.4,
     "highest_price": 391.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521363,
@@ -269540,9 +269647,13 @@
       {
         "timestamp": 1795117640,
         "price": 348.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 311.4
       }
     ],
-    "last_seen": 1795655062
+    "last_seen": 1795789529
   },
   "B0FZTZJVD6": {
     "title": "G-Power GP-C47 USB-C to USB-C (65W) Braided cable, Support Apple iPhone 17/16 /15 Series, iPad Pro, USB-C MacBook, Samsung Galaxy, Pixel and Tablets, 1M - Black (Warranty 12 months)",
@@ -272015,18 +272126,21 @@
   "B0DX5YFMSP": {
     "title": "Ultra3 Smart Watch, Elegant Design 49MM, Fitness Tracker, Calls, Wireless Charging, for IOS & android store, for men and women, 7 straps, straps print and package box may vary (orange)",
     "url": "https://www.amazon.eg/dp/B0DX5YFMSP",
-    "last_price": 599.0,
-    "lowest_price": 599.0,
+    "last_price": 453.15,
+    "lowest_price": 453.15,
     "highest_price": 599.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521393,
         "price": 599.0
+      },
+      {
+        "timestamp": 1795789544,
+        "price": 453.15
       }
     ],
-    "last_seen": 1793946928
+    "last_seen": 1795789544
   },
   "B0DCFRFV9R": {
     "title": "Joyroom JR-BP560S Passive Stylus Pen, Compatible with Touchscreen Devices, Lightweight & Precise – White (12-Month Warranty)",
@@ -272359,11 +272473,10 @@
   "B09GKS4NKW": {
     "title": "360 Degree Rotating Mobile Stand - Universal Compatibility - Smartphone - Black - Modern Style - Desk Use",
     "url": "https://www.amazon.eg/dp/B09GKS4NKW",
-    "last_price": 83.2,
-    "lowest_price": 79.0,
+    "last_price": 73.8,
+    "lowest_price": 73.8,
     "highest_price": 83.7,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521400,
@@ -272392,9 +272505,13 @@
       {
         "timestamp": 1795117680,
         "price": 83.2
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 73.8
       }
     ],
-    "last_seen": 1795386067
+    "last_seen": 1795789529
   },
   "B07GN87TQJ": {
     "title": "RGB Gaming Mouse Pad 90x40cm, Rubber Speed Surface Mouse Pad with LED Lighting Edge, Compatible with All Mouse Sensors, Non-Slip Large Gaming Desk Mat – Black",
@@ -274807,11 +274924,10 @@
   "B0D7BL47CK": {
     "title": "UGREEN Uno USB-C to USB-C PD Fast Charging Cable 5A Max 1m",
     "url": "https://www.amazon.eg/dp/B0D7BL47CK",
-    "last_price": 445.57,
-    "lowest_price": 445.57,
+    "last_price": 399.6,
+    "lowest_price": 399.6,
     "highest_price": 475.62,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521443,
@@ -274832,9 +274948,13 @@
       {
         "timestamp": 1795655113,
         "price": 445.57
+      },
+      {
+        "timestamp": 1795789544,
+        "price": 399.6
       }
     ],
-    "last_seen": 1795655113
+    "last_seen": 1795789544
   },
   "B091SHSDJ6": {
     "title": "Imou MicroSDXC Memory Card 64 GB, Up to 95/25 MB/sec, Class 10-U1, UHS-I, Micro SD Card for Phone, Camcorder, Switch, Tablet",
@@ -275107,11 +275227,10 @@
   "B0F228BJFP": {
     "title": "Oraimo SpeedBuds Z Wireless Earbuds, ANC, 38H Playtime – Black",
     "url": "https://www.amazon.eg/dp/B0F228BJFP",
-    "last_price": 1028.0,
-    "lowest_price": 949.05,
+    "last_price": 840.61,
+    "lowest_price": 840.61,
     "highest_price": 1080.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521443,
@@ -275140,9 +275259,13 @@
       {
         "timestamp": 1795655092,
         "price": 1028.0
+      },
+      {
+        "timestamp": 1795789544,
+        "price": 840.61
       }
     ],
-    "last_seen": 1795655092
+    "last_seen": 1795789544
   },
   "B0D7DKJ75M": {
     "title": "Anker MagGo Power Bank, Ultra Slim 10000mAh Magnetic Battery Pack, Qi2 Certified, Portable,15W Ultra Fast MagSafe Compatible Charger, Ergonomic Design, For iPhone 16/15/14/13/12- Black",
@@ -275405,13 +275528,12 @@
     "last_seen": 1794666545
   },
   "B0CLY2HKW5": {
-    "title": "3-Pair Replacement Ear Tips for AirPods Pro 2nd/1st Generation with Cleaner kit,Noise Reduction Holewith & Built-in dust Guard Screen, Silicone Ear Tips for USB-C Charging Case (S/M/L)",
+    "title": "3 Pairs of Replacement Ear Tips for AirPods Pro 2nd/1st Generation with Cleaning Kit, Noise Reduction Hole, and Integrated Dust Protective Screen, Ear Tips from",
     "url": "https://www.amazon.eg/dp/B0CLY2HKW5",
-    "last_price": 73.0,
-    "lowest_price": 73.0,
+    "last_price": 52.22,
+    "lowest_price": 52.22,
     "highest_price": 86.4,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521450,
@@ -275420,9 +275542,13 @@
       {
         "timestamp": 1793946931,
         "price": 73.0
+      },
+      {
+        "timestamp": 1795789537,
+        "price": 52.22
       }
     ],
-    "last_seen": 1793946931
+    "last_seen": 1795789537
   },
   "B0GYQKB2GB": {
     "title": "HUAWEI WATCH FIT 5 Smart Watch, 43mm FullView Display, iOS & Android, up to 10 Days Battery Life, Sleep & Health Monitor, Heart Rate Monitor, SpO2, GPS, Mini Work-out, Black with free straps",
@@ -276011,11 +276137,10 @@
   "B0DW532R2X": {
     "title": "cardoO VR Box Max – 5.3 Bluetooth VR Headset, Premium VR Glasses for Android and iOS Mobile Phones (4.8 to 7.0) | 360° Panoramic View | iMax Cinema | Built-in Headphones",
     "url": "https://www.amazon.eg/dp/B0DW532R2X",
-    "last_price": 1999.0,
-    "lowest_price": 1639.13,
+    "last_price": 1406.21,
+    "lowest_price": 1406.21,
     "highest_price": 1999.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": 1397.21,
     "history": [
       {
         "timestamp": 1793521459,
@@ -276028,18 +276153,21 @@
       {
         "timestamp": 1794579237,
         "price": 1999.0
+      },
+      {
+        "timestamp": 1795789545,
+        "price": 1406.21
       }
     ],
-    "last_seen": 1794666551
+    "last_seen": 1795789545
   },
   "B0875TG95Z": {
     "title": "UGREEN CAT8 Shielded Round Braided Cable Modular Plugs 5m",
     "url": "https://www.amazon.eg/dp/B0875TG95Z",
-    "last_price": 399.0,
-    "lowest_price": 399.0,
+    "last_price": 306.86,
+    "lowest_price": 306.86,
     "highest_price": 461.56,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521466,
@@ -276056,9 +276184,13 @@
       {
         "timestamp": 1795117684,
         "price": 399.0
+      },
+      {
+        "timestamp": 1795789536,
+        "price": 306.86
       }
     ],
-    "last_seen": 1795655107
+    "last_seen": 1795789536
   },
   "B0C6FMSS7Y": {
     "title": "TP-Link Tapo 2K QHD Pan/Tilt Outdoor Wired Security Wi-Fi Camera, 360° Visual Coverage, Starlight Full-Color Night Vision Up to 98ft, Person/Pet/Venicle Detection,Physical Privacy Mode(Tapo C520WS)",
@@ -277027,11 +277159,10 @@
   "B0D41SDLTB": {
     "title": "Redragon M724 Wired Gaming Mouse, 49G Ultra-Light 12,400 Max DPI Optical Gaming Mouse with 5 Programmable Buttons, Ergonomic Natural Grip Build, Software Supports DIY Keybinds & DPI, Black",
     "url": "https://www.amazon.eg/dp/B0D41SDLTB",
-    "last_price": 749.0,
-    "lowest_price": 749.0,
+    "last_price": 674.1,
+    "lowest_price": 674.1,
     "highest_price": 850.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521474,
@@ -277044,9 +277175,13 @@
       {
         "timestamp": 1795474271,
         "price": 749.0
+      },
+      {
+        "timestamp": 1795789544,
+        "price": 674.1
       }
     ],
-    "last_seen": 1795655113
+    "last_seen": 1795789544
   },
   "B0D6XZF9N4": {
     "title": "XP-Pen Deco 640 Digitizer Desk with Pen 16K IT640 Pressure Levels",
@@ -277435,11 +277570,10 @@
   "B07PL3CB71": {
     "title": "JBL TUNE 110 - In-Ear Headphone with One-Button Remote - Black",
     "url": "https://www.amazon.eg/dp/B07PL3CB71",
-    "last_price": 279.0,
-    "lowest_price": 279.0,
+    "last_price": 249.66,
+    "lowest_price": 249.66,
     "highest_price": 326.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521481,
@@ -277448,9 +277582,13 @@
       {
         "timestamp": 1794036972,
         "price": 279.0
+      },
+      {
+        "timestamp": 1795789537,
+        "price": 249.66
       }
     ],
-    "last_seen": 1795474271
+    "last_seen": 1795789537
   },
   "B0CZWTBDW6": {
     "title": "Hisense 55-Inch 4K UHD VIDAA Smart TV, Dolby Vision, HDR10+, 4K AI Upscaler, Game Mode Plus, DTS Virtual X - 55A6N",
@@ -278835,11 +278973,10 @@
   "B0CQR6ZNSX": {
     "title": "K9 Dual Wireless Microphone Works, Digital Mini Lavalier Microphones, Lapel Clip-on Collar Microphone",
     "url": "https://www.amazon.eg/dp/B0CQR6ZNSX",
-    "last_price": 330.0,
-    "lowest_price": 206.8,
+    "last_price": 205.56,
+    "lowest_price": 205.56,
     "highest_price": 330.0,
-    "last_alerted_price": null,
-    "last_alerted_used_price": 186.12,
+    "last_alerted_price": 205.56,
     "history": [
       {
         "timestamp": 1793521509,
@@ -278852,9 +278989,13 @@
       {
         "timestamp": 1795474268,
         "price": 330.0
+      },
+      {
+        "timestamp": 1795789536,
+        "price": 205.56
       }
     ],
-    "last_seen": 1795655107
+    "last_seen": 1795789536
   },
   "B0GFV7L88Y": {
     "title": "Laptop & Multipurpose Stickers – 19 Pcs Cute Quote Vinyl Decals | Waterproof, Scratch & Heat Resistant | For Laptops, Bottles, Mugs & Mirrors | Perfect Gear Personalization",
@@ -279659,18 +279800,21 @@
   "B0CW1PLVVY": {
     "title": "Joyroom JR-T03S Pro Max Dual-Core BT Wireless Earphones TWS Case - White",
     "url": "https://www.amazon.eg/dp/B0CW1PLVVY",
-    "last_price": 689.0,
-    "lowest_price": 689.0,
+    "last_price": 577.82,
+    "lowest_price": 577.82,
     "highest_price": 689.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521524,
         "price": 689.0
+      },
+      {
+        "timestamp": 1795789537,
+        "price": 577.82
       }
     ],
-    "last_seen": 1793521524
+    "last_seen": 1795789537
   },
   "B0CCN9NHTC": {
     "title": "Crucial BX500 1TB 3D NAND SATA 2.5 Inch Internal SSD - Up to 540MB/s - CT1000BX500SSD101 (Acronis Edition)",
@@ -280127,11 +280271,10 @@
   "B0DT1CZVLG": {
     "title": "Soundcore Liberty 5 by Anker, Noise-Cancelling Wireless Earbuds, 2x Stronger Voice Reduction, Adaptive Noise Cancellation, 6-Mic AI Clear Calls, Long Battery Life, 18 Months Warranty, Pink",
     "url": "https://www.amazon.eg/dp/B0DT1CZVLG",
-    "last_price": 3350.0,
-    "lowest_price": 3350.0,
+    "last_price": 3015.0,
+    "lowest_price": 3015.0,
     "highest_price": 3499.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793521531,
@@ -280140,9 +280283,13 @@
       {
         "timestamp": 1794666534,
         "price": 3350.0
+      },
+      {
+        "timestamp": 1795789538,
+        "price": 3015.0
       }
     ],
-    "last_seen": 1795655065
+    "last_seen": 1795789538
   },
   "B0D2XYH1XS": {
     "title": "G-Power SC10610 Ten Ways Power Socket With Five USB-A Port And 32W One USB-C Port For A Better Performance 200CM Length - White",
@@ -281187,18 +281334,21 @@
   "B07WFV4T73": {
     "title": "Laptop desk, laptop bed tray, foldable laptop stand, small dormitory table, breakfast serving bed tray, dorm desk, notebook table with tablet slots and cup holder, perfect for watching movie on bed",
     "url": "https://www.amazon.eg/dp/B07WFV4T73",
-    "last_price": 264.0,
-    "lowest_price": 264.0,
+    "last_price": 129.86,
+    "lowest_price": 129.86,
     "highest_price": 264.0,
-    "last_alerted_price": null,
-    "last_alerted_used_price": null,
+    "last_alerted_price": 129.86,
     "history": [
       {
         "timestamp": 1793521552,
         "price": 264.0
+      },
+      {
+        "timestamp": 1795789517,
+        "price": 129.86
       }
     ],
-    "last_seen": 1793521552
+    "last_seen": 1795789517
   },
   "B0FZV1GV6S": {
     "title": "G-Power GP-C52 USB-C to Lightning Cable (27W), Compatible With iPhone 11, 12, 13 and 14 series, and compatible iPads, 1M - Silver (Warranty 12 months)",
@@ -351099,11 +351249,10 @@
   "B0CPC8TF59": {
     "title": "Joyroom JR-W050 20W Magnetic Wireless Power Bank 10000mAh - Black",
     "url": "https://www.amazon.eg/dp/B0CPC8TF59",
-    "last_price": 924.0,
-    "lowest_price": 920.0,
+    "last_price": 831.6,
+    "lowest_price": 831.6,
     "highest_price": 949.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793859871,
@@ -351168,9 +351317,13 @@
       {
         "timestamp": 1795106137,
         "price": 924.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 831.6
       }
     ],
-    "last_seen": 1795668619
+    "last_seen": 1795789529
   },
   "B0HPP6GZM7": {
     "title": "Samsung Galaxy Z Fold8 Black, 512GB, All-new Shape, Customized Processor, 4800 mAh Battery, 12GB RAM, Dual 50MP Camera, Now Nudge - 1 Year Warranty/Local Version",
@@ -365911,11 +366064,10 @@
   "B092MPGSXK": {
     "title": "SKY-TOUCH Silicone Cupcake Liners 12Pcs, Baking Cups Non-Stick Cake Muffin Chocolate Cupcake Liner Baking Cup Mold, Multicolor",
     "url": "https://www.amazon.eg/dp/B092MPGSXK",
-    "last_price": 46.43,
-    "lowest_price": 46.43,
+    "last_price": 36.72,
+    "lowest_price": 36.72,
     "highest_price": 58.9,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793947464,
@@ -365924,9 +366076,13 @@
       {
         "timestamp": 1795474891,
         "price": 46.43
+      },
+      {
+        "timestamp": 1795789556,
+        "price": 36.72
       }
     ],
-    "last_seen": 1795474891
+    "last_seen": 1795789556
   },
   "B09NYFGTVC": {
     "title": "Ronza Roll Multifunctionele Reinigingsdoek 20 Stuks Geel",
@@ -366071,18 +366227,21 @@
   "B0DKM6V35Z": {
     "title": "1 Roll - Old Newspaper Parchment Paper Liners - Non-Stick, Heat Resistant, Waterproof, Grease Proof - Perfect for Air Fryer, Baking, Cooking - Kitchen Accessories",
     "url": "https://www.amazon.eg/dp/B0DKM6V35Z",
-    "last_price": 82.0,
-    "lowest_price": 82.0,
+    "last_price": 66.47,
+    "lowest_price": 66.47,
     "highest_price": 82.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": 53.17,
     "history": [
       {
         "timestamp": 1793947464,
         "price": 82.0
+      },
+      {
+        "timestamp": 1795789556,
+        "price": 66.47
       }
     ],
-    "last_seen": 1794217568
+    "last_seen": 1795789556
   },
   "B0BKB174YS": {
     "title": "Mr. Cleaner Yossie 4 Count Stainless Steel Wire Sponge Set",
@@ -387183,11 +387342,10 @@
   "B0DLLC56J9": {
     "title": "Soft Fur Cleaning Brush, Multifunctional Shoe Brush with Liquid Box, Household Soft Shoe Brush for Cleaning Shoes, Long Handle, Clothes Cleaning Tools",
     "url": "https://www.amazon.eg/dp/B0DLLC56J9",
-    "last_price": 19.54,
-    "lowest_price": 19.54,
+    "last_price": 17.59,
+    "lowest_price": 17.59,
     "highest_price": 22.88,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793947684,
@@ -387196,9 +387354,13 @@
       {
         "timestamp": 1795118525,
         "price": 19.54
+      },
+      {
+        "timestamp": 1795789434,
+        "price": 17.59
       }
     ],
-    "last_seen": 1795668720
+    "last_seen": 1795789434
   },
   "B08ZXNV4ZM": {
     "title": "Spaceshoop",
@@ -403311,11 +403473,10 @@
   "B0F549C7WZ": {
     "title": "Redragon Wired Mechanical Keyboard FIZZ K617 60%, Red Switches, No-Slip Stand, Vibrant RGB, Hot-Swappable, 20 Presets Backlighting, Detachable Type-C Cable, English Layout, (White - Blue)",
     "url": "https://www.amazon.eg/dp/B0F549C7WZ",
-    "last_price": 1199.0,
+    "last_price": 1079.1,
     "lowest_price": 999.0,
     "highest_price": 1499.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1793980262,
@@ -403340,9 +403501,13 @@
       {
         "timestamp": 1795470570,
         "price": 1199.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 1079.1
       }
     ],
-    "last_seen": 1795668632
+    "last_seen": 1795789529
   },
   "B0GNKBG4BR": {
     "title": "OPPO A6 4G Smartphone 256GB 8GB RAM Sapphire Blue, Unlocked Dual SIM, 6.75 Inch HD+ LCD 120Hz Display, Snapdragon 685, 50MP Dual Camera, All Day Battery, ColorOS 15, Side Fingerprint",
@@ -405391,11 +405556,10 @@
   "B07Q437WXK": {
     "title": "Redragon M711 Cobra RGB Optical Gaming Mouse",
     "url": "https://www.amazon.eg/dp/B07Q437WXK",
-    "last_price": 699.0,
-    "lowest_price": 699.0,
+    "last_price": 629.1,
+    "lowest_price": 629.1,
     "highest_price": 780.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1794036963,
@@ -405412,9 +405576,13 @@
       {
         "timestamp": 1795474251,
         "price": 699.0
+      },
+      {
+        "timestamp": 1795789546,
+        "price": 629.1
       }
     ],
-    "last_seen": 1795655101
+    "last_seen": 1795789546
   },
   "B0G1N99RXB": {
     "title": "ASUS Vivobook S14 [M5406WA-PP009W] AMD Ryzen™ AI 9 365 / LPDDR5X 24GB / 1TB M.2 NVMe™ PCIe® 4.0 SSD/AMD Radeon™ 880M / 14.0-inch 3K (2880 x 1800) OLED 120Hz / WIN 11/1 Year Perfect Warranty Pro",
@@ -407895,11 +408063,10 @@
   "B08WJJHJMD": {
     "title": "Fresh CH-400W Chopper 1.5 liters - Silver",
     "url": "https://www.amazon.eg/dp/B08WJJHJMD",
-    "last_price": 977.0,
-    "lowest_price": 977.0,
+    "last_price": 830.45,
+    "lowest_price": 830.45,
     "highest_price": 980.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1794037548,
@@ -407908,9 +408075,13 @@
       {
         "timestamp": 1794579629,
         "price": 977.0
+      },
+      {
+        "timestamp": 1795789554,
+        "price": 830.45
       }
     ],
-    "last_seen": 1794666983
+    "last_seen": 1795789554
   },
   "B0FG1GHSZS": {
     "title": "Nespresso Accessory Pack (Pack May Vary)",
@@ -409665,20 +409836,23 @@
     "last_seen": 1794467568
   },
   "B0FW815TLB": {
-    "title": "adidas",
+    "title": "Adidas Women's Galaxy 8 Running Shoes White 5SHOES",
     "url": "https://www.amazon.eg/dp/B0FW815TLB",
-    "last_price": 2687.0,
-    "lowest_price": 2687.0,
+    "last_price": 2283.95,
+    "lowest_price": 2283.95,
     "highest_price": 2687.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1794037727,
         "price": 2687.0
+      },
+      {
+        "timestamp": 1795789446,
+        "price": 2283.95
       }
     ],
-    "last_seen": 1794398742
+    "last_seen": 1795789446
   },
   "B0HNKBFSQH": {
     "title": "Ravox",
@@ -415127,11 +415301,10 @@
   "B0FKN93TCN": {
     "title": "HUAWEI FreeBuds 7i (Conch-T010) Wireless Bluetooth Earphones, Active Noise Cancelling, 55.5 mAh Earbuds + 510 mAh Charging Case, Built-in Lithium-Ion Battery, White",
     "url": "https://www.amazon.eg/dp/B0FKN93TCN",
-    "last_price": 3398.0,
-    "lowest_price": 3398.0,
+    "last_price": 3058.2,
+    "lowest_price": 3058.2,
     "highest_price": 3549.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1794126662,
@@ -415164,9 +415337,13 @@
       {
         "timestamp": 1795042195,
         "price": 3398.0
+      },
+      {
+        "timestamp": 1795789529,
+        "price": 3058.2
       }
     ],
-    "last_seen": 1795668619
+    "last_seen": 1795789529
   },
   "B0D22WMH4X": {
     "title": "Samsung 65 Inch TV Neo Quantum Processor 4K QLED - Titan Black - QA65QN85DBUXEG [2024 Model]",
@@ -415431,11 +415608,10 @@
   "B078TJZBQJ": {
     "title": "Joyroom JR-PBF02 Pro 20000mAh 45W Fast Charging Power Bank - Black",
     "url": "https://www.amazon.eg/dp/B078TJZBQJ",
-    "last_price": 1700.0,
-    "lowest_price": 1321.0,
+    "last_price": 1261.42,
+    "lowest_price": 1261.42,
     "highest_price": 1700.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1794126697,
@@ -415452,9 +415628,13 @@
       {
         "timestamp": 1795117676,
         "price": 1700.0
+      },
+      {
+        "timestamp": 1795789536,
+        "price": 1261.42
       }
     ],
-    "last_seen": 1795207750
+    "last_seen": 1795789536
   },
   "B0C9K7XDR8": {
     "title": "Tapo 2K Outdoor Wired Pan/Tilt Security Wi-Fi Camera, 360° View, Motion Tracking, Works w/Alexa & Google Home, Color Night Vision, Free AI Detection, Cloud & SD Card Storage(up to 512GB), Tapo C510W",
@@ -422553,20 +422733,23 @@
     "last_seen": 1794127537
   },
   "B0FW7LV618": {
-    "title": "adidas",
+    "title": "adidas Runfalcon 6 Cloudfoam Running Shoes",
     "url": "https://www.amazon.eg/dp/B0FW7LV618",
-    "last_price": 3038.0,
-    "lowest_price": 3038.0,
+    "last_price": 2582.3,
+    "lowest_price": 2582.3,
     "highest_price": 3038.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1794127537,
         "price": 3038.0
+      },
+      {
+        "timestamp": 1795789434,
+        "price": 2582.3
       }
     ],
-    "last_seen": 1794127537
+    "last_seen": 1795789434
   },
   "B0FVMP6881": {
     "title": "adidas",
@@ -425347,11 +425530,10 @@
   "B08B8M7X6R": {
     "title": "Black & Decker DCM25N-B5 Coffee Maker, Black - 1 Cup",
     "url": "https://www.amazon.eg/dp/B08B8M7X6R",
-    "last_price": 1349.0,
-    "lowest_price": 1349.0,
+    "last_price": 895.4,
+    "lowest_price": 895.4,
     "highest_price": 1398.0,
-    "last_alerted_price": null,
-    "last_alerted_used_price": null,
+    "last_alerted_price": 895.4,
     "history": [
       {
         "timestamp": 1794187517,
@@ -425360,9 +425542,13 @@
       {
         "timestamp": 1794228120,
         "price": 1349.0
+      },
+      {
+        "timestamp": 1795789574,
+        "price": 895.4
       }
     ],
-    "last_seen": 1794253893
+    "last_seen": 1795789574
   },
   "B0FR9FQ5JL": {
     "title": "Samsung Galaxy A07 Dual Sim 6GB RAM 128GB Storage Android Smartphone, 6.7-Inch Screen Size, Light Violet- 1 Year Warranty/Local Version",
@@ -434727,11 +434913,10 @@
   "B0FQQDDS56": {
     "title": "100 Black plastic straw - Individually Wraped plastic straw - Drinking Straw - Smoothies, Milkshakes, Bubble Tea - QTY 100",
     "url": "https://www.amazon.eg/dp/B0FQQDDS56",
-    "last_price": 110.0,
-    "lowest_price": 61.67,
+    "last_price": 41.07,
+    "lowest_price": 41.07,
     "highest_price": 110.0,
-    "last_alerted_price": null,
-    "last_alerted_used_price": null,
+    "last_alerted_price": 41.07,
     "history": [
       {
         "timestamp": 1794307885,
@@ -434740,9 +434925,13 @@
       {
         "timestamp": 1794579645,
         "price": 110.0
+      },
+      {
+        "timestamp": 1795789554,
+        "price": 41.07
       }
     ],
-    "last_seen": 1794579645
+    "last_seen": 1795789554
   },
   "B0HK8KC8BL": {
     "title": "Rich Bake Whole Wheat Baguette Bread",
@@ -437657,20 +437846,23 @@
     "last_seen": 1794398734
   },
   "B0B4HKVVF8": {
-    "title": "Charmaine",
+    "title": "Charmaine Womens Plain Cotton Leggings (pack of 1)",
     "url": "https://www.amazon.eg/dp/B0B4HKVVF8",
-    "last_price": 269.0,
-    "lowest_price": 269.0,
+    "last_price": 220.31,
+    "lowest_price": 220.31,
     "highest_price": 269.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1794308139,
         "price": 269.0
+      },
+      {
+        "timestamp": 1795789447,
+        "price": 220.31
       }
     ],
-    "last_seen": 1795563741
+    "last_seen": 1795789447
   },
   "B0HJ66MWH4": {
     "title": "junior",
@@ -439003,18 +439195,21 @@
   "B0GSRM8JJN": {
     "title": "Price Label Gun Model CN-979 MX-5500 H588 English Version Handheld Price Tag Labeler for Retail Shops Supermarkets and Inventory Pricing Stickers Easy to Use – Standard Color",
     "url": "https://www.amazon.eg/dp/B0GSRM8JJN",
-    "last_price": 277.06,
-    "lowest_price": 277.06,
+    "last_price": 220.03,
+    "lowest_price": 220.03,
     "highest_price": 277.06,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1794325359,
         "price": 277.06
+      },
+      {
+        "timestamp": 1795789510,
+        "price": 220.03
       }
     ],
-    "last_seen": 1794325359
+    "last_seen": 1795789510
   },
   "B0CT5VYFM2": {
     "title": "JYC CREATIVE Holland Flag, 90 cm x 150 cm, Orange, White, Blue, Patriotic, Foldable, Polyester, Flag, Multiple occasions, Demonstrations, Indoor, Outdoor (Moderate), Sports, Buildings",
@@ -440739,11 +440934,10 @@
   "B0GCWNMZCX": {
     "title": "Joyroom JR-TCG01 65W GaN Charger UK Plug with 1.2m 100W USB-C Cable - Black",
     "url": "https://www.amazon.eg/dp/B0GCWNMZCX",
-    "last_price": 849.0,
-    "lowest_price": 849.0,
+    "last_price": 657.39,
+    "lowest_price": 657.39,
     "highest_price": 950.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1794397946,
@@ -440752,9 +440946,13 @@
       {
         "timestamp": 1794579241,
         "price": 849.0
+      },
+      {
+        "timestamp": 1795789545,
+        "price": 657.39
       }
     ],
-    "last_seen": 1794579241
+    "last_seen": 1795789545
   },
   "B0FPD4L34S": {
     "title": "DOOGEE Tab A9 (WiFi), (ROM: 3+9) 12GB+ RAM: 64G), \"10.1\" Inch, IPS LCD HD Display, 6580mAh Battery, Android 15 (Black)",
@@ -461119,11 +461317,10 @@
   "B0DZHT23Q2": {
     "title": "Havit UC230 33W GaN Fast Charger USB C PD 30W USB A Dual Port Wall Charger Compatible with iPhone Samsung Galaxy Xiaomi Huawei Google Pixel Tablet Laptop Smartwatch",
     "url": "https://www.amazon.eg/dp/B0DZHT23Q2",
-    "last_price": 249.0,
-    "lowest_price": 249.0,
+    "last_price": 211.65,
+    "lowest_price": 211.65,
     "highest_price": 275.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1794738019,
@@ -461140,9 +461337,13 @@
       {
         "timestamp": 1795088389,
         "price": 249.0
+      },
+      {
+        "timestamp": 1795789536,
+        "price": 211.65
       }
     ],
-    "last_seen": 1795563373
+    "last_seen": 1795789536
   },
   "B0CPVLNC53": {
     "title": "adidas",
@@ -476855,18 +477056,21 @@
   "B093D19TJ5": {
     "title": "MT Milk Frother Handheld, RK Electric Milk Foamer for Coffee, USB Rechargeable Coffee Frother with 2 Stainless Steel Whisks, 3-Speed Adjustable Drink Mixer for Cappuccino",
     "url": "https://www.amazon.eg/dp/B093D19TJ5",
-    "last_price": 190.0,
-    "lowest_price": 190.0,
+    "last_price": 129.68,
+    "lowest_price": 129.68,
     "highest_price": 190.0,
-    "last_alerted_price": null,
-    "last_alerted_used_price": null,
+    "last_alerted_price": 129.68,
     "history": [
       {
         "timestamp": 1795208292,
         "price": 190.0
+      },
+      {
+        "timestamp": 1795789564,
+        "price": 129.68
       }
     ],
-    "last_seen": 1795296795
+    "last_seen": 1795789564
   },
   "B0FG2QH2G7": {
     "title": "Glade Auto holder & refill Amber & Oud + Free Refill 269ml",
@@ -476919,18 +477123,21 @@
   "B09XFD2YMF": {
     "title": "Tramontina PLENUS 4 PCS KNIVES SET",
     "url": "https://www.amazon.eg/dp/B09XFD2YMF",
-    "last_price": 482.5,
-    "lowest_price": 482.5,
+    "last_price": 410.13,
+    "lowest_price": 410.13,
     "highest_price": 482.5,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1795208298,
         "price": 482.5
+      },
+      {
+        "timestamp": 1795789565,
+        "price": 410.13
       }
     ],
-    "last_seen": 1795296798
+    "last_seen": 1795789565
   },
   "B0FBS2NJTJ": {
     "title": "Heavy Duty Floor Squeegee Broom With 51 in Long Adjustable Telescopic Handle - Silicon Rubber Scrubber for Home, Garage, Bathroom, Tile, Marble, Glass, Window Cleaning (multicolor)",
@@ -489003,18 +489210,21 @@
   "B0CSXLKTDM": {
     "title": "Portable Folding Desk with Cup Holder & iPad - Foldable Bedside Table for Indoor Outdoor Camping Study Reading Takeet 床",
     "url": "https://www.amazon.eg/dp/B0CSXLKTDM",
-    "last_price": 162.68,
-    "lowest_price": 162.68,
+    "last_price": 138.28,
+    "lowest_price": 138.28,
     "highest_price": 162.68,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1795474264,
         "price": 162.68
+      },
+      {
+        "timestamp": 1795789495,
+        "price": 138.28
       }
     ],
-    "last_seen": 1795655104
+    "last_seen": 1795789529
   },
   "B0DGX97H9N": {
     "title": "GODOX Wireless Lavalier Microphone Cube-SC Kit2, Microphone for iPhone 15/16 and Android (2 TX + 1 RX Charging Case), Mini Noise Canceling Microphone, Battery Life 30H, 300 m/1000 feet,",
@@ -494345,20 +494555,23 @@
     "last_seen": 1795663940
   },
   "B0F1XDPNHG": {
-    "title": "Amazon.eg product",
+    "title": "adidas MEN COURTBLOCK SHOES",
     "url": "https://www.amazon.eg/dp/B0F1XDPNHG",
-    "last_price": 2755.0,
-    "lowest_price": 2755.0,
+    "last_price": 2167.76,
+    "lowest_price": 2167.76,
     "highest_price": 2755.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1795519679,
         "price": 2755.0
+      },
+      {
+        "timestamp": 1795789458,
+        "price": 2167.76
       }
     ],
-    "last_seen": 1795519702
+    "last_seen": 1795789458
   },
   "B0FSSZP9VP": {
     "title": "Amazon.eg product",
@@ -498781,20 +498994,23 @@
     "last_seen": 1795544462
   },
   "B0FSXWXDWF": {
-    "title": "Amazon.eg product",
+    "title": "Joyroom JR-BP561 3-in-1 Magnetic Passive Capacitive Stylus Pen - White",
     "url": "https://www.amazon.eg/dp/B0FSXWXDWF",
-    "last_price": 269.0,
-    "lowest_price": 269.0,
+    "last_price": 215.35,
+    "lowest_price": 215.35,
     "highest_price": 269.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1795544438,
         "price": 269.0
+      },
+      {
+        "timestamp": 1795789536,
+        "price": 215.35
       }
     ],
-    "last_seen": 1795548720
+    "last_seen": 1795789536
   },
   "B0BWF3MGHW": {
     "title": "Amazon.eg product",
@@ -501687,18 +501903,21 @@
   "B0CLH5V57G": {
     "title": "TWS-3 Wireless Bluetooth Earbuds, Touch Control Headphones, Compatible with All Smartphones, In-Ear, White",
     "url": "https://www.amazon.eg/dp/B0CLH5V57G",
-    "last_price": 285.0,
-    "lowest_price": 285.0,
+    "last_price": 224.1,
+    "lowest_price": 224.1,
     "highest_price": 285.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1795563419,
         "price": 285.0
+      },
+      {
+        "timestamp": 1795789537,
+        "price": 224.1
       }
     ],
-    "last_seen": 1795655110
+    "last_seen": 1795789537
   },
   "B0F62R9QTV": {
     "title": "GameSir X5 Lite Black (1 Year Warranty)",
@@ -507093,20 +507312,23 @@
     "last_seen": 1795604141
   },
   "B0FW291X3T": {
-    "title": "Amazon.eg product",
+    "title": "adidas Womens GALAXY 8 W SHOES - LOW (NON FOOTBALL)",
     "url": "https://www.amazon.eg/dp/B0FW291X3T",
-    "last_price": 2767.0,
-    "lowest_price": 2767.0,
+    "last_price": 2351.95,
+    "lowest_price": 2351.95,
     "highest_price": 2767.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1795604117,
         "price": 2767.0
+      },
+      {
+        "timestamp": 1795789436,
+        "price": 2351.95
       }
     ],
-    "last_seen": 1795668607
+    "last_seen": 1795789436
   },
   "B0DHVV1MXV": {
     "title": "Amazon.eg product",
@@ -508037,20 +508259,23 @@
     "last_seen": 1795612654
   },
   "B0F332WRF5": {
-    "title": "Amazon.eg product",
+    "title": "adidas WOMEN BREAKNET SLEEK SHOES",
     "url": "https://www.amazon.eg/dp/B0F332WRF5",
-    "last_price": 2531.0,
-    "lowest_price": 2531.0,
+    "last_price": 2277.9,
+    "lowest_price": 2277.9,
     "highest_price": 2531.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1795612629,
         "price": 2531.0
+      },
+      {
+        "timestamp": 1795789449,
+        "price": 2277.9
       }
     ],
-    "last_seen": 1795612654
+    "last_seen": 1795789449
   },
   "B0D5BNRPBD": {
     "title": "Amazon.eg product",
@@ -512867,18 +513092,21 @@
   "B0827TRL8B": {
     "title": "UGREEN 8K 60Hz FUHD HDMI 2.1 Male to Male Cotton-Braided Video Cable, 48Gbps High Speed Supports 3D Display Compatible With TV, Monitors, PC, Laptop (1M)",
     "url": "https://www.amazon.eg/dp/B0827TRL8B",
-    "last_price": 289.0,
-    "lowest_price": 289.0,
+    "last_price": 260.1,
+    "lowest_price": 260.1,
     "highest_price": 289.0,
     "last_alerted_price": null,
-    "last_alerted_used_price": null,
     "history": [
       {
         "timestamp": 1795655110,
         "price": 289.0
+      },
+      {
+        "timestamp": 1795789538,
+        "price": 260.1
       }
     ],
-    "last_seen": 1795655110
+    "last_seen": 1795789538
   },
   "B0H8JLHNDX": {
     "title": "ELMAGHRABY 606U Power Strip, 2500W, 6 Outlets, 4 USB Ports, USB-C Output, 2M Cable, Fire-Resistant Design, Durable Body, Non-Slip Feet, Ideal for Home & Office Use.",
@@ -515535,5 +515763,3635 @@
       }
     ],
     "last_seen": 1795668682
+  },
+  "B0BCQ7Z4N3": {
+    "title": "HOXSURY unisex-adult Sling Bag-11 Sling bag (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0BCQ7Z4N3",
+    "last_price": 187.2,
+    "lowest_price": 187.2,
+    "highest_price": 187.2,
+    "last_alerted_price": 187.2,
+    "history": [
+      {
+        "timestamp": 1795789434,
+        "price": 187.2
+      }
+    ],
+    "last_seen": 1795789466
+  },
+  "B0H6WQRR8V": {
+    "title": "REDMI Watch 6 Active Smartwatch with 1.85-Inch AMOLED Display, Bluetooth Calling, 18-Day Battery Life, Heart Rate & Blood Oxygen Monitoring, IP68 Water Resistance - Sunset Orange",
+    "url": "https://www.amazon.eg/dp/B0H6WQRR8V",
+    "last_price": 2057.86,
+    "lowest_price": 2057.86,
+    "highest_price": 2057.86,
+    "last_alerted_price": 2057.86,
+    "history": [
+      {
+        "timestamp": 1795789434,
+        "price": 2057.86
+      }
+    ],
+    "last_seen": 1795789545
+  },
+  "B0FT421DLW": {
+    "title": "adidas mens DURAMO RC2 M SHOES",
+    "url": "https://www.amazon.eg/dp/B0FT421DLW",
+    "last_price": 2141.15,
+    "lowest_price": 2141.15,
+    "highest_price": 2141.15,
+    "last_alerted_price": 2141.15,
+    "history": [
+      {
+        "timestamp": 1795789434,
+        "price": 2141.15
+      }
+    ],
+    "last_seen": 1795789434
+  },
+  "B0F2G9GP5K": {
+    "title": "adidas MEN DURAMO RC2 M SHOES",
+    "url": "https://www.amazon.eg/dp/B0F2G9GP5K",
+    "last_price": 1825.8,
+    "lowest_price": 1825.8,
+    "highest_price": 1825.8,
+    "last_alerted_price": 1825.8,
+    "history": [
+      {
+        "timestamp": 1795789434,
+        "price": 1825.8
+      }
+    ],
+    "last_seen": 1795789434
+  },
+  "B0BYJTWG7N": {
+    "title": "Mintra Men's Cai Slip On Shoes",
+    "url": "https://www.amazon.eg/dp/B0BYJTWG7N",
+    "last_price": 493.22,
+    "lowest_price": 493.22,
+    "highest_price": 493.22,
+    "last_alerted_price": 493.22,
+    "history": [
+      {
+        "timestamp": 1795789435,
+        "price": 493.22
+      }
+    ],
+    "last_seen": 1795789435
+  },
+  "B0DHQQ79VS": {
+    "title": "Andora Boys Oxford Turn Down Collar Modern",
+    "url": "https://www.amazon.eg/dp/B0DHQQ79VS",
+    "last_price": 267.75,
+    "lowest_price": 267.75,
+    "highest_price": 267.75,
+    "last_alerted_price": 267.75,
+    "history": [
+      {
+        "timestamp": 1795789435,
+        "price": 267.75
+      }
+    ],
+    "last_seen": 1795789435
+  },
+  "B0DV4PWCD2": {
+    "title": "KaberMisr 2020 - HD Polarized Sunglasses Night Vision Car Driving Glasses Motorcycle Sunglasses Light Dust Wind Protection",
+    "url": "https://www.amazon.eg/dp/B0DV4PWCD2",
+    "last_price": 79.84,
+    "lowest_price": 79.84,
+    "highest_price": 79.84,
+    "last_alerted_price": 79.84,
+    "history": [
+      {
+        "timestamp": 1795789435,
+        "price": 79.84
+      }
+    ],
+    "last_seen": 1795789435
+  },
+  "B0DK6V3K71": {
+    "title": "Sotex mens Sweatshirt Fleeced Crew Neck Sweatshirt (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0DK6V3K71",
+    "last_price": 386.75,
+    "lowest_price": 386.75,
+    "highest_price": 386.75,
+    "last_alerted_price": 386.75,
+    "history": [
+      {
+        "timestamp": 1795789435,
+        "price": 386.75
+      }
+    ],
+    "last_seen": 1795789435
+  },
+  "B0FL2RYM76": {
+    "title": "Andora Girls Hooded Gabardine Girls Jacket Jacket",
+    "url": "https://www.amazon.eg/dp/B0FL2RYM76",
+    "last_price": 424.15,
+    "lowest_price": 424.15,
+    "highest_price": 424.15,
+    "last_alerted_price": 424.15,
+    "history": [
+      {
+        "timestamp": 1795789435,
+        "price": 424.15
+      }
+    ],
+    "last_seen": 1795789435
+  },
+  "B0G4N9QF9Z": {
+    "title": "Women's Stylish Suede Buckle Clogs - Non-Slip Sole and Comfortable",
+    "url": "https://www.amazon.eg/dp/B0G4N9QF9Z",
+    "last_price": 608.4,
+    "lowest_price": 608.4,
+    "highest_price": 608.4,
+    "last_alerted_price": 608.4,
+    "history": [
+      {
+        "timestamp": 1795789436,
+        "price": 608.4
+      }
+    ],
+    "last_seen": 1795789436
+  },
+  "B0D73WDF35": {
+    "title": "adidas mens VS PACE 2.0 Sneaker",
+    "url": "https://www.amazon.eg/dp/B0D73WDF35",
+    "last_price": 2307.78,
+    "lowest_price": 2307.78,
+    "highest_price": 2307.78,
+    "last_alerted_price": 2307.78,
+    "history": [
+      {
+        "timestamp": 1795789436,
+        "price": 2307.78
+      }
+    ],
+    "last_seen": 1795789436
+  },
+  "B0F7HF2NF9": {
+    "title": "Skemi 1270BU - blue - for Mens",
+    "url": "https://www.amazon.eg/dp/B0F7HF2NF9",
+    "last_price": 628.15,
+    "lowest_price": 628.15,
+    "highest_price": 628.15,
+    "last_alerted_price": 628.15,
+    "history": [
+      {
+        "timestamp": 1795789436,
+        "price": 628.15
+      }
+    ],
+    "last_seen": 1795789436
+  },
+  "B0DKJF2W69": {
+    "title": "Now Shoes Men Genuine Leather Casual Shoes AK11",
+    "url": "https://www.amazon.eg/dp/B0DKJF2W69",
+    "last_price": 466.65,
+    "lowest_price": 466.65,
+    "highest_price": 466.65,
+    "last_alerted_price": 466.65,
+    "history": [
+      {
+        "timestamp": 1795789436,
+        "price": 466.65
+      }
+    ],
+    "last_seen": 1795789436
+  },
+  "B092332CJ3": {
+    "title": "Other Mountain Bike Mudguard MTB Bicycle Fenders Sets",
+    "url": "https://www.amazon.eg/dp/B092332CJ3",
+    "last_price": 47.84,
+    "lowest_price": 47.84,
+    "highest_price": 47.84,
+    "last_alerted_price": 47.84,
+    "history": [
+      {
+        "timestamp": 1795789437,
+        "price": 47.84
+      }
+    ],
+    "last_seen": 1795789437
+  },
+  "B0H2GF9ST3": {
+    "title": "tesla Sneakers",
+    "url": "https://www.amazon.eg/dp/B0H2GF9ST3",
+    "last_price": 182.34,
+    "lowest_price": 182.34,
+    "highest_price": 182.34,
+    "last_alerted_price": 182.34,
+    "history": [
+      {
+        "timestamp": 1795789437,
+        "price": 182.34
+      }
+    ],
+    "last_seen": 1795789437
+  },
+  "B0CD9W9BKQ": {
+    "title": "Charmaine Womens Spaghetti Strap Cotton Cami Vest",
+    "url": "https://www.amazon.eg/dp/B0CD9W9BKQ",
+    "last_price": 138.6,
+    "lowest_price": 138.6,
+    "highest_price": 138.6,
+    "last_alerted_price": 138.6,
+    "history": [
+      {
+        "timestamp": 1795789446,
+        "price": 138.6
+      }
+    ],
+    "last_seen": 1795789446
+  },
+  "B0FT4287CC": {
+    "title": "adidas Women's Duramo Rc2 Running Shoes Pink 6.5",
+    "url": "https://www.amazon.eg/dp/B0FT4287CC",
+    "last_price": 2062.95,
+    "lowest_price": 2062.95,
+    "highest_price": 2062.95,
+    "last_alerted_price": 2062.95,
+    "history": [
+      {
+        "timestamp": 1795789446,
+        "price": 2062.95
+      }
+    ],
+    "last_seen": 1795789446
+  },
+  "B0D5HMS5Q4": {
+    "title": "Charmaine Crop Top Bralette Bra for Girls",
+    "url": "https://www.amazon.eg/dp/B0D5HMS5Q4",
+    "last_price": 129.6,
+    "lowest_price": 129.6,
+    "highest_price": 129.6,
+    "last_alerted_price": 129.6,
+    "history": [
+      {
+        "timestamp": 1795789446,
+        "price": 129.6
+      }
+    ],
+    "last_seen": 1795789446
+  },
+  "B08526QVCS": {
+    "title": "Aiboxin Elastic No Tie Flat Shoe Laces for Sneakers, Stretch Tieless Shoelaces for Kids & Adults, Magnetic Shoes Strings",
+    "url": "https://www.amazon.eg/dp/B08526QVCS",
+    "last_price": 94.6,
+    "lowest_price": 94.6,
+    "highest_price": 94.6,
+    "last_alerted_price": 94.6,
+    "history": [
+      {
+        "timestamp": 1795789446,
+        "price": 94.6
+      }
+    ],
+    "last_seen": 1795789446
+  },
+  "B0G2LFJFF5": {
+    "title": "Lulupack 1.7oz Airless Pump Bottle - Mini Travel Foundation Bottle for Moisturiser - Small Makeup Skincare Container for Toiletry - Empty Cream Vacuum Pump Dispenser for Cosmetic 50ml 6PCS Clear",
+    "url": "https://www.amazon.eg/dp/B0G2LFJFF5",
+    "last_price": 220.39,
+    "lowest_price": 220.39,
+    "highest_price": 220.39,
+    "last_alerted_price": 220.39,
+    "history": [
+      {
+        "timestamp": 1795789447,
+        "price": 220.39
+      }
+    ],
+    "last_seen": 1795789468
+  },
+  "B0DK4ZJNG5": {
+    "title": "adidas BARREDA Shoes",
+    "url": "https://www.amazon.eg/dp/B0DK4ZJNG5",
+    "last_price": 2337.08,
+    "lowest_price": 2337.08,
+    "highest_price": 2337.08,
+    "last_alerted_price": 2337.08,
+    "history": [
+      {
+        "timestamp": 1795789447,
+        "price": 2337.08
+      }
+    ],
+    "last_seen": 1795789447
+  },
+  "B0FL77RWFN": {
+    "title": "200ml Clear Plastic Bottles – 3 Pack – Flip Top Cap – Refillable – for Liquids, Lotions, Shampoo (Clear & White Lid)",
+    "url": "https://www.amazon.eg/dp/B0FL77RWFN",
+    "last_price": 104.81,
+    "lowest_price": 104.81,
+    "highest_price": 104.81,
+    "last_alerted_price": 104.81,
+    "history": [
+      {
+        "timestamp": 1795789447,
+        "price": 104.81
+      }
+    ],
+    "last_seen": 1795789466
+  },
+  "B09FGTT847": {
+    "title": "Easy-to-Use Lid Bag Organizer",
+    "url": "https://www.amazon.eg/dp/B09FGTT847",
+    "last_price": 75.91,
+    "lowest_price": 75.91,
+    "highest_price": 75.91,
+    "last_alerted_price": 75.91,
+    "history": [
+      {
+        "timestamp": 1795789447,
+        "price": 75.91
+      }
+    ],
+    "last_seen": 1795789468
+  },
+  "B08L5T29QS": {
+    "title": "Levi's Mens VINTAGE BW GRAPHIC TEE Classic (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B08L5T29QS",
+    "last_price": 1151.75,
+    "lowest_price": 1151.75,
+    "highest_price": 1151.75,
+    "last_alerted_price": 1151.75,
+    "history": [
+      {
+        "timestamp": 1795789447,
+        "price": 1151.75
+      }
+    ],
+    "last_seen": 1795789447
+  },
+  "B0HHJR612K": {
+    "title": "Junior Baby Girl Winter Mittens Set, 2 Pairs Soft Warm Cozy Hand Mittens, Cute Printed & Solid Design, Newborn Infant Anti-Scratch Hand Covers, Multicolor, 03",
+    "url": "https://www.amazon.eg/dp/B0HHJR612K",
+    "last_price": 97.2,
+    "lowest_price": 97.2,
+    "highest_price": 97.2,
+    "last_alerted_price": 97.2,
+    "history": [
+      {
+        "timestamp": 1795789448,
+        "price": 97.2
+      }
+    ],
+    "last_seen": 1795789448
+  },
+  "B07ZQCHHVF": {
+    "title": "Adidas tensaur hook and loop shoes running shoes for unisex kids",
+    "url": "https://www.amazon.eg/dp/B07ZQCHHVF",
+    "last_price": 1028.5,
+    "lowest_price": 1028.5,
+    "highest_price": 1028.5,
+    "last_alerted_price": 1028.5,
+    "history": [
+      {
+        "timestamp": 1795789448,
+        "price": 1028.5
+      }
+    ],
+    "last_seen": 1795789448
+  },
+  "B0B5F3J3JD": {
+    "title": "Neakhmer Packing Cubes 6 Set, Travel Storage Bags Multifunctional Clothing Sorting Packages, Travel Packing Pouches, Luggage Organizer Pouch, Shoe Bags Assorted Colors",
+    "url": "https://www.amazon.eg/dp/B0B5F3J3JD",
+    "last_price": 75.98,
+    "lowest_price": 75.98,
+    "highest_price": 75.98,
+    "last_alerted_price": 75.98,
+    "history": [
+      {
+        "timestamp": 1795789448,
+        "price": 75.98
+      }
+    ],
+    "last_seen": 1795789468
+  },
+  "B0CKXT97T5": {
+    "title": "adidas Unisex Kid's Runfalcon 5 Shoes Junior Running",
+    "url": "https://www.amazon.eg/dp/B0CKXT97T5",
+    "last_price": 1909.95,
+    "lowest_price": 1909.95,
+    "highest_price": 1909.95,
+    "last_alerted_price": 1909.95,
+    "history": [
+      {
+        "timestamp": 1795789448,
+        "price": 1909.95
+      }
+    ],
+    "last_seen": 1795789448
+  },
+  "B0GMHBVCJX": {
+    "title": "Activ mens ACTIV LIFESTYLE SHOES Sneaker",
+    "url": "https://www.amazon.eg/dp/B0GMHBVCJX",
+    "last_price": 1133.37,
+    "lowest_price": 1133.37,
+    "highest_price": 1133.37,
+    "last_alerted_price": 1133.37,
+    "history": [
+      {
+        "timestamp": 1795789448,
+        "price": 1133.37
+      }
+    ],
+    "last_seen": 1795789448
+  },
+  "B0FND9LKYV": {
+    "title": "2 Pieces 30ml Plastic Empty Refillable Travel Containers with Flip Cap for Face Wash, Hand Cream, Lotion, Shampoo, Conditioner and More - White",
+    "url": "https://www.amazon.eg/dp/B0FND9LKYV",
+    "last_price": 53.35,
+    "lowest_price": 53.35,
+    "highest_price": 53.35,
+    "last_alerted_price": 53.35,
+    "history": [
+      {
+        "timestamp": 1795789449,
+        "price": 53.35
+      }
+    ],
+    "last_seen": 1795789468
+  },
+  "B0FBS7GT3F": {
+    "title": "Now Shoes Men's Classic Oxford Shoes - Lace-Up Formal & Business Attire Footwear AK7",
+    "url": "https://www.amazon.eg/dp/B0FBS7GT3F",
+    "last_price": 466.65,
+    "lowest_price": 466.65,
+    "highest_price": 466.65,
+    "last_alerted_price": 466.65,
+    "history": [
+      {
+        "timestamp": 1795789449,
+        "price": 466.65
+      }
+    ],
+    "last_seen": 1795789449
+  },
+  "B0DWSZHYVQ": {
+    "title": "CAESAR Womens women wool plain pullover with collar and multidesign women wool plain pullover with collar and multidesign",
+    "url": "https://www.amazon.eg/dp/B0DWSZHYVQ",
+    "last_price": 272.61,
+    "lowest_price": 272.61,
+    "highest_price": 272.61,
+    "last_alerted_price": 272.61,
+    "history": [
+      {
+        "timestamp": 1795789449,
+        "price": 272.61
+      }
+    ],
+    "last_seen": 1795789449
+  },
+  "B0F2B8JHMM": {
+    "title": "adidas unisex-adult ADILETTE COMFORT SLIDES",
+    "url": "https://www.amazon.eg/dp/B0F2B8JHMM",
+    "last_price": 2042.1,
+    "lowest_price": 2042.1,
+    "highest_price": 2042.1,
+    "last_alerted_price": 2042.1,
+    "history": [
+      {
+        "timestamp": 1795789449,
+        "price": 2042.1
+      }
+    ],
+    "last_seen": 1795789449
+  },
+  "B0H7SW3L66": {
+    "title": "KX-115 Game Controller Vacuum Pencil Case Hard Shell Storage Organizer Durable Shockproof Design Large Capacity for School Supplies Multi Color and Shapes",
+    "url": "https://www.amazon.eg/dp/B0H7SW3L66",
+    "last_price": 206.1,
+    "lowest_price": 206.1,
+    "highest_price": 206.1,
+    "last_alerted_price": 206.1,
+    "history": [
+      {
+        "timestamp": 1795789449,
+        "price": 206.1
+      }
+    ],
+    "last_seen": 1795789519
+  },
+  "B0GSK7M2TB": {
+    "title": "ISTANBUL MODEL Women’s High-Waist Flare Yoga Pants – Soft Stretch Leggings for Gym, Yoga & Casual Wear",
+    "url": "https://www.amazon.eg/dp/B0GSK7M2TB",
+    "last_price": 204.2,
+    "lowest_price": 204.2,
+    "highest_price": 204.2,
+    "last_alerted_price": 204.2,
+    "history": [
+      {
+        "timestamp": 1795789450,
+        "price": 204.2
+      }
+    ],
+    "last_seen": 1795789450
+  },
+  "B0HD83YNZK": {
+    "title": "Carina Cookies Padded Bra with Lace",
+    "url": "https://www.amazon.eg/dp/B0HD83YNZK",
+    "last_price": 170.1,
+    "lowest_price": 170.1,
+    "highest_price": 170.1,
+    "last_alerted_price": 170.1,
+    "history": [
+      {
+        "timestamp": 1795789456,
+        "price": 170.1
+      }
+    ],
+    "last_seen": 1795789456
+  },
+  "B0F5X5YZ4X": {
+    "title": "Cottonil Womens Cottonil - Sport Cotton Bra For Women Cottonil - Sport Cotton Bra For Women (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0F5X5YZ4X",
+    "last_price": 137.51,
+    "lowest_price": 137.51,
+    "highest_price": 137.51,
+    "last_alerted_price": 137.51,
+    "history": [
+      {
+        "timestamp": 1795789456,
+        "price": 137.51
+      }
+    ],
+    "last_seen": 1795789456
+  },
+  "B0FT8C84LW": {
+    "title": "703326-7033260306- Vinitto Men’s Sports Sneakers with EVA Sole – Comfortable Athletic Running Shoes - Navy, 46 EU",
+    "url": "https://www.amazon.eg/dp/B0FT8C84LW",
+    "last_price": 630.03,
+    "lowest_price": 630.03,
+    "highest_price": 630.03,
+    "last_alerted_price": 630.03,
+    "history": [
+      {
+        "timestamp": 1795789456,
+        "price": 630.03
+      }
+    ],
+    "last_seen": 1795789456
+  },
+  "B0FQCJ6VKV": {
+    "title": "Men's Dress Shoes Leather Slip-on Design Suit Occasions",
+    "url": "https://www.amazon.eg/dp/B0FQCJ6VKV",
+    "last_price": 218.73,
+    "lowest_price": 218.73,
+    "highest_price": 218.73,
+    "last_alerted_price": 218.73,
+    "history": [
+      {
+        "timestamp": 1795789456,
+        "price": 218.73
+      }
+    ],
+    "last_seen": 1795789456
+  },
+  "B0F2G8KFNY": {
+    "title": "adidas MEN BREAKNET 3.0 SHOES",
+    "url": "https://www.amazon.eg/dp/B0F2G8KFNY",
+    "last_price": 3150.1,
+    "lowest_price": 3150.1,
+    "highest_price": 3150.1,
+    "last_alerted_price": 3150.1,
+    "history": [
+      {
+        "timestamp": 1795789457,
+        "price": 3150.1
+      }
+    ],
+    "last_seen": 1795789457
+  },
+  "B092371SFW": {
+    "title": "Generic Stainless steel watch band for huawei huawei gt/gt2/pro/magic wrist strap bracelet-black",
+    "url": "https://www.amazon.eg/dp/B092371SFW",
+    "last_price": 103.37,
+    "lowest_price": 103.37,
+    "highest_price": 103.37,
+    "last_alerted_price": 103.37,
+    "history": [
+      {
+        "timestamp": 1795789457,
+        "price": 103.37
+      }
+    ],
+    "last_seen": 1795789457
+  },
+  "B0DCG7VMP2": {
+    "title": "adidas mens URBAN COURT Shoes",
+    "url": "https://www.amazon.eg/dp/B0DCG7VMP2",
+    "last_price": 2540.65,
+    "lowest_price": 2540.65,
+    "highest_price": 2540.65,
+    "last_alerted_price": 2540.65,
+    "history": [
+      {
+        "timestamp": 1795789457,
+        "price": 2540.65
+      }
+    ],
+    "last_seen": 1795789457
+  },
+  "B0GTQXDFKZ": {
+    "title": "SONEX @ سحاب صدر بطن MS-039 مصنه من خامات عاليه الجوده مميزه لتمارين الليقاه البدنيه",
+    "url": "https://www.amazon.eg/dp/B0GTQXDFKZ",
+    "last_price": 305.67,
+    "lowest_price": 305.67,
+    "highest_price": 305.67,
+    "last_alerted_price": 305.67,
+    "history": [
+      {
+        "timestamp": 1795789457,
+        "price": 305.67
+      }
+    ],
+    "last_seen": 1795789457
+  },
+  "B0CNX94F6F": {
+    "title": "Reebok womens ENERGEN TECH 2 Sneaker",
+    "url": "https://www.amazon.eg/dp/B0CNX94F6F",
+    "last_price": 2548.05,
+    "lowest_price": 2548.05,
+    "highest_price": 2548.05,
+    "last_alerted_price": 2548.05,
+    "history": [
+      {
+        "timestamp": 1795789457,
+        "price": 2548.05
+      }
+    ],
+    "last_seen": 1795789457
+  },
+  "B0CYT8LG5L": {
+    "title": "adidas mens Ultimashow 2.0 Shoes SHOES",
+    "url": "https://www.amazon.eg/dp/B0CYT8LG5L",
+    "last_price": 2841.95,
+    "lowest_price": 2841.95,
+    "highest_price": 2841.95,
+    "last_alerted_price": 2841.95,
+    "history": [
+      {
+        "timestamp": 1795789458,
+        "price": 2841.95
+      }
+    ],
+    "last_seen": 1795789458
+  },
+  "B0F2G23N9B": {
+    "title": "adidas MEN DURAMO RC2 M SHOES",
+    "url": "https://www.amazon.eg/dp/B0F2G23N9B",
+    "last_price": 2455.65,
+    "lowest_price": 2455.65,
+    "highest_price": 2455.65,
+    "last_alerted_price": 2455.65,
+    "history": [
+      {
+        "timestamp": 1795789458,
+        "price": 2455.65
+      }
+    ],
+    "last_seen": 1795789458
+  },
+  "B0FJMDX3N2": {
+    "title": "Levi's Mens RED TAB VINTAGE TEE Tees (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0FJMDX3N2",
+    "last_price": 652.34,
+    "lowest_price": 652.34,
+    "highest_price": 652.34,
+    "last_alerted_price": 652.34,
+    "history": [
+      {
+        "timestamp": 1795789458,
+        "price": 652.34
+      }
+    ],
+    "last_seen": 1795789458
+  },
+  "B0DWTTY2RJ": {
+    "title": "Cottonil Mens Cottonil set of 3 Stretch Undershirt O neck Modern (pack of 3)",
+    "url": "https://www.amazon.eg/dp/B0DWTTY2RJ",
+    "last_price": 545.02,
+    "lowest_price": 545.02,
+    "highest_price": 545.02,
+    "last_alerted_price": 545.02,
+    "history": [
+      {
+        "timestamp": 1795789458,
+        "price": 545.02
+      }
+    ],
+    "last_seen": 1795789458
+  },
+  "B0HFHJSBV7": {
+    "title": "CARINA Womens Leopard Padded Bra Bra (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0HFHJSBV7",
+    "last_price": 189.0,
+    "lowest_price": 189.0,
+    "highest_price": 189.0,
+    "last_alerted_price": 189.0,
+    "history": [
+      {
+        "timestamp": 1795789459,
+        "price": 189.0
+      }
+    ],
+    "last_seen": 1795789459
+  },
+  "B0CYPYXX2K": {
+    "title": "Levi's Mens Relaxed Fit Trucker Truckers (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0CYPYXX2K",
+    "last_price": 3337.59,
+    "lowest_price": 3337.59,
+    "highest_price": 3337.59,
+    "last_alerted_price": 3337.59,
+    "history": [
+      {
+        "timestamp": 1795789459,
+        "price": 3337.59
+      }
+    ],
+    "last_seen": 1795789459
+  },
+  "B0FGDSB33J": {
+    "title": "U STRUCTURED CLASSIC CAP SANDRIFT SM",
+    "url": "https://www.amazon.eg/dp/B0FGDSB33J",
+    "last_price": 982.8,
+    "lowest_price": 982.8,
+    "highest_price": 982.8,
+    "last_alerted_price": 982.8,
+    "history": [
+      {
+        "timestamp": 1795789459,
+        "price": 982.8
+      }
+    ],
+    "last_seen": 1795789459
+  },
+  "B0FJMF1YLR": {
+    "title": "Levi's Mens Men's 512™ Slim Taper Jeans Jeans (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0FJMF1YLR",
+    "last_price": 2113.2,
+    "lowest_price": 2113.2,
+    "highest_price": 2113.2,
+    "last_alerted_price": 2113.2,
+    "history": [
+      {
+        "timestamp": 1795789459,
+        "price": 2113.2
+      }
+    ],
+    "last_seen": 1795789459
+  },
+  "B0GS9QM2SC": {
+    "title": "JIL Mens SS T-SHIRT WITH PLACKET AND PANTS PJ Pajama Set (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0GS9QM2SC",
+    "last_price": 687.65,
+    "lowest_price": 687.65,
+    "highest_price": 687.65,
+    "last_alerted_price": 687.65,
+    "history": [
+      {
+        "timestamp": 1795789459,
+        "price": 687.65
+      }
+    ],
+    "last_seen": 1795789459
+  },
+  "B0F1X4BTZW": {
+    "title": "adidas WOMEN RUNFALCON 5 W SHOES",
+    "url": "https://www.amazon.eg/dp/B0F1X4BTZW",
+    "last_price": 1725.59,
+    "lowest_price": 1725.59,
+    "highest_price": 1725.59,
+    "last_alerted_price": 1725.59,
+    "history": [
+      {
+        "timestamp": 1795789460,
+        "price": 1725.59
+      }
+    ],
+    "last_seen": 1795789460
+  },
+  "B0D1JH3PRC": {
+    "title": "Under Armour mens UA Charged Pursuit 4",
+    "url": "https://www.amazon.eg/dp/B0D1JH3PRC",
+    "last_price": 2851.2,
+    "lowest_price": 2851.2,
+    "highest_price": 2851.2,
+    "last_alerted_price": 2851.2,
+    "history": [
+      {
+        "timestamp": 1795789460,
+        "price": 2851.2
+      }
+    ],
+    "last_seen": 1795789460
+  },
+  "B0F1XMQTDQ": {
+    "title": "adidas UNISEX ADULT F50 CLUB FG/MG SHOES",
+    "url": "https://www.amazon.eg/dp/B0F1XMQTDQ",
+    "last_price": 1725.76,
+    "lowest_price": 1725.76,
+    "highest_price": 1725.76,
+    "last_alerted_price": 1725.76,
+    "history": [
+      {
+        "timestamp": 1795789460,
+        "price": 1725.76
+      }
+    ],
+    "last_seen": 1795789460
+  },
+  "B0DHZTF1XX": {
+    "title": "adidas mens RUN 70s 2.0 Shoes",
+    "url": "https://www.amazon.eg/dp/B0DHZTF1XX",
+    "last_price": 3232.55,
+    "lowest_price": 3232.55,
+    "highest_price": 3232.55,
+    "last_alerted_price": 3232.55,
+    "history": [
+      {
+        "timestamp": 1795789460,
+        "price": 3232.55
+      }
+    ],
+    "last_seen": 1795789460
+  },
+  "B0D3XD7CK2": {
+    "title": "adidas mens Grand Court Base 00S Shoes",
+    "url": "https://www.amazon.eg/dp/B0D3XD7CK2",
+    "last_price": 2998.24,
+    "lowest_price": 2998.24,
+    "highest_price": 2998.24,
+    "last_alerted_price": 2998.24,
+    "history": [
+      {
+        "timestamp": 1795789460,
+        "price": 2998.24
+      }
+    ],
+    "last_seen": 1795789460
+  },
+  "B0GXYQLMP9": {
+    "title": "Premium Leather Shoulder Bag, Double Shoulder Armpit Bag for Men, Anti-Theft Hidden Adjustable Shoulder Holster for Men, Black",
+    "url": "https://www.amazon.eg/dp/B0GXYQLMP9",
+    "last_price": 389.82,
+    "lowest_price": 389.82,
+    "highest_price": 389.82,
+    "last_alerted_price": 389.82,
+    "history": [
+      {
+        "timestamp": 1795789466,
+        "price": 389.82
+      }
+    ],
+    "last_seen": 1795789466
+  },
+  "B0G7ZQGPRL": {
+    "title": "ACTIV BTS BACKPACK,SKYBLUE,NS",
+    "url": "https://www.amazon.eg/dp/B0G7ZQGPRL",
+    "last_price": 279.74,
+    "lowest_price": 279.74,
+    "highest_price": 279.74,
+    "last_alerted_price": 279.74,
+    "history": [
+      {
+        "timestamp": 1795789467,
+        "price": 279.74
+      }
+    ],
+    "last_seen": 1795789467
+  },
+  "B0D49SK7DS": {
+    "title": "Cubs Water Melon Fushia Large Pouch",
+    "url": "https://www.amazon.eg/dp/B0D49SK7DS",
+    "last_price": 249.32,
+    "lowest_price": 249.32,
+    "highest_price": 249.32,
+    "last_alerted_price": 249.32,
+    "history": [
+      {
+        "timestamp": 1795789467,
+        "price": 249.32
+      }
+    ],
+    "last_seen": 1795789467
+  },
+  "B0BQGJJD8R": {
+    "title": "GUESS Women's Shoulder Crossbody Handbag Alexie 4G Logo, Beige, Latte Logo, Western",
+    "url": "https://www.amazon.eg/dp/B0BQGJJD8R",
+    "last_price": 4975.25,
+    "lowest_price": 4975.25,
+    "highest_price": 4975.25,
+    "last_alerted_price": 4975.25,
+    "history": [
+      {
+        "timestamp": 1795789467,
+        "price": 4975.25
+      }
+    ],
+    "last_seen": 1795789467
+  },
+  "B0F3J3RRRB": {
+    "title": "American Tourister FRONTEC spinner 79/29 TSA BLACK",
+    "url": "https://www.amazon.eg/dp/B0F3J3RRRB",
+    "last_price": 11948.93,
+    "lowest_price": 11948.93,
+    "highest_price": 11948.93,
+    "last_alerted_price": 11948.93,
+    "history": [
+      {
+        "timestamp": 1795789467,
+        "price": 11948.93
+      }
+    ],
+    "last_seen": 1795789467
+  },
+  "B0F9WXXWX3": {
+    "title": "Migo Hard Luggage, Size 28, Grey",
+    "url": "https://www.amazon.eg/dp/B0F9WXXWX3",
+    "last_price": 2662.84,
+    "lowest_price": 2662.84,
+    "highest_price": 2662.84,
+    "last_alerted_price": 2662.84,
+    "history": [
+      {
+        "timestamp": 1795789467,
+        "price": 2662.84
+      }
+    ],
+    "last_seen": 1795789467
+  },
+  "B0F4DRG373": {
+    "title": "American Tourister LITEVLO 55 CM TSA MINT GREEN",
+    "url": "https://www.amazon.eg/dp/B0F4DRG373",
+    "last_price": 3296.14,
+    "lowest_price": 3296.14,
+    "highest_price": 3296.14,
+    "last_alerted_price": 3296.14,
+    "history": [
+      {
+        "timestamp": 1795789468,
+        "price": 3296.14
+      }
+    ],
+    "last_seen": 1795789468
+  },
+  "B09V87D5XK": {
+    "title": "Must My Cute Girl 3 Cases Casual Backpack, Multicolor",
+    "url": "https://www.amazon.eg/dp/B09V87D5XK",
+    "last_price": 3809.3,
+    "lowest_price": 3809.3,
+    "highest_price": 3809.3,
+    "last_alerted_price": 3809.3,
+    "history": [
+      {
+        "timestamp": 1795789468,
+        "price": 3809.3
+      }
+    ],
+    "last_seen": 1795789468
+  },
+  "B092336DDC": {
+    "title": "ITME 8 Pcs Large Travel Shoe Bags Waterproof and Dustproof Travel Shoe Storage Bags Space Saving Non-Woven Drawstring Shoe Bags Men and Women Transparent Travel Shoe Bags (44 * 32cm/Grey)",
+    "url": "https://www.amazon.eg/dp/B092336DDC",
+    "last_price": 98.24,
+    "lowest_price": 98.24,
+    "highest_price": 98.24,
+    "last_alerted_price": 98.24,
+    "history": [
+      {
+        "timestamp": 1795789468,
+        "price": 98.24
+      }
+    ],
+    "last_seen": 1795789468
+  },
+  "B0G25X1XT5": {
+    "title": "2 * 1 water bottle-this is a 600ml portable water bottle for running, exercise and outdoor sports with adjustable spray head that is multi-colored and multi-use",
+    "url": "https://www.amazon.eg/dp/B0G25X1XT5",
+    "last_price": 217.62,
+    "lowest_price": 217.62,
+    "highest_price": 217.62,
+    "last_alerted_price": 217.62,
+    "history": [
+      {
+        "timestamp": 1795789468,
+        "price": 217.62
+      }
+    ],
+    "last_seen": 1795789468
+  },
+  "B09P5CR3RM": {
+    "title": "3 Pieces Digital Travel Luggage Scale 110 Lbs Hand Held Digital Weight Suitcase Scale Portable Baggage Travel Bag Scale with Hook, Battery Included",
+    "url": "https://www.amazon.eg/dp/B09P5CR3RM",
+    "last_price": 361.91,
+    "lowest_price": 361.91,
+    "highest_price": 361.91,
+    "last_alerted_price": 361.91,
+    "history": [
+      {
+        "timestamp": 1795789469,
+        "price": 361.91
+      }
+    ],
+    "last_seen": 1795789469
+  },
+  "B073ZD2ZWJ": {
+    "title": "House of Quirk Travel Storage Clothes Packing Cubes Space Savers Bags Cosmetics/Underwear/Socks/Shoes Organizer Pouch (Pack of 6 Maroon) Polyester",
+    "url": "https://www.amazon.eg/dp/B073ZD2ZWJ",
+    "last_price": 186.92,
+    "lowest_price": 186.92,
+    "highest_price": 186.92,
+    "last_alerted_price": 186.92,
+    "history": [
+      {
+        "timestamp": 1795789470,
+        "price": 186.92
+      }
+    ],
+    "last_seen": 1795789470
+  },
+  "B0GYFMCVH6": {
+    "title": "Fullora Clear Acrylic Face Mask, Washable and Reusable, Anti-Fog Face Mask for Men and Women",
+    "url": "https://www.amazon.eg/dp/B0GYFMCVH6",
+    "last_price": 113.59,
+    "lowest_price": 113.59,
+    "highest_price": 113.59,
+    "last_alerted_price": 113.59,
+    "history": [
+      {
+        "timestamp": 1795789470,
+        "price": 113.59
+      }
+    ],
+    "last_seen": 1795789470
+  },
+  "B0GMDMGKDK": {
+    "title": "Foreveryoung-Wallet-10-Rose & light blue",
+    "url": "https://www.amazon.eg/dp/B0GMDMGKDK",
+    "last_price": 262.65,
+    "lowest_price": 262.65,
+    "highest_price": 262.65,
+    "last_alerted_price": 262.65,
+    "history": [
+      {
+        "timestamp": 1795789470,
+        "price": 262.65
+      }
+    ],
+    "last_seen": 1795789470
+  },
+  "B0F2J4CBDF": {
+    "title": "MG-1 3D Glow-in-the-Dark School Backpack Set, 3-Zipper School Bag, Insulated Lunch Bag & Pencil Case, Stylish & Durable for Kids & Students",
+    "url": "https://www.amazon.eg/dp/B0F2J4CBDF",
+    "last_price": 944.78,
+    "lowest_price": 944.78,
+    "highest_price": 944.78,
+    "last_alerted_price": 944.78,
+    "history": [
+      {
+        "timestamp": 1795789470,
+        "price": 944.78
+      }
+    ],
+    "last_seen": 1795789470
+  },
+  "B0DHBMNVBW": {
+    "title": "HOPEMOB Small Amber Glass Spray Bottles for Essential Oils, 2 oz, Mini Empty Fine Mist Spray Bottles, Set of 18",
+    "url": "https://www.amazon.eg/dp/B0DHBMNVBW",
+    "last_price": 428.58,
+    "lowest_price": 428.58,
+    "highest_price": 428.58,
+    "last_alerted_price": 428.58,
+    "history": [
+      {
+        "timestamp": 1795789471,
+        "price": 428.58
+      }
+    ],
+    "last_seen": 1795789471
+  },
+  "B0H684NGPM": {
+    "title": "Shot Glass Dispenser and Holder Including 6 Cups For Filling Liquids Multiple 6 Shot Dispenser",
+    "url": "https://www.amazon.eg/dp/B0H684NGPM",
+    "last_price": 228.63,
+    "lowest_price": 228.63,
+    "highest_price": 228.63,
+    "last_alerted_price": 228.63,
+    "history": [
+      {
+        "timestamp": 1795789477,
+        "price": 228.63
+      }
+    ],
+    "last_seen": 1795789477
+  },
+  "B0DDTJM9S4": {
+    "title": "A02-08-709/35/6 Wallet with 20 Card Slots, Large, Dark Brown",
+    "url": "https://www.amazon.eg/dp/B0DDTJM9S4",
+    "last_price": 288.47,
+    "lowest_price": 288.47,
+    "highest_price": 288.47,
+    "last_alerted_price": 288.47,
+    "history": [
+      {
+        "timestamp": 1795789478,
+        "price": 288.47
+      }
+    ],
+    "last_seen": 1795789478
+  },
+  "B0DDYB47ZL": {
+    "title": "Zip N GO",
+    "url": "https://www.amazon.eg/dp/B0DDYB47ZL",
+    "last_price": 301.99,
+    "lowest_price": 301.99,
+    "highest_price": 301.99,
+    "last_alerted_price": 301.99,
+    "history": [
+      {
+        "timestamp": 1795789478,
+        "price": 301.99
+      }
+    ],
+    "last_seen": 1795789478
+  },
+  "B0FT3YX4JL": {
+    "title": "2016 KX-5 Silicone Ice Cream Shaped Pencil Case Creative Design Durable and Fun for Kids Students and Daily Use Perfect Stationery Organizer Multicolor",
+    "url": "https://www.amazon.eg/dp/B0FT3YX4JL",
+    "last_price": 252.41,
+    "lowest_price": 252.41,
+    "highest_price": 252.41,
+    "last_alerted_price": 252.41,
+    "history": [
+      {
+        "timestamp": 1795789478,
+        "price": 252.41
+      }
+    ],
+    "last_seen": 1795789478
+  },
+  "B0D3HQC8VW": {
+    "title": "EGYBOX SA Fabric Zipper Laptop Backpack With Zipper Front Pocket And Small Leather Hand Bag For Laptop Protection - Brown",
+    "url": "https://www.amazon.eg/dp/B0D3HQC8VW",
+    "last_price": 612.63,
+    "lowest_price": 612.63,
+    "highest_price": 612.63,
+    "last_alerted_price": 612.63,
+    "history": [
+      {
+        "timestamp": 1795789478,
+        "price": 612.63
+      }
+    ],
+    "last_seen": 1795789478
+  },
+  "B0CXN27X6Q": {
+    "title": "Girls 1 Bag (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0CXN27X6Q",
+    "last_price": 393.39,
+    "lowest_price": 393.39,
+    "highest_price": 393.39,
+    "last_alerted_price": 393.39,
+    "history": [
+      {
+        "timestamp": 1795789479,
+        "price": 393.39
+      }
+    ],
+    "last_seen": 1795789479
+  },
+  "B0DYP4WH8B": {
+    "title": "Cubs Premium Duffel Sandstone Beige Large",
+    "url": "https://www.amazon.eg/dp/B0DYP4WH8B",
+    "last_price": 1420.8,
+    "lowest_price": 1420.8,
+    "highest_price": 1420.8,
+    "last_alerted_price": 1420.8,
+    "history": [
+      {
+        "timestamp": 1795789479,
+        "price": 1420.8
+      }
+    ],
+    "last_seen": 1795789479
+  },
+  "B0D929YJYP": {
+    "title": "Faux Leather Handbag Contains Shoulder Strap And Separate Coins Purse Include Interior Zipper Pocket Elegant Design Specially For Women - Green",
+    "url": "https://www.amazon.eg/dp/B0D929YJYP",
+    "last_price": 289.03,
+    "lowest_price": 289.03,
+    "highest_price": 289.03,
+    "last_alerted_price": 289.03,
+    "history": [
+      {
+        "timestamp": 1795789479,
+        "price": 289.03
+      }
+    ],
+    "last_seen": 1795789479
+  },
+  "B0DFHMNPDP": {
+    "title": "Pencil Case Be The Sunshine- PVC PM24020C",
+    "url": "https://www.amazon.eg/dp/B0DFHMNPDP",
+    "last_price": 165.66,
+    "lowest_price": 165.66,
+    "highest_price": 165.66,
+    "last_alerted_price": 165.66,
+    "history": [
+      {
+        "timestamp": 1795789479,
+        "price": 165.66
+      }
+    ],
+    "last_seen": 1795789479
+  },
+  "B0FDWYP86G": {
+    "title": "ANTA Womens SATCHEL Backpack (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0FDWYP86G",
+    "last_price": 1091.06,
+    "lowest_price": 1091.06,
+    "highest_price": 1091.06,
+    "last_alerted_price": 1091.06,
+    "history": [
+      {
+        "timestamp": 1795789480,
+        "price": 1091.06
+      }
+    ],
+    "last_seen": 1795789480
+  },
+  "B0D91VC9DL": {
+    "title": "Lacoste Anna Pique Canvas Zip Clutch for Women, Noir Farine",
+    "url": "https://www.amazon.eg/dp/B0D91VC9DL",
+    "last_price": 2756.25,
+    "lowest_price": 2756.25,
+    "highest_price": 2756.25,
+    "last_alerted_price": 2756.25,
+    "history": [
+      {
+        "timestamp": 1795789480,
+        "price": 2756.25
+      }
+    ],
+    "last_seen": 1795789480
+  },
+  "B0FMPB942K": {
+    "title": "Must Flower Dress Insulated Lunch Bag, Multicolor",
+    "url": "https://www.amazon.eg/dp/B0FMPB942K",
+    "last_price": 743.39,
+    "lowest_price": 743.39,
+    "highest_price": 743.39,
+    "last_alerted_price": 743.39,
+    "history": [
+      {
+        "timestamp": 1795789480,
+        "price": 743.39
+      }
+    ],
+    "last_seen": 1795789480
+  },
+  "B0BNN1HMGM": {
+    "title": "adidas RUN 2W MOB HD BLACK RUNNING OTHER BAG for Unisex size NS",
+    "url": "https://www.amazon.eg/dp/B0BNN1HMGM",
+    "last_price": 619.25,
+    "lowest_price": 619.25,
+    "highest_price": 619.25,
+    "last_alerted_price": 619.25,
+    "history": [
+      {
+        "timestamp": 1795789480,
+        "price": 619.25
+      }
+    ],
+    "last_seen": 1795789480
+  },
+  "B0DFHPGKZS": {
+    "title": "Migo Kids School Backpack trolley removable full set Blue, 14-Inch Size",
+    "url": "https://www.amazon.eg/dp/B0DFHPGKZS",
+    "last_price": 1060.91,
+    "lowest_price": 1060.91,
+    "highest_price": 1060.91,
+    "last_alerted_price": 1060.91,
+    "history": [
+      {
+        "timestamp": 1795789480,
+        "price": 1060.91
+      }
+    ],
+    "last_seen": 1795789480
+  },
+  "B0DP2Y5KTH": {
+    "title": "MADYOS Women's Elegant Glitter Soiree Handbag, SIZE 19 * 11, SILVER",
+    "url": "https://www.amazon.eg/dp/B0DP2Y5KTH",
+    "last_price": 535.53,
+    "lowest_price": 535.53,
+    "highest_price": 535.53,
+    "last_alerted_price": 535.53,
+    "history": [
+      {
+        "timestamp": 1795789481,
+        "price": 535.53
+      }
+    ],
+    "last_seen": 1795789481
+  },
+  "B0CGMDD4VH": {
+    "title": "Universal Minions Value Pack 5 in 1 -(Trolley) 18\"",
+    "url": "https://www.amazon.eg/dp/B0CGMDD4VH",
+    "last_price": 1615.9,
+    "lowest_price": 1615.9,
+    "highest_price": 1615.9,
+    "last_alerted_price": 1615.9,
+    "history": [
+      {
+        "timestamp": 1795789481,
+        "price": 1615.9
+      }
+    ],
+    "last_seen": 1795789481
+  },
+  "B0DFHNSFGX": {
+    "title": "Migo Kids School Backpack trolley removable full set Pink, 16-Inch Size",
+    "url": "https://www.amazon.eg/dp/B0DFHNSFGX",
+    "last_price": 1555.42,
+    "lowest_price": 1555.42,
+    "highest_price": 1555.42,
+    "last_alerted_price": 1555.42,
+    "history": [
+      {
+        "timestamp": 1795789481,
+        "price": 1555.42
+      }
+    ],
+    "last_seen": 1795789481
+  },
+  "B07GTC3RBW": {
+    "title": "Herschel Kid's Heritage Backpack, Fresh Salmon/Checkerboard Rubber, Youth 16L",
+    "url": "https://www.amazon.eg/dp/B07GTC3RBW",
+    "last_price": 1515.47,
+    "lowest_price": 1515.47,
+    "highest_price": 1515.47,
+    "last_alerted_price": 1515.47,
+    "history": [
+      {
+        "timestamp": 1795789481,
+        "price": 1515.47
+      }
+    ],
+    "last_seen": 1795789481
+  },
+  "B0DBZW4RXP": {
+    "title": "MUST Unisex Kids Art Luggage- Messenger Bag (pack of 1)",
+    "url": "https://www.amazon.eg/dp/B0DBZW4RXP",
+    "last_price": 1633.55,
+    "lowest_price": 1633.55,
+    "highest_price": 1633.55,
+    "last_alerted_price": 1633.55,
+    "history": [
+      {
+        "timestamp": 1795789481,
+        "price": 1633.55
+      }
+    ],
+    "last_seen": 1795789481
+  },
+  "B0DBHT786Z": {
+    "title": "Cerruti 1881 CEPU05981M Genuine Leather Wallet for Men, Black",
+    "url": "https://www.amazon.eg/dp/B0DBHT786Z",
+    "last_price": 3012.75,
+    "lowest_price": 3012.75,
+    "highest_price": 3012.75,
+    "last_alerted_price": 3012.75,
+    "history": [
+      {
+        "timestamp": 1795789482,
+        "price": 3012.75
+      }
+    ],
+    "last_seen": 1795789482
+  },
+  "B09R7TS753": {
+    "title": "Coral High Kids Four Compartment School Backpack - Saks Pink Star Patterned",
+    "url": "https://www.amazon.eg/dp/B09R7TS753",
+    "last_price": 1570.18,
+    "lowest_price": 1570.18,
+    "highest_price": 1570.18,
+    "last_alerted_price": 1570.18,
+    "history": [
+      {
+        "timestamp": 1795789482,
+        "price": 1570.18
+      }
+    ],
+    "last_seen": 1795789482
+  },
+  "B0GQSYQTNZ": {
+    "title": "Crystal Wide Tape Clear 4.5cm (300m)",
+    "url": "https://www.amazon.eg/dp/B0GQSYQTNZ",
+    "last_price": 41.65,
+    "lowest_price": 41.65,
+    "highest_price": 41.65,
+    "last_alerted_price": 41.65,
+    "history": [
+      {
+        "timestamp": 1795789495,
+        "price": 41.65
+      }
+    ],
+    "last_seen": 1795789495
+  },
+  "B0FTZ6GZV3": {
+    "title": "TECHZONE Magnetic Dry Erase Whiteboard 20x30 cm – Small Wall Mounted White Board with Pen, Eraser & Magnets – Lightweight Aluminum Frame for Home, Office, School, Kitchen.",
+    "url": "https://www.amazon.eg/dp/B0FTZ6GZV3",
+    "last_price": 46.5,
+    "lowest_price": 46.5,
+    "highest_price": 46.5,
+    "last_alerted_price": 46.5,
+    "history": [
+      {
+        "timestamp": 1795789495,
+        "price": 46.5
+      }
+    ],
+    "last_seen": 1795789495
+  },
+  "B002NGV6NO": {
+    "title": "MOB Professional Magnetic Whiteboard 90 x 60 cm Aluminium Frame Magnetic for Office, Commercial and Private Use",
+    "url": "https://www.amazon.eg/dp/B002NGV6NO",
+    "last_price": 354.25,
+    "lowest_price": 354.25,
+    "highest_price": 354.25,
+    "last_alerted_price": 354.25,
+    "history": [
+      {
+        "timestamp": 1795789495,
+        "price": 354.25
+      }
+    ],
+    "last_seen": 1795789495
+  },
+  "B0G4R5CGRX": {
+    "title": "Sonix Clothing Labeling Gun 1000 Piece Set with 6 Needles",
+    "url": "https://www.amazon.eg/dp/B0G4R5CGRX",
+    "last_price": 246.5,
+    "lowest_price": 246.5,
+    "highest_price": 246.5,
+    "last_alerted_price": 246.5,
+    "history": [
+      {
+        "timestamp": 1795789496,
+        "price": 246.5
+      }
+    ],
+    "last_seen": 1795789496
+  },
+  "B0D6Z3QMX9": {
+    "title": "Multi Purpose 2 Inch Manual Hand Operated Plastic Cello Tape Dispenser Cutter for Sealing Packing Parcel Packaging Boxes-1 Piece, Standard",
+    "url": "https://www.amazon.eg/dp/B0D6Z3QMX9",
+    "last_price": 66.6,
+    "lowest_price": 66.6,
+    "highest_price": 66.6,
+    "last_alerted_price": 66.6,
+    "history": [
+      {
+        "timestamp": 1795789496,
+        "price": 66.6
+      }
+    ],
+    "last_seen": 1795789496
+  },
+  "B0CJYLSZKQ": {
+    "title": "Elmaayergy TY-83/UCT-188 Adhesive Tape With Tape Dispenser With Durable Material, Suitable For School And Home",
+    "url": "https://www.amazon.eg/dp/B0CJYLSZKQ",
+    "last_price": 20.94,
+    "lowest_price": 20.94,
+    "highest_price": 20.94,
+    "last_alerted_price": 20.94,
+    "history": [
+      {
+        "timestamp": 1795789497,
+        "price": 20.94
+      }
+    ],
+    "last_seen": 1795789497
+  },
+  "B0HGFXZ1Z2": {
+    "title": "QUEST A5 Lined Notebook, 160 Pages, PU Leather, Gray, Elastic & Pen Holder",
+    "url": "https://www.amazon.eg/dp/B0HGFXZ1Z2",
+    "last_price": 74.25,
+    "lowest_price": 74.25,
+    "highest_price": 74.25,
+    "last_alerted_price": 74.25,
+    "history": [
+      {
+        "timestamp": 1795789497,
+        "price": 74.25
+      }
+    ],
+    "last_seen": 1795789497
+  },
+  "B0F3W7QSXN": {
+    "title": "Waste Chic Trash Basket, Home Decor Trash bins Trash Can decoative Wastebasket Trash Can for Home Offices (Grey)",
+    "url": "https://www.amazon.eg/dp/B0F3W7QSXN",
+    "last_price": 172.78,
+    "lowest_price": 172.78,
+    "highest_price": 172.78,
+    "last_alerted_price": 172.78,
+    "history": [
+      {
+        "timestamp": 1795789497,
+        "price": 172.78
+      }
+    ],
+    "last_seen": 1795789497
+  },
+  "B0D9NMXKTS": {
+    "title": "8pcs Erasable Pens Blue Eraser Pen, 0.7mm Rub Out Pens with Eraser, Friction Pen with Rubber on the End for Kids Adults School Work Paperwork",
+    "url": "https://www.amazon.eg/dp/B0D9NMXKTS",
+    "last_price": 127.94,
+    "lowest_price": 127.94,
+    "highest_price": 127.94,
+    "last_alerted_price": 127.94,
+    "history": [
+      {
+        "timestamp": 1795789498,
+        "price": 127.94
+      }
+    ],
+    "last_seen": 1795789498
+  },
+  "B0968WWB88": {
+    "title": "E0071 set of 6 gradient pens assorted for craft, drawing - grey",
+    "url": "https://www.amazon.eg/dp/B0968WWB88",
+    "last_price": 29.44,
+    "lowest_price": 29.44,
+    "highest_price": 29.44,
+    "last_alerted_price": 29.44,
+    "history": [
+      {
+        "timestamp": 1795789498,
+        "price": 29.44
+      }
+    ],
+    "last_seen": 1795789498
+  },
+  "B0HGFRXH4S": {
+    "title": "QUEST A5 Lined Notebook, 160 Pages, PU Leather, Black, Elastic & Pen Holder",
+    "url": "https://www.amazon.eg/dp/B0HGFRXH4S",
+    "last_price": 74.25,
+    "lowest_price": 74.25,
+    "highest_price": 74.25,
+    "last_alerted_price": 74.25,
+    "history": [
+      {
+        "timestamp": 1795789498,
+        "price": 74.25
+      }
+    ],
+    "last_seen": 1795789498
+  },
+  "B0985JC38G": {
+    "title": "Faber-Castell Colour Pencils, Set of 12, Assorted Colours",
+    "url": "https://www.amazon.eg/dp/B0985JC38G",
+    "last_price": 65.07,
+    "lowest_price": 65.07,
+    "highest_price": 65.07,
+    "last_alerted_price": 65.07,
+    "history": [
+      {
+        "timestamp": 1795789498,
+        "price": 65.07
+      }
+    ],
+    "last_seen": 1795789498
+  },
+  "B0DFVLJ4N7": {
+    "title": "Elmaayergy CPN0609 Cork Board With Metal Borders 60 * 90, Made With Premium Material For Durability And Long-Lasting Use - Wooden",
+    "url": "https://www.amazon.eg/dp/B0DFVLJ4N7",
+    "last_price": 459.96,
+    "lowest_price": 459.96,
+    "highest_price": 459.96,
+    "last_alerted_price": 459.96,
+    "history": [
+      {
+        "timestamp": 1795789498,
+        "price": 459.96
+      }
+    ],
+    "last_seen": 1795789498
+  },
+  "B0DDQCMSSC": {
+    "title": "Elmaayergy A155-2 Decorative Sand Pack 250 Gram, Premium Materials Ensure Durability And Professional Finish - Red",
+    "url": "https://www.amazon.eg/dp/B0DDQCMSSC",
+    "last_price": 18.65,
+    "lowest_price": 18.65,
+    "highest_price": 18.65,
+    "last_alerted_price": 18.65,
+    "history": [
+      {
+        "timestamp": 1795789499,
+        "price": 18.65
+      }
+    ],
+    "last_seen": 1795789499
+  },
+  "B003JYXCPE": {
+    "title": "Staedtler 0.7mm Graphite Mechanical Pencil, Red",
+    "url": "https://www.amazon.eg/dp/B003JYXCPE",
+    "last_price": 58.65,
+    "lowest_price": 58.65,
+    "highest_price": 58.65,
+    "last_alerted_price": 58.65,
+    "history": [
+      {
+        "timestamp": 1795789499,
+        "price": 58.65
+      }
+    ],
+    "last_seen": 1795789499
+  },
+  "B07YFFJ5G5": {
+    "title": "Cable Clips with Strong Self-Adhesive, XIAOXI Cable Management TV PC Wire Holder Sticky Tidy and Organizer Cord and Wires - 40 Pcs (Clear)",
+    "url": "https://www.amazon.eg/dp/B07YFFJ5G5",
+    "last_price": 60.92,
+    "lowest_price": 60.92,
+    "highest_price": 60.92,
+    "last_alerted_price": 60.92,
+    "history": [
+      {
+        "timestamp": 1795789499,
+        "price": 60.92
+      }
+    ],
+    "last_seen": 1795789538
+  },
+  "B0CQWM1RH5": {
+    "title": "Gelly Roll Ulebbe 3003 High Quality Highlighter Gel Pen Bright White ink pens 1mm Pens For write on dark or colored Paper - White",
+    "url": "https://www.amazon.eg/dp/B0CQWM1RH5",
+    "last_price": 23.81,
+    "lowest_price": 23.81,
+    "highest_price": 23.81,
+    "last_alerted_price": 23.81,
+    "history": [
+      {
+        "timestamp": 1795789499,
+        "price": 23.81
+      }
+    ],
+    "last_seen": 1795789499
+  },
+  "B06XYVQBKC": {
+    "title": "Naivete Mesh Fiber Car Seat and Chair Massage Back Lumbar Support Ventilate Cushion Pad (Multicolour) - Set of 2",
+    "url": "https://www.amazon.eg/dp/B06XYVQBKC",
+    "last_price": 55.09,
+    "lowest_price": 55.09,
+    "highest_price": 55.09,
+    "last_alerted_price": 55.09,
+    "history": [
+      {
+        "timestamp": 1795789499,
+        "price": 55.09
+      }
+    ],
+    "last_seen": 1795789499
+  },
+  "B0C71GKGB8": {
+    "title": "Detectalia Desk and Document Organiser Tray, 3 Levels, Black, Folios A4, Desk Drawer, Filing Folders, Computer Desk, Drawer Organizer, Black Metal Mesh Material",
+    "url": "https://www.amazon.eg/dp/B0C71GKGB8",
+    "last_price": 213.14,
+    "lowest_price": 213.14,
+    "highest_price": 213.14,
+    "last_alerted_price": 213.14,
+    "history": [
+      {
+        "timestamp": 1795789500,
+        "price": 213.14
+      }
+    ],
+    "last_seen": 1795789500
+  },
+  "B091C6NHVM": {
+    "title": "Multifunction Tissue Box Cover Desktop Decor Organizer Tissue Holder Phone Remote Control Makeup Storage Office Supplies Packing Box, White",
+    "url": "https://www.amazon.eg/dp/B091C6NHVM",
+    "last_price": 62.67,
+    "lowest_price": 62.67,
+    "highest_price": 62.67,
+    "last_alerted_price": 62.67,
+    "history": [
+      {
+        "timestamp": 1795789500,
+        "price": 62.67
+      }
+    ],
+    "last_seen": 1795789500
+  },
+  "B098TVJVDF": {
+    "title": "Modern Desk Lamp - Black",
+    "url": "https://www.amazon.eg/dp/B098TVJVDF",
+    "last_price": 335.75,
+    "lowest_price": 335.75,
+    "highest_price": 335.75,
+    "last_alerted_price": 335.75,
+    "history": [
+      {
+        "timestamp": 1795789500,
+        "price": 335.75
+      }
+    ],
+    "last_seen": 1795789500
+  },
+  "B0H7T24F5C": {
+    "title": "S-429 Refillable Water Brush Pen Size S For Watercolor Painting Ink Blending Brush With Reservoir Tank Controlled Flow For Artists Beginners Art Supplies",
+    "url": "https://www.amazon.eg/dp/B0H7T24F5C",
+    "last_price": 16.15,
+    "lowest_price": 16.15,
+    "highest_price": 16.15,
+    "last_alerted_price": 16.15,
+    "history": [
+      {
+        "timestamp": 1795789500,
+        "price": 16.15
+      }
+    ],
+    "last_seen": 1795789500
+  },
+  "B0CHZ74442": {
+    "title": "Mini Printer Portable, Inkless Sticker printer with 8 Rolls Paper, Bluetooth Wireless mini thermal printer Compatible with iOS + Android for Journal, Memo, Photo, Print Pod Gifts for Girls Kids",
+    "url": "https://www.amazon.eg/dp/B0CHZ74442",
+    "last_price": 535.95,
+    "lowest_price": 535.95,
+    "highest_price": 535.95,
+    "last_alerted_price": 535.95,
+    "history": [
+      {
+        "timestamp": 1795789500,
+        "price": 535.95
+      }
+    ],
+    "last_seen": 1795789545
+  },
+  "B0FDN8T96J": {
+    "title": "Erasable Blue Pen - 6 Pens with Comfortable Silicone Body",
+    "url": "https://www.amazon.eg/dp/B0FDN8T96J",
+    "last_price": 114.53,
+    "lowest_price": 114.53,
+    "highest_price": 114.53,
+    "last_alerted_price": 114.53,
+    "history": [
+      {
+        "timestamp": 1795789507,
+        "price": 114.53
+      }
+    ],
+    "last_seen": 1795789507
+  },
+  "B09233TZZW": {
+    "title": "Leto Erasable Ink Pen - 12 Pieces, Blue",
+    "url": "https://www.amazon.eg/dp/B09233TZZW",
+    "last_price": 193.64,
+    "lowest_price": 193.64,
+    "highest_price": 193.64,
+    "last_alerted_price": 193.64,
+    "history": [
+      {
+        "timestamp": 1795789507,
+        "price": 193.64
+      }
+    ],
+    "last_seen": 1795789507
+  },
+  "B07D757BXQ": {
+    "title": "MAS Document Tray 2 Levels Pمastic Transparent Model 827",
+    "url": "https://www.amazon.eg/dp/B07D757BXQ",
+    "last_price": 67.15,
+    "lowest_price": 67.15,
+    "highest_price": 67.15,
+    "last_alerted_price": 67.15,
+    "history": [
+      {
+        "timestamp": 1795789507,
+        "price": 67.15
+      }
+    ],
+    "last_seen": 1795789507
+  },
+  "B07B973WKY": {
+    "title": "G4GADGET New 100 Pcs A4 Plastic Punched Punch Pockets 30-35 Micron for Folders Filing Wallets Sleeves 10-15 Sheet Capacity Everyday Use",
+    "url": "https://www.amazon.eg/dp/B07B973WKY",
+    "last_price": 82.93,
+    "lowest_price": 82.93,
+    "highest_price": 82.93,
+    "last_alerted_price": 82.93,
+    "history": [
+      {
+        "timestamp": 1795789507,
+        "price": 82.93
+      }
+    ],
+    "last_seen": 1795789507
+  },
+  "B06WLP3331": {
+    "title": "Portable Mini projectors LED Micro Projector 1080P Home Party Meeting Theater Projector(2020 Upgraded Version), Wi-Fi",
+    "url": "https://www.amazon.eg/dp/B06WLP3331",
+    "last_price": 640.8,
+    "lowest_price": 640.8,
+    "highest_price": 640.8,
+    "last_alerted_price": 640.8,
+    "history": [
+      {
+        "timestamp": 1795789508,
+        "price": 640.8
+      }
+    ],
+    "last_seen": 1795789508
+  },
+  "B0GHSCDYN6": {
+    "title": "AO DE GU Super Glue 20g Strong Instant Clear Adhesive Quick Stick Formula for DIY Repair Plastic Metal Rubber Wood Leather Ceramic Glass Multipurpose Cyanoacrylate Ethyl Ester",
+    "url": "https://www.amazon.eg/dp/B0GHSCDYN6",
+    "last_price": 83.82,
+    "lowest_price": 83.82,
+    "highest_price": 83.82,
+    "last_alerted_price": 83.82,
+    "history": [
+      {
+        "timestamp": 1795789508,
+        "price": 83.82
+      }
+    ],
+    "last_seen": 1795789508
+  },
+  "B0FZ948F2J": {
+    "title": "Extra Line University Notebook Spiral Wire 120 Pages Boy Design Hard Cover A5 durable notebook for academic and daily writing boy",
+    "url": "https://www.amazon.eg/dp/B0FZ948F2J",
+    "last_price": 31.11,
+    "lowest_price": 31.11,
+    "highest_price": 31.11,
+    "last_alerted_price": 31.11,
+    "history": [
+      {
+        "timestamp": 1795789508,
+        "price": 31.11
+      }
+    ],
+    "last_seen": 1795789508
+  },
+  "B0DKD8LDJD": {
+    "title": "3A Staples Perspective for Blackboard Alfeline Star Shape 2 Pieces - Clear",
+    "url": "https://www.amazon.eg/dp/B0DKD8LDJD",
+    "last_price": 39.53,
+    "lowest_price": 39.53,
+    "highest_price": 39.53,
+    "last_alerted_price": 39.53,
+    "history": [
+      {
+        "timestamp": 1795789508,
+        "price": 39.53
+      }
+    ],
+    "last_seen": 1795789508
+  },
+  "B0H7SGBJ5V": {
+    "title": "CC-9 Flexible Ruler 20cm Bendable Unbreakable Measuring Tool For Drawing Drafting School Office Supplies Clear Markings Easy Use",
+    "url": "https://www.amazon.eg/dp/B0H7SGBJ5V",
+    "last_price": 13.66,
+    "lowest_price": 13.66,
+    "highest_price": 13.66,
+    "last_alerted_price": 13.66,
+    "history": [
+      {
+        "timestamp": 1795789508,
+        "price": 13.66
+      }
+    ],
+    "last_seen": 1795789508
+  },
+  "B0CZLDBZLC": {
+    "title": "Elmaayergy YL193939 Corrector Tape Durable Tool That Withstand Daily Use With Eco-Friendly Material",
+    "url": "https://www.amazon.eg/dp/B0CZLDBZLC",
+    "last_price": 23.75,
+    "lowest_price": 23.75,
+    "highest_price": 23.75,
+    "last_alerted_price": 23.75,
+    "history": [
+      {
+        "timestamp": 1795789508,
+        "price": 23.75
+      }
+    ],
+    "last_seen": 1795789508
+  },
+  "B0BTYS3ZYV": {
+    "title": "Zollyss Desk Drawer Organizer Trays Various Size Bathroom Drawer Tray Dividers Plastic Vanity Organizers Storage Bins for Makeup Dresser Kitchen Office (Clear) (6 PCS)",
+    "url": "https://www.amazon.eg/dp/B0BTYS3ZYV",
+    "last_price": 144.97,
+    "lowest_price": 144.97,
+    "highest_price": 144.97,
+    "last_alerted_price": 144.97,
+    "history": [
+      {
+        "timestamp": 1795789509,
+        "price": 144.97
+      }
+    ],
+    "last_seen": 1795789509
+  },
+  "B07N3S5WLX": {
+    "title": "Keyroad wood colors 6 color short triangle medical model kr971283",
+    "url": "https://www.amazon.eg/dp/B07N3S5WLX",
+    "last_price": 12.69,
+    "lowest_price": 12.69,
+    "highest_price": 12.69,
+    "last_alerted_price": 12.69,
+    "history": [
+      {
+        "timestamp": 1795789509,
+        "price": 12.69
+      }
+    ],
+    "last_seen": 1795789509
+  },
+  "B0D1N4HPB5": {
+    "title": "Desk Lamp Rechargeable, JOZUTTOW Dual Head Desk Light with Pen Holder & Phone Stand, 3 Lighting Mode, Dimming Reading Light, LED Desk Lamp for Home Office, Table Lamp for Bedroom Desktop, Study, Craft",
+    "url": "https://www.amazon.eg/dp/B0D1N4HPB5",
+    "last_price": 259.68,
+    "lowest_price": 259.68,
+    "highest_price": 259.68,
+    "last_alerted_price": 259.68,
+    "history": [
+      {
+        "timestamp": 1795789509,
+        "price": 259.68
+      }
+    ],
+    "last_seen": 1795789509
+  },
+  "B0D4K865JL": {
+    "title": "Elmaayergy 123 Small Wooden House For Colouring Suitable For classroom, Homeschooling, And Individual Study Environments",
+    "url": "https://www.amazon.eg/dp/B0D4K865JL",
+    "last_price": 21.26,
+    "lowest_price": 21.26,
+    "highest_price": 21.26,
+    "last_alerted_price": 21.26,
+    "history": [
+      {
+        "timestamp": 1795789509,
+        "price": 21.26
+      }
+    ],
+    "last_seen": 1795789509
+  },
+  "B0DJFX8XV2": {
+    "title": "MultiOffice A3 Paper, 80gsm, 500 Sheets - Perfect for Printing and Copying",
+    "url": "https://www.amazon.eg/dp/B0DJFX8XV2",
+    "last_price": 395.25,
+    "lowest_price": 395.25,
+    "highest_price": 395.25,
+    "last_alerted_price": 395.25,
+    "history": [
+      {
+        "timestamp": 1795789510,
+        "price": 395.25
+      }
+    ],
+    "last_seen": 1795789510
+  },
+  "B0BDVTVCMD": {
+    "title": "3A Washi Masking Colorful Craft Tape Pack Of 6 Tape - Multi Color",
+    "url": "https://www.amazon.eg/dp/B0BDVTVCMD",
+    "last_price": 29.21,
+    "lowest_price": 29.21,
+    "highest_price": 29.21,
+    "last_alerted_price": 29.21,
+    "history": [
+      {
+        "timestamp": 1795789510,
+        "price": 29.21
+      }
+    ],
+    "last_seen": 1795789510
+  },
+  "B01HPT1I7C": {
+    "title": "CARIOCA Tita 24pcs Colored Pencils",
+    "url": "https://www.amazon.eg/dp/B01HPT1I7C",
+    "last_price": 115.09,
+    "lowest_price": 115.09,
+    "highest_price": 115.09,
+    "last_alerted_price": 115.09,
+    "history": [
+      {
+        "timestamp": 1795789510,
+        "price": 115.09
+      }
+    ],
+    "last_seen": 1795789510
+  },
+  "B0BXJWRTGX": {
+    "title": "Keep Smiling Gel Pen White 0.7 mm",
+    "url": "https://www.amazon.eg/dp/B0BXJWRTGX",
+    "last_price": 30.77,
+    "lowest_price": 30.77,
+    "highest_price": 30.77,
+    "last_alerted_price": 30.77,
+    "history": [
+      {
+        "timestamp": 1795789510,
+        "price": 30.77
+      }
+    ],
+    "last_seen": 1795789510
+  },
+  "B0CZLCKNRR": {
+    "title": "Elmaayergy YL193939 Corrector Tape Durable Tool That Withstand Daily Use With Eco-Friendly Material",
+    "url": "https://www.amazon.eg/dp/B0CZLCKNRR",
+    "last_price": 25.16,
+    "lowest_price": 25.16,
+    "highest_price": 25.16,
+    "last_alerted_price": 25.16,
+    "history": [
+      {
+        "timestamp": 1795789510,
+        "price": 25.16
+      }
+    ],
+    "last_seen": 1795789510
+  },
+  "B0F1ZS3QYV": {
+    "title": "A6 Notebook, 160 Pages Lined Pocket Notebook, Small Leather Notebook, Pocket Size for Women, Men, Work, Office, School, A6 Notepad with Pen Holder, 9.5 x 14.5 cm",
+    "url": "https://www.amazon.eg/dp/B0F1ZS3QYV",
+    "last_price": 101.74,
+    "lowest_price": 101.74,
+    "highest_price": 101.74,
+    "last_alerted_price": 101.74,
+    "history": [
+      {
+        "timestamp": 1795789511,
+        "price": 101.74
+      }
+    ],
+    "last_seen": 1795789511
+  },
+  "B08LQJ6ZN6": {
+    "title": "Cork Board Pin Notice Office Memo School with Push Pins Board Requisite Needs Wooden Natural Frame Board (30CM x 40CM)",
+    "url": "https://www.amazon.eg/dp/B08LQJ6ZN6",
+    "last_price": 249.82,
+    "lowest_price": 249.82,
+    "highest_price": 249.82,
+    "last_alerted_price": 249.82,
+    "history": [
+      {
+        "timestamp": 1795789511,
+        "price": 249.82
+      }
+    ],
+    "last_seen": 1795789511
+  },
+  "B0DC6D8S9Y": {
+    "title": "Extra Line University Notebook Stapled Graph 60 Sheets Coated Cover A4",
+    "url": "https://www.amazon.eg/dp/B0DC6D8S9Y",
+    "last_price": 21.25,
+    "lowest_price": 21.25,
+    "highest_price": 21.25,
+    "last_alerted_price": 21.25,
+    "history": [
+      {
+        "timestamp": 1795789511,
+        "price": 21.25
+      }
+    ],
+    "last_seen": 1795789511
+  },
+  "B0026M9VBY": {
+    "title": "Pilot BOARD MARKER CHISEL GREEN WITH CARTRIDGE WBMA-VBM-MC-G-BG",
+    "url": "https://www.amazon.eg/dp/B0026M9VBY",
+    "last_price": 56.95,
+    "lowest_price": 56.95,
+    "highest_price": 56.95,
+    "last_alerted_price": 56.95,
+    "history": [
+      {
+        "timestamp": 1795789517,
+        "price": 56.95
+      }
+    ],
+    "last_seen": 1795789517
+  },
+  "B0FM3QMX4H": {
+    "title": "Extra Line University Notebook Stapled Ruled 100 Sheets Girl Design Coated Cover A4",
+    "url": "https://www.amazon.eg/dp/B0FM3QMX4H",
+    "last_price": 31.41,
+    "lowest_price": 31.41,
+    "highest_price": 31.41,
+    "last_alerted_price": 31.41,
+    "history": [
+      {
+        "timestamp": 1795789518,
+        "price": 31.41
+      }
+    ],
+    "last_seen": 1795789518
+  },
+  "B0DZPBM5LC": {
+    "title": "ALLboards Cork Board Frameless 60 x 40 cm",
+    "url": "https://www.amazon.eg/dp/B0DZPBM5LC",
+    "last_price": 375.52,
+    "lowest_price": 375.52,
+    "highest_price": 375.52,
+    "last_alerted_price": 375.52,
+    "history": [
+      {
+        "timestamp": 1795789518,
+        "price": 375.52
+      }
+    ],
+    "last_seen": 1795789518
+  },
+  "B0H9FBHMDZ": {
+    "title": "Camel LUB001 Two-Tier Compartment Lunch Box with Transparent Lid, 5 Pieces - Pink",
+    "url": "https://www.amazon.eg/dp/B0H9FBHMDZ",
+    "last_price": 133.92,
+    "lowest_price": 133.92,
+    "highest_price": 133.92,
+    "last_alerted_price": 133.92,
+    "history": [
+      {
+        "timestamp": 1795789518,
+        "price": 133.92
+      }
+    ],
+    "last_seen": 1795789518
+  },
+  "B0GGBQG44G": {
+    "title": "GP-5000 Universal Fast Adhesive, Super Glow Rocket, 20g",
+    "url": "https://www.amazon.eg/dp/B0GGBQG44G",
+    "last_price": 85.8,
+    "lowest_price": 85.8,
+    "highest_price": 85.8,
+    "last_alerted_price": 85.8,
+    "history": [
+      {
+        "timestamp": 1795789518,
+        "price": 85.8
+      }
+    ],
+    "last_seen": 1795789518
+  },
+  "B09K6G66SR": {
+    "title": "El Helal & Star | Palm Basket Beige",
+    "url": "https://www.amazon.eg/dp/B09K6G66SR",
+    "last_price": 89.85,
+    "lowest_price": 89.85,
+    "highest_price": 89.85,
+    "last_alerted_price": 89.85,
+    "history": [
+      {
+        "timestamp": 1795789519,
+        "price": 89.85
+      }
+    ],
+    "last_seen": 1795789519
+  },
+  "B0CJFQM4RK": {
+    "title": "Whiteboard marker 35B green/refillable",
+    "url": "https://www.amazon.eg/dp/B0CJFQM4RK",
+    "last_price": 16.71,
+    "lowest_price": 16.71,
+    "highest_price": 16.71,
+    "last_alerted_price": 16.71,
+    "history": [
+      {
+        "timestamp": 1795789519,
+        "price": 16.71
+      }
+    ],
+    "last_seen": 1795789519
+  },
+  "B0H6JHNB7L": {
+    "title": "Deli T111 A4 Heat Laminating Machine with Gift Wrapping Sheets, White/Black",
+    "url": "https://www.amazon.eg/dp/B0H6JHNB7L",
+    "last_price": 1492.56,
+    "lowest_price": 1492.56,
+    "highest_price": 1492.56,
+    "last_alerted_price": 1492.56,
+    "history": [
+      {
+        "timestamp": 1795789519,
+        "price": 1492.56
+      }
+    ],
+    "last_seen": 1795789519
+  },
+  "B0GJQ78BNY": {
+    "title": "20cm x 11mm Long Clear Glue Sticks for Glue Gun – Strong Glue for DIY Crafts, Wood, Paper, Fabric (10)",
+    "url": "https://www.amazon.eg/dp/B0GJQ78BNY",
+    "last_price": 49.5,
+    "lowest_price": 49.5,
+    "highest_price": 49.5,
+    "last_alerted_price": 49.5,
+    "history": [
+      {
+        "timestamp": 1795789520,
+        "price": 49.5
+      }
+    ],
+    "last_seen": 1795789520
+  },
+  "B0FD92S4LJ": {
+    "title": "Mintra Paper Soup 500 sheets white",
+    "url": "https://www.amazon.eg/dp/B0FD92S4LJ",
+    "last_price": 45.53,
+    "lowest_price": 45.53,
+    "highest_price": 45.53,
+    "last_alerted_price": 45.53,
+    "history": [
+      {
+        "timestamp": 1795789520,
+        "price": 45.53
+      }
+    ],
+    "last_seen": 1795789520
+  },
+  "B0CT3BKFYR": {
+    "title": "Kienlix 10 Pcs Drawer Organizer plastic Trays Storage Tray for Makeup, Jewelries, Utensils in Bedroom Dresser, Office and Kitchen (10 Pcs Drawer)",
+    "url": "https://www.amazon.eg/dp/B0CT3BKFYR",
+    "last_price": 189.74,
+    "lowest_price": 189.74,
+    "highest_price": 189.74,
+    "last_alerted_price": 189.74,
+    "history": [
+      {
+        "timestamp": 1795789520,
+        "price": 189.74
+      }
+    ],
+    "last_seen": 1795789520
+  },
+  "B00GHK77XU": {
+    "title": "Zuvo Metal Wire Mesh Waste Basket Garbage Trash Can For Office Home Bedroom",
+    "url": "https://www.amazon.eg/dp/B00GHK77XU",
+    "last_price": 83.52,
+    "lowest_price": 83.52,
+    "highest_price": 83.52,
+    "last_alerted_price": 83.52,
+    "history": [
+      {
+        "timestamp": 1795789520,
+        "price": 83.52
+      }
+    ],
+    "last_seen": 1795789520
+  },
+  "B08Z4B9VY4": {
+    "title": "TOPSTICK OP MULTIPUR.LABELS WHITE 52x100",
+    "url": "https://www.amazon.eg/dp/B08Z4B9VY4",
+    "last_price": 70.8,
+    "lowest_price": 70.8,
+    "highest_price": 70.8,
+    "last_alerted_price": 70.8,
+    "history": [
+      {
+        "timestamp": 1795789521,
+        "price": 70.8
+      }
+    ],
+    "last_seen": 1795789521
+  },
+  "B00U7YZIOC": {
+    "title": "Prima Solo Ball Point Pens Fine, Fluid Ink 0.7 mm Pack of 24 Pcs - Red",
+    "url": "https://www.amazon.eg/dp/B00U7YZIOC",
+    "last_price": 64.6,
+    "lowest_price": 64.6,
+    "highest_price": 64.6,
+    "last_alerted_price": 64.6,
+    "history": [
+      {
+        "timestamp": 1795789521,
+        "price": 64.6
+      }
+    ],
+    "last_seen": 1795789521
+  },
+  "B0C5QZN9L7": {
+    "title": "OWLKELA 24'' x 36'' Cork Board Bulletin Board, Wooden Framed Corkboard, Wood Oak Frame Corkboard, Vision Board and Decorative Hanging Pin Board",
+    "url": "https://www.amazon.eg/dp/B0C5QZN9L7",
+    "last_price": 529.72,
+    "lowest_price": 529.72,
+    "highest_price": 529.72,
+    "last_alerted_price": 529.72,
+    "history": [
+      {
+        "timestamp": 1795789521,
+        "price": 529.72
+      }
+    ],
+    "last_seen": 1795789521
+  },
+  "B0DPDVW5T8": {
+    "title": "Mickey Mouse Mechanical Pencil 0.5 mm Model 538",
+    "url": "https://www.amazon.eg/dp/B0DPDVW5T8",
+    "last_price": 22.1,
+    "lowest_price": 22.1,
+    "highest_price": 22.1,
+    "last_alerted_price": 22.1,
+    "history": [
+      {
+        "timestamp": 1795789521,
+        "price": 22.1
+      }
+    ],
+    "last_seen": 1795789521
+  },
+  "B08G4RGG4V": {
+    "title": "GDMINLO Cork Board Bulletin Board, 15.7\"X 12\" pin Boards for Walls, Oak Wood Finish Frame, Wall Mounted Cork Board for Office Home and School(Pins, Eye Bolts, gaskets, Screws)",
+    "url": "https://www.amazon.eg/dp/B08G4RGG4V",
+    "last_price": 311.25,
+    "lowest_price": 311.25,
+    "highest_price": 311.25,
+    "last_alerted_price": 311.25,
+    "history": [
+      {
+        "timestamp": 1795789522,
+        "price": 311.25
+      }
+    ],
+    "last_seen": 1795789522
+  },
+  "B0FM6J6Y9R": {
+    "title": "University Notebook Stapled Squares Both Sides 40 Sheets Music Design Coated Cover A4",
+    "url": "https://www.amazon.eg/dp/B0FM6J6Y9R",
+    "last_price": 17.09,
+    "lowest_price": 17.09,
+    "highest_price": 17.09,
+    "last_alerted_price": 17.09,
+    "history": [
+      {
+        "timestamp": 1795789522,
+        "price": 17.09
+      }
+    ],
+    "last_seen": 1795789522
+  },
+  "B08TZJSB8D": {
+    "title": "HP OneShred 8CC Shredder Security Level P-4 Cross Cut 8 Sheets 2801",
+    "url": "https://www.amazon.eg/dp/B08TZJSB8D",
+    "last_price": 2559.56,
+    "lowest_price": 2559.56,
+    "highest_price": 2559.56,
+    "last_alerted_price": 2559.56,
+    "history": [
+      {
+        "timestamp": 1795789522,
+        "price": 2559.56
+      }
+    ],
+    "last_seen": 1795789522
+  },
+  "B004HWDM2K": {
+    "title": "Leitz rapid 24868200 staples 23/6 mm strong zinc-plated pack of 1000",
+    "url": "https://www.amazon.eg/dp/B004HWDM2K",
+    "last_price": 24.35,
+    "lowest_price": 24.35,
+    "highest_price": 24.35,
+    "last_alerted_price": 24.35,
+    "history": [
+      {
+        "timestamp": 1795789522,
+        "price": 24.35
+      }
+    ],
+    "last_seen": 1795789522
+  },
+  "B00APVDW6I": {
+    "title": "deli Quality metal drafting compasses - Assorted colors",
+    "url": "https://www.amazon.eg/dp/B00APVDW6I",
+    "last_price": 51.37,
+    "lowest_price": 51.37,
+    "highest_price": 51.37,
+    "last_alerted_price": 51.37,
+    "history": [
+      {
+        "timestamp": 1795789522,
+        "price": 51.37
+      }
+    ],
+    "last_seen": 1795789522
+  },
+  "B0FPF9MLTX": {
+    "title": "Case for Huawei FreeBuds 7i Earbuds, FJIASTB Soft Silicone Protective Cover with Carabiner, Shockproof (Black)",
+    "url": "https://www.amazon.eg/dp/B0FPF9MLTX",
+    "last_price": 58.45,
+    "lowest_price": 58.45,
+    "highest_price": 58.45,
+    "last_alerted_price": 58.45,
+    "history": [
+      {
+        "timestamp": 1795789536,
+        "price": 58.45
+      }
+    ],
+    "last_seen": 1795789536
+  },
+  "B0GPXXKL6Y": {
+    "title": "Wireless Bluetooth For (TWS) earbuds pro 2 with built-in microphone and noise cancellation, touch controls, comfortable in-ear design with fast charging case, compatible with iPhone, white.",
+    "url": "https://www.amazon.eg/dp/B0GPXXKL6Y",
+    "last_price": 230.06,
+    "lowest_price": 230.06,
+    "highest_price": 230.06,
+    "last_alerted_price": 230.06,
+    "history": [
+      {
+        "timestamp": 1795789536,
+        "price": 230.06
+      }
+    ],
+    "last_seen": 1795789536
+  },
+  "B0G6ZQ5YY9": {
+    "title": "Oraimo OEP-320C Conch 2C Type-C In-Ear Earphones - Black",
+    "url": "https://www.amazon.eg/dp/B0G6ZQ5YY9",
+    "last_price": 142.86,
+    "lowest_price": 142.86,
+    "highest_price": 142.86,
+    "last_alerted_price": 142.86,
+    "history": [
+      {
+        "timestamp": 1795789537,
+        "price": 142.86
+      }
+    ],
+    "last_seen": 1795789537
+  },
+  "B0DW8PY7TR": {
+    "title": "SooPii 3 in 1 Multifunctional Selfie Stick with Tripod Stand with Detachable Wireless Remote Control for Vlogging and Photo Shooting, Portable Lightweight Selfie Stick for i-Phone and Cell Phones",
+    "url": "https://www.amazon.eg/dp/B0DW8PY7TR",
+    "last_price": 141.71,
+    "lowest_price": 141.71,
+    "highest_price": 141.71,
+    "last_alerted_price": 141.71,
+    "history": [
+      {
+        "timestamp": 1795789537,
+        "price": 141.71
+      }
+    ],
+    "last_seen": 1795789537
+  },
+  "B0DW6285BT": {
+    "title": "CardoO VR Box Go – Lightweight VR Headset, VR glasses for Android and iOS Mobile Phones (4.8 to 7.0) | 360° Panoramic View | Multi-Function Button",
+    "url": "https://www.amazon.eg/dp/B0DW6285BT",
+    "last_price": 718.38,
+    "lowest_price": 718.38,
+    "highest_price": 718.38,
+    "last_alerted_price": 718.38,
+    "history": [
+      {
+        "timestamp": 1795789537,
+        "price": 718.38
+      }
+    ],
+    "last_seen": 1795789537
+  },
+  "B0H5KDLK7M": {
+    "title": "REDMI Watch 6 Lite Smartwatch with 1.96-Inch AMOLED Display, Built-in GPS, Bluetooth Calling, 18-Day Battery Life, Heart Rate and SpO2 Monitoring, 5ATM Water Resistance - Black",
+    "url": "https://www.amazon.eg/dp/B0H5KDLK7M",
+    "last_price": 3239.1,
+    "lowest_price": 3239.1,
+    "highest_price": 3239.1,
+    "last_alerted_price": 3239.1,
+    "history": [
+      {
+        "timestamp": 1795789537,
+        "price": 3239.1
+      }
+    ],
+    "last_seen": 1795789537
+  },
+  "B0BMX82Y3J": {
+    "title": "TP-Link Archer T2UB Nano AC600 USB 2.0 Wi-Fi Bluetooth 4.2 USB Adapter | Dual Band Wireless 600 Mbps| Plug and Play | Supports Windows 11/10/8.1/8/7 for WiFi, Windows 11/10/8.1/7 for Bluetooth",
+    "url": "https://www.amazon.eg/dp/B0BMX82Y3J",
+    "last_price": 468.65,
+    "lowest_price": 468.65,
+    "highest_price": 468.65,
+    "last_alerted_price": 468.65,
+    "history": [
+      {
+        "timestamp": 1795789538,
+        "price": 468.65
+      }
+    ],
+    "last_seen": 1795789538
+  },
+  "B08HT46TVP": {
+    "title": "YUWAKAYI [3 Pairs] Replacement Ear Tips for Airpods Pro & Pro 2nd Gen with Noise Reduction Holes, Silicone Ear Tips with Portable Storage Box & Fit in Charging Case (S/M/L)",
+    "url": "https://www.amazon.eg/dp/B08HT46TVP",
+    "last_price": 60.2,
+    "lowest_price": 60.2,
+    "highest_price": 60.2,
+    "last_alerted_price": 60.2,
+    "history": [
+      {
+        "timestamp": 1795789538,
+        "price": 60.2
+      }
+    ],
+    "last_seen": 1795789538
+  },
+  "B088PYG315": {
+    "title": "Aula S20 3200 Dpi LED Macro Gaming Mouse - Black",
+    "url": "https://www.amazon.eg/dp/B088PYG315",
+    "last_price": 126.63,
+    "lowest_price": 126.63,
+    "highest_price": 126.63,
+    "last_alerted_price": 126.63,
+    "history": [
+      {
+        "timestamp": 1795789544,
+        "price": 126.63
+      }
+    ],
+    "last_seen": 1795789544
+  },
+  "B006T9AMMM": {
+    "title": "Energizer Max C2 Battery, Pack of 2",
+    "url": "https://www.amazon.eg/dp/B006T9AMMM",
+    "last_price": 208.25,
+    "lowest_price": 208.25,
+    "highest_price": 208.25,
+    "last_alerted_price": 208.25,
+    "history": [
+      {
+        "timestamp": 1795789544,
+        "price": 208.25
+      }
+    ],
+    "last_seen": 1795789544
+  },
+  "B09GNZRFZ6": {
+    "title": "Female to Female Jumper Wire 1 Pin (10cm)",
+    "url": "https://www.amazon.eg/dp/B09GNZRFZ6",
+    "last_price": 25.2,
+    "lowest_price": 25.2,
+    "highest_price": 25.2,
+    "last_alerted_price": 25.2,
+    "history": [
+      {
+        "timestamp": 1795789544,
+        "price": 25.2
+      }
+    ],
+    "last_seen": 1795789544
+  },
+  "B0HCYZKWS8": {
+    "title": "Wireless Earhook Bluetooth Headset, HD Microphone, Comfortable to Wear, Suitable for Calling, Driving, Work, Sports",
+    "url": "https://www.amazon.eg/dp/B0HCYZKWS8",
+    "last_price": 254.09,
+    "lowest_price": 254.09,
+    "highest_price": 254.09,
+    "last_alerted_price": 254.09,
+    "history": [
+      {
+        "timestamp": 1795789544,
+        "price": 254.09
+      }
+    ],
+    "last_seen": 1795789544
+  },
+  "B0B6QZFYN1": {
+    "title": "Diruite Apple Watch Series 9/8/7 45mm Case with Built-in 9H Tempered Glass Screen Protector, Black",
+    "url": "https://www.amazon.eg/dp/B0B6QZFYN1",
+    "last_price": 54.08,
+    "lowest_price": 54.08,
+    "highest_price": 54.08,
+    "last_alerted_price": 54.08,
+    "history": [
+      {
+        "timestamp": 1795789544,
+        "price": 54.08
+      }
+    ],
+    "last_seen": 1795789544
+  },
+  "B07NTPT613": {
+    "title": "85 Keys Silicone USB Wired Waterproof Flexible Folding Keyboard for PC Desktop Laptop (Black)",
+    "url": "https://www.amazon.eg/dp/B07NTPT613",
+    "last_price": 146.03,
+    "lowest_price": 146.03,
+    "highest_price": 146.03,
+    "last_alerted_price": 146.03,
+    "history": [
+      {
+        "timestamp": 1795789545,
+        "price": 146.03
+      }
+    ],
+    "last_seen": 1795789545
+  },
+  "B091BMHM5J": {
+    "title": "PC Power Cable - Gray",
+    "url": "https://www.amazon.eg/dp/B091BMHM5J",
+    "last_price": 40.89,
+    "lowest_price": 40.89,
+    "highest_price": 40.89,
+    "last_alerted_price": 40.89,
+    "history": [
+      {
+        "timestamp": 1795789545,
+        "price": 40.89
+      }
+    ],
+    "last_seen": 1795789545
+  },
+  "B0F211JQZN": {
+    "title": "ATTACK SHARK L80PRO Wireless Gaming Headset, Adjustable Dual Mics, Lightweight Headset with 20ms Low Latency, 40mm Drivers,3 Modes (2.4G/Bluetooth/Wired) for PC/PS/XBOX (White)(1 Year Warranty)",
+    "url": "https://www.amazon.eg/dp/B0F211JQZN",
+    "last_price": 1899.9,
+    "lowest_price": 1899.9,
+    "highest_price": 1899.9,
+    "last_alerted_price": 1899.9,
+    "history": [
+      {
+        "timestamp": 1795789545,
+        "price": 1899.9
+      }
+    ],
+    "last_seen": 1795789545
+  },
+  "B0FT91P9XK": {
+    "title": "Plokama PK-996 Adjustable Height Aluminum Alloy Tripod Stand with Remote Control Compatible with All Smartphones Selfie Shooting, Ring Light Holder for GoPro and Camera, Light Stand - Black",
+    "url": "https://www.amazon.eg/dp/B0FT91P9XK",
+    "last_price": 405.96,
+    "lowest_price": 405.96,
+    "highest_price": 405.96,
+    "last_alerted_price": 405.96,
+    "history": [
+      {
+        "timestamp": 1795789545,
+        "price": 405.96
+      }
+    ],
+    "last_seen": 1795789545
+  },
+  "B0G4RB7KKM": {
+    "title": "Sonix Tech Silicone Protective Case for AirPods Pro 2, Black",
+    "url": "https://www.amazon.eg/dp/B0G4RB7KKM",
+    "last_price": 39.78,
+    "lowest_price": 39.78,
+    "highest_price": 39.78,
+    "last_alerted_price": 39.78,
+    "history": [
+      {
+        "timestamp": 1795789545,
+        "price": 39.78
+      }
+    ],
+    "last_seen": 1795789545
+  },
+  "B0CW75T7V8": {
+    "title": "Next store Compatible with iPhone 14 Pro Max Case, Liquid Silicone Case, Full Body Protective Cover, Shockproof, Slim Phone Case, Anti-Scratch Soft Microfiber Lining (Burgundy)",
+    "url": "https://www.amazon.eg/dp/B0CW75T7V8",
+    "last_price": 59.5,
+    "lowest_price": 59.5,
+    "highest_price": 59.5,
+    "last_alerted_price": 59.5,
+    "history": [
+      {
+        "timestamp": 1795789546,
+        "price": 59.5
+      }
+    ],
+    "last_seen": 1795789546
+  },
+  "B0H4Z7686K": {
+    "title": "Infinix XBuds H5 (XE36) - Green, AI ENC HD Sound and Calls with 2x1 MEMs Mics, Dual device connection,BT V6.0,30hrs PlayTime,Type-C,40/400 mAh Battery, IP54 Water Resistant,12 Month Warranty",
+    "url": "https://www.amazon.eg/dp/B0H4Z7686K",
+    "last_price": 719.1,
+    "lowest_price": 719.1,
+    "highest_price": 719.1,
+    "last_alerted_price": 719.1,
+    "history": [
+      {
+        "timestamp": 1795789546,
+        "price": 719.1
+      }
+    ],
+    "last_seen": 1795789546
+  },
+  "B0FQ5XYKMC": {
+    "title": "Prime Tech Electric Turkish Coffee Pot - 350W, 0.5L Capacity (5 Cups), Fast Heating with Dual Protection System, Practical Design for Kitchen, Office, Trip (Black)",
+    "url": "https://www.amazon.eg/dp/B0FQ5XYKMC",
+    "last_price": 140.66,
+    "lowest_price": 140.66,
+    "highest_price": 140.66,
+    "last_alerted_price": 140.66,
+    "history": [
+      {
+        "timestamp": 1795789553,
+        "price": 140.66
+      }
+    ],
+    "last_seen": 1795789553
+  },
+  "B0CXTGWT63": {
+    "title": "Fresh Chopper 2 Liter 700 Watt CH-700",
+    "url": "https://www.amazon.eg/dp/B0CXTGWT63",
+    "last_price": 1142.1,
+    "lowest_price": 1142.1,
+    "highest_price": 1142.1,
+    "last_alerted_price": 1142.1,
+    "history": [
+      {
+        "timestamp": 1795789554,
+        "price": 1142.1
+      }
+    ],
+    "last_seen": 1795789554
+  },
+  "B0DY6P43KW": {
+    "title": "Chinese Chopsticks, Natural Reusable Smooth Style Decorated Set of 5 Pairs, For Sushi, Noodles, Ramen, Chinese Food",
+    "url": "https://www.amazon.eg/dp/B0DY6P43KW",
+    "last_price": 14.07,
+    "lowest_price": 14.07,
+    "highest_price": 14.07,
+    "last_alerted_price": 14.07,
+    "history": [
+      {
+        "timestamp": 1795789554,
+        "price": 14.07
+      }
+    ],
+    "last_seen": 1795789554
+  },
+  "B0FL81QDZL": {
+    "title": "Tank Everyday Mug, 480ml, Stainless Steel, BPA Free, Insulated, Leakproof - Lavender",
+    "url": "https://www.amazon.eg/dp/B0FL81QDZL",
+    "last_price": 471.83,
+    "lowest_price": 471.83,
+    "highest_price": 471.83,
+    "last_alerted_price": 471.83,
+    "history": [
+      {
+        "timestamp": 1795789554,
+        "price": 471.83
+      }
+    ],
+    "last_seen": 1795789554
+  },
+  "B09FHRNSL2": {
+    "title": "Foam White Plate 500 G 12 Pcs",
+    "url": "https://www.amazon.eg/dp/B09FHRNSL2",
+    "last_price": 7.77,
+    "lowest_price": 7.77,
+    "highest_price": 7.77,
+    "last_alerted_price": 7.77,
+    "history": [
+      {
+        "timestamp": 1795789554,
+        "price": 7.77
+      }
+    ],
+    "last_seen": 1795789554
+  },
+  "B08YNM5PJ8": {
+    "title": "Wooden Crepe Maker",
+    "url": "https://www.amazon.eg/dp/B08YNM5PJ8",
+    "last_price": 13.77,
+    "lowest_price": 13.77,
+    "highest_price": 13.77,
+    "last_alerted_price": 13.77,
+    "history": [
+      {
+        "timestamp": 1795789555,
+        "price": 13.77
+      }
+    ],
+    "last_seen": 1795789555
+  },
+  "B0GWML41RC": {
+    "title": "PYREX Iconics Set of 2 Rectangular Glass Roasters, 1.8L and 0.7L - 050306200",
+    "url": "https://www.amazon.eg/dp/B0GWML41RC",
+    "last_price": 299.2,
+    "lowest_price": 299.2,
+    "highest_price": 299.2,
+    "last_alerted_price": 299.2,
+    "history": [
+      {
+        "timestamp": 1795789555,
+        "price": 299.2
+      }
+    ],
+    "last_seen": 1795789555
+  },
+  "B08WJL6RB8": {
+    "title": "El Dahan pot set bakelite handle - 3 pots with lids - Small size - 12 cm - 0.75L, 14 cm - 1L, 16 cm - 1.5L",
+    "url": "https://www.amazon.eg/dp/B08WJL6RB8",
+    "last_price": 485.99,
+    "lowest_price": 485.99,
+    "highest_price": 485.99,
+    "last_alerted_price": 485.99,
+    "history": [
+      {
+        "timestamp": 1795789555,
+        "price": 485.99
+      }
+    ],
+    "last_seen": 1795789555
+  },
+  "B0DGL9PRVL": {
+    "title": "Grandi Bento Lunch Box, 1.5 Liter Capacity, Green",
+    "url": "https://www.amazon.eg/dp/B0DGL9PRVL",
+    "last_price": 58.26,
+    "lowest_price": 58.26,
+    "highest_price": 58.26,
+    "last_alerted_price": 58.26,
+    "history": [
+      {
+        "timestamp": 1795789555,
+        "price": 58.26
+      }
+    ],
+    "last_seen": 1795789555
+  },
+  "B08X6264BW": {
+    "title": "Mienta Chopper 1000 Watt CH-643",
+    "url": "https://www.amazon.eg/dp/B08X6264BW",
+    "last_price": 679.15,
+    "lowest_price": 679.15,
+    "highest_price": 679.15,
+    "last_alerted_price": 679.15,
+    "history": [
+      {
+        "timestamp": 1795789555,
+        "price": 679.15
+      }
+    ],
+    "last_seen": 1795789555
+  },
+  "B0DJ9CKXNF": {
+    "title": "Portal glass Heat Resistant Grape Shape Korean Coffee Cup Tea Dessert Glass Cup Water Mugs Drinking Mugs 350ml",
+    "url": "https://www.amazon.eg/dp/B0DJ9CKXNF",
+    "last_price": 37.26,
+    "lowest_price": 37.26,
+    "highest_price": 37.26,
+    "last_alerted_price": 37.26,
+    "history": [
+      {
+        "timestamp": 1795789556,
+        "price": 37.26
+      }
+    ],
+    "last_seen": 1795789556
+  },
+  "B0BVKNNX74": {
+    "title": "Metal Trolley Circle Turbo 4 Unit With Wheels -Black-Size:L79*W30cm",
+    "url": "https://www.amazon.eg/dp/B0BVKNNX74",
+    "last_price": 336.46,
+    "lowest_price": 336.46,
+    "highest_price": 336.46,
+    "last_alerted_price": 336.46,
+    "history": [
+      {
+        "timestamp": 1795789556,
+        "price": 336.46
+      }
+    ],
+    "last_seen": 1795789556
+  },
+  "B0DHD48PQH": {
+    "title": "Reusable Water Bottle, Transparent Plastic, Capacity 500 ml with Time Marker, Large Capacity Leakproof Drink Bottle Transparent Milk Juice for Men Women (multicolored)",
+    "url": "https://www.amazon.eg/dp/B0DHD48PQH",
+    "last_price": 46.38,
+    "lowest_price": 46.38,
+    "highest_price": 46.38,
+    "last_alerted_price": 46.38,
+    "history": [
+      {
+        "timestamp": 1795789556,
+        "price": 46.38
+      }
+    ],
+    "last_seen": 1795789556
+  },
+  "B0BWV3X7X1": {
+    "title": "Double Walled Glass Small Coffee Cups with Handle, Set of 2 Hollow Vacuum Sealed 75ml Espresso Cup, Hand Made, Heat Resistant",
+    "url": "https://www.amazon.eg/dp/B0BWV3X7X1",
+    "last_price": 71.59,
+    "lowest_price": 71.59,
+    "highest_price": 71.59,
+    "last_alerted_price": 71.59,
+    "history": [
+      {
+        "timestamp": 1795789556,
+        "price": 71.59
+      }
+    ],
+    "last_seen": 1795789556
+  },
+  "B0BZVR6725": {
+    "title": "Double Walled Glass Small Coffee Cups with Handle, Set of 2 Hollow Vacuum Sealed 75ml Espresso Cup, Hand Made, Heat Resistant",
+    "url": "https://www.amazon.eg/dp/B0BZVR6725",
+    "last_price": 70.51,
+    "lowest_price": 70.51,
+    "highest_price": 70.51,
+    "last_alerted_price": 70.51,
+    "history": [
+      {
+        "timestamp": 1795789557,
+        "price": 70.51
+      }
+    ],
+    "last_seen": 1795789557
+  },
+  "B096L83X3Q": {
+    "title": "Kapas Plast Plastic Storage Basket Set, 3 Pieces - Multi Color",
+    "url": "https://www.amazon.eg/dp/B096L83X3Q",
+    "last_price": 25.67,
+    "lowest_price": 25.67,
+    "highest_price": 25.67,
+    "last_alerted_price": 25.67,
+    "history": [
+      {
+        "timestamp": 1795789557,
+        "price": 25.67
+      }
+    ],
+    "last_seen": 1795789557
+  },
+  "B0CY8QHXXF": {
+    "title": "500ml Insulated Water Bottle, Modern Double Wall Sports Kettle Stainless Steel Water Bottle, Reusable BPA Free Thermal Insulated Water Bottle - Black",
+    "url": "https://www.amazon.eg/dp/B0CY8QHXXF",
+    "last_price": 143.44,
+    "lowest_price": 143.44,
+    "highest_price": 143.44,
+    "last_alerted_price": 143.44,
+    "history": [
+      {
+        "timestamp": 1795789563,
+        "price": 143.44
+      }
+    ],
+    "last_seen": 1795789563
+  },
+  "B01M4KNL51": {
+    "title": "Non-Stick Burger Press, Patty Maker Aluminum Patty Mold for BBQs Housemade Hamburger - Silver",
+    "url": "https://www.amazon.eg/dp/B01M4KNL51",
+    "last_price": 60.14,
+    "lowest_price": 60.14,
+    "highest_price": 60.14,
+    "last_alerted_price": 60.14,
+    "history": [
+      {
+        "timestamp": 1795789563,
+        "price": 60.14
+      }
+    ],
+    "last_seen": 1795789563
+  },
+  "B0C3RMG4VH": {
+    "title": "popcorn bucket ,1 Liter, Assorted design Print",
+    "url": "https://www.amazon.eg/dp/B0C3RMG4VH",
+    "last_price": 30.6,
+    "lowest_price": 30.6,
+    "highest_price": 30.6,
+    "last_alerted_price": 30.6,
+    "history": [
+      {
+        "timestamp": 1795789564,
+        "price": 30.6
+      }
+    ],
+    "last_seen": 1795789564
+  },
+  "B0C1F3NWJD": {
+    "title": "Transparent Plastic Spoons - 50 PCS",
+    "url": "https://www.amazon.eg/dp/B0C1F3NWJD",
+    "last_price": 26.5,
+    "lowest_price": 26.5,
+    "highest_price": 26.5,
+    "last_alerted_price": 26.5,
+    "history": [
+      {
+        "timestamp": 1795789564,
+        "price": 26.5
+      }
+    ],
+    "last_seen": 1795789564
+  },
+  "B0DJ9LK5PZ": {
+    "title": "ZigZag-PinkFood Container 1.65L",
+    "url": "https://www.amazon.eg/dp/B0DJ9LK5PZ",
+    "last_price": 72.09,
+    "lowest_price": 72.09,
+    "highest_price": 72.09,
+    "last_alerted_price": 72.09,
+    "history": [
+      {
+        "timestamp": 1795789564,
+        "price": 72.09
+      }
+    ],
+    "last_seen": 1795789564
+  },
+  "B0BCZ64NTS": {
+    "title": "Nish 12 Piece Clear Color Dish Holder (Large)",
+    "url": "https://www.amazon.eg/dp/B0BCZ64NTS",
+    "last_price": 25.52,
+    "lowest_price": 25.52,
+    "highest_price": 25.52,
+    "last_alerted_price": 25.52,
+    "history": [
+      {
+        "timestamp": 1795789565,
+        "price": 25.52
+      }
+    ],
+    "last_seen": 1795789565
+  },
+  "B0FL7ZJKXY": {
+    "title": "Tank Quencher, 1200ml, Stainless Steel Bottle, BPA free, Insulated, Leakproof - Flora",
+    "url": "https://www.amazon.eg/dp/B0FL7ZJKXY",
+    "last_price": 571.16,
+    "lowest_price": 571.16,
+    "highest_price": 571.16,
+    "last_alerted_price": 571.16,
+    "history": [
+      {
+        "timestamp": 1795789565,
+        "price": 571.16
+      }
+    ],
+    "last_seen": 1795789565
+  },
+  "B09GF1RVDB": {
+    "title": "Frying Pan Cover Splatter Screen Guard Splash Lid Protective Mesh Grease New Kitchen Pans for Cooking Saucepan Metal Wired Round Black Colors Accessories Spatter Holder Home Sets",
+    "url": "https://www.amazon.eg/dp/B09GF1RVDB",
+    "last_price": 29.34,
+    "lowest_price": 29.34,
+    "highest_price": 29.34,
+    "last_alerted_price": 29.34,
+    "history": [
+      {
+        "timestamp": 1795789565,
+        "price": 29.34
+      }
+    ],
+    "last_seen": 1795789565
+  },
+  "B0FVW74198": {
+    "title": "Eco cup 40 oz Thermal Mug with Straw and Handle, 1200 ml Coffee Mug To Go, Double-Walled Stainless Steel Vacuum Insulated Mug with Lid, Portable Car Mug for Hot and Cold Drinks (Black)",
+    "url": "https://www.amazon.eg/dp/B0FVW74198",
+    "last_price": 297.5,
+    "lowest_price": 297.5,
+    "highest_price": 297.5,
+    "last_alerted_price": 297.5,
+    "history": [
+      {
+        "timestamp": 1795789565,
+        "price": 297.5
+      }
+    ],
+    "last_seen": 1795789565
+  },
+  "B09QK2WGN8": {
+    "title": "مصفاة ستانلس ستيل بيد ستانلس ستيل من الياسين مقاس 15 سم - الوان متنوعه",
+    "url": "https://www.amazon.eg/dp/B09QK2WGN8",
+    "last_price": 25.15,
+    "lowest_price": 25.15,
+    "highest_price": 25.15,
+    "last_alerted_price": 25.15,
+    "history": [
+      {
+        "timestamp": 1795789565,
+        "price": 25.15
+      }
+    ],
+    "last_seen": 1795789565
+  },
+  "B0BVH6JHJF": {
+    "title": "1 Liter Water Bottle with Time Markers and Water Intake Tracking Marks, Multicolor from TOOGABBIE",
+    "url": "https://www.amazon.eg/dp/B0BVH6JHJF",
+    "last_price": 89.32,
+    "lowest_price": 89.32,
+    "highest_price": 89.32,
+    "last_alerted_price": 89.32,
+    "history": [
+      {
+        "timestamp": 1795789566,
+        "price": 89.32
+      }
+    ],
+    "last_seen": 1795789566
+  },
+  "B07SB18PRQ": {
+    "title": "Silicone Cupcake Mold, Muffin and Cupcake Mold, Round Non-Stick 480F Heat Resistant Baking Mold, Food Grade Baking Mold58417 (12 Pack)",
+    "url": "https://www.amazon.eg/dp/B07SB18PRQ",
+    "last_price": 28.49,
+    "lowest_price": 28.49,
+    "highest_price": 28.49,
+    "last_alerted_price": 28.49,
+    "history": [
+      {
+        "timestamp": 1795789566,
+        "price": 28.49
+      }
+    ],
+    "last_seen": 1795789566
+  },
+  "B0FL81BS9D": {
+    "title": "Tank Magnet, 1000ml, Stainless Steel Bottle, BPA Free, Insulated, Leakproof - Black",
+    "url": "https://www.amazon.eg/dp/B0FL81BS9D",
+    "last_price": 686.39,
+    "lowest_price": 686.39,
+    "highest_price": 686.39,
+    "last_alerted_price": 686.39,
+    "history": [
+      {
+        "timestamp": 1795789566,
+        "price": 686.39
+      }
+    ],
+    "last_seen": 1795789566
+  },
+  "B0B5PHLHW1": {
+    "title": "elyassin Cupcake butter paper set, 28 Pieces - Assorted",
+    "url": "https://www.amazon.eg/dp/B0B5PHLHW1",
+    "last_price": 16.03,
+    "lowest_price": 16.03,
+    "highest_price": 16.03,
+    "last_alerted_price": 16.03,
+    "history": [
+      {
+        "timestamp": 1795789566,
+        "price": 16.03
+      }
+    ],
+    "last_seen": 1795789566
+  },
+  "B0HFXC792C": {
+    "title": "OVA Clear Glass Tumbler Cup – Elegant Thick Base Drinking Glass for Tea, Coffee, Juice, Water and Cold Beverages – Reusable Transparent Glass Cup for Home, Office and Everyday Serving (1)",
+    "url": "https://www.amazon.eg/dp/B0HFXC792C",
+    "last_price": 15.3,
+    "lowest_price": 15.3,
+    "highest_price": 15.3,
+    "last_alerted_price": 15.3,
+    "history": [
+      {
+        "timestamp": 1795789566,
+        "price": 15.3
+      }
+    ],
+    "last_seen": 1795789566
+  },
+  "B0H6V1NH4V": {
+    "title": "Fresh 5-in-1 Turkish Coffee Machine FCM-500TMA, 500W, 6 Cups, Auto Shut-Off, Black",
+    "url": "https://www.amazon.eg/dp/B0H6V1NH4V",
+    "last_price": 2169.8,
+    "lowest_price": 2169.8,
+    "highest_price": 2169.8,
+    "last_alerted_price": 2169.8,
+    "history": [
+      {
+        "timestamp": 1795789567,
+        "price": 2169.8
+      }
+    ],
+    "last_seen": 1795789567
+  },
+  "B087QLVD4G": {
+    "title": "Cereal Container, ifboxs Airtight Dry Food Storage Containers, Rice Container, Large Kitchen Storage Container BPA Free, Cereal Container for Flour, Snacks, Nuts and More (2.5L, 4 Pack)",
+    "url": "https://www.amazon.eg/dp/B087QLVD4G",
+    "last_price": 93.27,
+    "lowest_price": 93.27,
+    "highest_price": 93.27,
+    "last_alerted_price": 93.27,
+    "history": [
+      {
+        "timestamp": 1795789567,
+        "price": 93.27
+      }
+    ],
+    "last_seen": 1795789567
+  },
+  "B0HDCR2G26": {
+    "title": "VOMA Pure Glass Spice Jars Set (12 Pieces) 120ml with Elegant Wooden Stand - Complete Condiment Organizer with Labels (Arabic & English) for Kitchen Tidying",
+    "url": "https://www.amazon.eg/dp/B0HDCR2G26",
+    "last_price": 263.41,
+    "lowest_price": 263.41,
+    "highest_price": 263.41,
+    "last_alerted_price": 263.41,
+    "history": [
+      {
+        "timestamp": 1795789567,
+        "price": 263.41
+      }
+    ],
+    "last_seen": 1795789567
+  },
+  "B085YH54H9": {
+    "title": "Nespresso Gran lattissima Black Coffee Machine",
+    "url": "https://www.amazon.eg/dp/B085YH54H9",
+    "last_price": 16255.49,
+    "lowest_price": 16255.49,
+    "highest_price": 16255.49,
+    "last_alerted_price": 16255.49,
+    "history": [
+      {
+        "timestamp": 1795789567,
+        "price": 16255.49
+      }
+    ],
+    "last_seen": 1795789567
+  },
+  "B099DJJ6KN": {
+    "title": "Wood Spoon Spoons - 7 cm - 6 pcs, 2725615640127",
+    "url": "https://www.amazon.eg/dp/B099DJJ6KN",
+    "last_price": 24.48,
+    "lowest_price": 24.48,
+    "highest_price": 24.48,
+    "last_alerted_price": 24.48,
+    "history": [
+      {
+        "timestamp": 1795789567,
+        "price": 24.48
+      }
+    ],
+    "last_seen": 1795789567
+  },
+  "B0BVJ83MXF": {
+    "title": "one year warranty_Pantry Elements Silicone Baking Cups - Set of 12 Reusable Cupcake Liners in Six Vibrant Colors5643454852",
+    "url": "https://www.amazon.eg/dp/B0BVJ83MXF",
+    "last_price": 42.09,
+    "lowest_price": 42.09,
+    "highest_price": 42.09,
+    "last_alerted_price": 42.09,
+    "history": [
+      {
+        "timestamp": 1795789568,
+        "price": 42.09
+      }
+    ],
+    "last_seen": 1795789568
+  },
+  "B08P4RBQSN": {
+    "title": "Smart Water Bottle, 500ml/17oz Stainless Steel Thermos Bottle with Smart Touch Screen Temperature Display, Thermos for Office, Home, Gym, Yoga, Outdoor Camping (Assorted Colors)",
+    "url": "https://www.amazon.eg/dp/B08P4RBQSN",
+    "last_price": 97.21,
+    "lowest_price": 97.21,
+    "highest_price": 97.21,
+    "last_alerted_price": 97.21,
+    "history": [
+      {
+        "timestamp": 1795789568,
+        "price": 97.21
+      }
+    ],
+    "last_seen": 1795789568
+  },
+  "B09MQVK9Q2": {
+    "title": "com-four 4 x storage jars with lid, storage jars for coffee, tea, cereal, pastries or other small items (4 storage jars with lid)",
+    "url": "https://www.amazon.eg/dp/B09MQVK9Q2",
+    "last_price": 71.68,
+    "lowest_price": 71.68,
+    "highest_price": 71.68,
+    "last_alerted_price": 71.68,
+    "history": [
+      {
+        "timestamp": 1795789574,
+        "price": 71.68
+      }
+    ],
+    "last_seen": 1795789574
+  },
+  "B096R1DB81": {
+    "title": "Metal straws set of 6 pieces with cleaning brush - silver, One Size",
+    "url": "https://www.amazon.eg/dp/B096R1DB81",
+    "last_price": 43.22,
+    "lowest_price": 43.22,
+    "highest_price": 43.22,
+    "last_alerted_price": 43.22,
+    "history": [
+      {
+        "timestamp": 1795789574,
+        "price": 43.22
+      }
+    ],
+    "last_seen": 1795789574
+  },
+  "B0DTKNGNZM": {
+    "title": "800ml Vacuum Insulated Stainless Steel Thermal Bottle, Leakproof BPA Free Coffee Water Sports Water Bottle, Travel Water Bottle for Hot or Cold Drinks (Blue)",
+    "url": "https://www.amazon.eg/dp/B0DTKNGNZM",
+    "last_price": 168.84,
+    "lowest_price": 168.84,
+    "highest_price": 168.84,
+    "last_alerted_price": 168.84,
+    "history": [
+      {
+        "timestamp": 1795789574,
+        "price": 168.84
+      }
+    ],
+    "last_seen": 1795789574
+  },
+  "B0GZL8KY82": {
+    "title": "Ebaskt 2-in-1 Cast Iron Dutch Oven Pot with Grill Lid, 25 cm Size",
+    "url": "https://www.amazon.eg/dp/B0GZL8KY82",
+    "last_price": 1792.08,
+    "lowest_price": 1792.08,
+    "highest_price": 1792.08,
+    "last_alerted_price": 1792.08,
+    "history": [
+      {
+        "timestamp": 1795789575,
+        "price": 1792.08
+      }
+    ],
+    "last_seen": 1795789575
+  },
+  "B0BXX6HVXV": {
+    "title": "Lazord Black 24cm Granite Frying Pot With Frying Basket - Deep Fryer",
+    "url": "https://www.amazon.eg/dp/B0BXX6HVXV",
+    "last_price": 481.32,
+    "lowest_price": 481.32,
+    "highest_price": 481.32,
+    "last_alerted_price": 481.32,
+    "history": [
+      {
+        "timestamp": 1795789575,
+        "price": 481.32
+      }
+    ],
+    "last_seen": 1795789575
+  },
+  "B0H2J1HTYY": {
+    "title": "Next Store 2.5L Stainless Steel Whistle Tea Kettle Kettle Pure White Pot Pot with Measurements and Insulation Natural Wood Modern",
+    "url": "https://www.amazon.eg/dp/B0H2J1HTYY",
+    "last_price": 583.81,
+    "lowest_price": 583.81,
+    "highest_price": 583.81,
+    "last_alerted_price": 583.81,
+    "history": [
+      {
+        "timestamp": 1795789575,
+        "price": 583.81
+      }
+    ],
+    "last_seen": 1795789575
+  },
+  "B0H2L1WTBD": {
+    "title": "Rotating Spice Rack Set, Acrylic, 360° Organiser with 10 Clear Jars and Spoons, Modern Countertop Seasoning Storage Stand",
+    "url": "https://www.amazon.eg/dp/B0H2L1WTBD",
+    "last_price": 283.82,
+    "lowest_price": 283.82,
+    "highest_price": 283.82,
+    "last_alerted_price": 283.82,
+    "history": [
+      {
+        "timestamp": 1795789575,
+        "price": 283.82
+      }
+    ],
+    "last_seen": 1795789575
+  },
+  "B0FLNPQ122": {
+    "title": "150ML Small Thermal Flask for Coffee Tea Milk,Mini Flasks for Hot Cold Drinks,Small Water Bottle of 304 Stainless Steel,Portable Vacuum Mug for Work & Travel (Mint Green, 150 Millilitres)",
+    "url": "https://www.amazon.eg/dp/B0FLNPQ122",
+    "last_price": 109.65,
+    "lowest_price": 109.65,
+    "highest_price": 109.65,
+    "last_alerted_price": 109.65,
+    "history": [
+      {
+        "timestamp": 1795789575,
+        "price": 109.65
+      }
+    ],
+    "last_seen": 1795789575
+  },
+  "B0FKBV9WH4": {
+    "title": "Porcelain Art Folio Coffee Serving 12-Pieces Set, Biege",
+    "url": "https://www.amazon.eg/dp/B0FKBV9WH4",
+    "last_price": 371.15,
+    "lowest_price": 371.15,
+    "highest_price": 371.15,
+    "last_alerted_price": 371.15,
+    "history": [
+      {
+        "timestamp": 1795789576,
+        "price": 371.15
+      }
+    ],
+    "last_seen": 1795789576
+  },
+  "B01M7OAC64": {
+    "title": "Spice Stirrer,6 Pcs Spice Storage Containers",
+    "url": "https://www.amazon.eg/dp/B01M7OAC64",
+    "last_price": 95.77,
+    "lowest_price": 95.77,
+    "highest_price": 95.77,
+    "last_alerted_price": 95.77,
+    "history": [
+      {
+        "timestamp": 1795789576,
+        "price": 95.77
+      }
+    ],
+    "last_seen": 1795789576
+  },
+  "B0FL82D22K": {
+    "title": "Tank Quencher, 1200ml, Stainless Steel Bottle, BPA Free, Insulated, Leakproof - Lavender",
+    "url": "https://www.amazon.eg/dp/B0FL82D22K",
+    "last_price": 524.03,
+    "lowest_price": 524.03,
+    "highest_price": 524.03,
+    "last_alerted_price": 524.03,
+    "history": [
+      {
+        "timestamp": 1795789576,
+        "price": 524.03
+      }
+    ],
+    "last_seen": 1795789576
+  },
+  "B0GLNQYQC4": {
+    "title": "Sushi mat - made of bamboo, rattan, number of pieces: 1, multi-colored",
+    "url": "https://www.amazon.eg/dp/B0GLNQYQC4",
+    "last_price": 33.42,
+    "lowest_price": 33.42,
+    "highest_price": 33.42,
+    "last_alerted_price": 33.42,
+    "history": [
+      {
+        "timestamp": 1795789576,
+        "price": 33.42
+      }
+    ],
+    "last_seen": 1795789576
+  },
+  "B0DRDD72JN": {
+    "title": "Happy Home Silicone Collapsible Cup for Travel, 350ml Foldable Travel Mug with Lids Reusable Portable Bottle for Gym, Outdoor and Camping (Pink)",
+    "url": "https://www.amazon.eg/dp/B0DRDD72JN",
+    "last_price": 97.87,
+    "lowest_price": 97.87,
+    "highest_price": 97.87,
+    "last_alerted_price": 97.87,
+    "history": [
+      {
+        "timestamp": 1795789576,
+        "price": 97.87
+      }
+    ],
+    "last_seen": 1795789576
+  },
+  "B0DDDL7FDT": {
+    "title": "84 * 32.5cm Kitchen Aluminum Foil Cooking Frying Pan Oil Splash Screen Cover Wrinkle Anti Splatter Shield Guard Aluminium Foil Folding Gas Cooker Protector",
+    "url": "https://www.amazon.eg/dp/B0DDDL7FDT",
+    "last_price": 44.05,
+    "lowest_price": 44.05,
+    "highest_price": 44.05,
+    "last_alerted_price": 44.05,
+    "history": [
+      {
+        "timestamp": 1795789577,
+        "price": 44.05
+      }
+    ],
+    "last_seen": 1795789577
+  },
+  "B09K5WK5GH": {
+    "title": "Egg Storage Box 2-Door Eggs, Pack of 24",
+    "url": "https://www.amazon.eg/dp/B09K5WK5GH",
+    "last_price": 55.45,
+    "lowest_price": 55.45,
+    "highest_price": 55.45,
+    "last_alerted_price": 55.45,
+    "history": [
+      {
+        "timestamp": 1795789577,
+        "price": 55.45
+      }
+    ],
+    "last_seen": 1795789577
+  },
+  "B0HDJXR8QP": {
+    "title": "كوب حراري بتصميم ممتاز عصري سهل الحمل مناسب للمنزل والمكتب الشاطئ الوان",
+    "url": "https://www.amazon.eg/dp/B0HDJXR8QP",
+    "last_price": 355.83,
+    "lowest_price": 355.83,
+    "highest_price": 355.83,
+    "last_alerted_price": 355.83,
+    "history": [
+      {
+        "timestamp": 1795789577,
+        "price": 355.83
+      }
+    ],
+    "last_seen": 1795789577
+  },
+  "B073VRYVJC": {
+    "title": "Pedrini Kaffettiera coffeemaker, 6 cups, Polished Aluminum, 9084",
+    "url": "https://www.amazon.eg/dp/B073VRYVJC",
+    "last_price": 679.15,
+    "lowest_price": 679.15,
+    "highest_price": 679.15,
+    "last_alerted_price": 679.15,
+    "history": [
+      {
+        "timestamp": 1795789577,
+        "price": 679.15
+      }
+    ],
+    "last_seen": 1795789577
+  },
+  "B08PK9HZY9": {
+    "title": "Water Bottle with LED Temperature Display,Double Walled Vacuum Insulated Water Bottle,Stainless Steel Sports AutomotiveTravel Mug,BPA-free Leak Proof Keep Cold and Keep Warm 12H",
+    "url": "https://www.amazon.eg/dp/B08PK9HZY9",
+    "last_price": 115.72,
+    "lowest_price": 115.72,
+    "highest_price": 115.72,
+    "last_alerted_price": 115.72,
+    "history": [
+      {
+        "timestamp": 1795789578,
+        "price": 115.72
+      }
+    ],
+    "last_seen": 1795789578
+  },
+  "B08WJMVRKT": {
+    "title": "Max plast Plastic Legules Storage Jar with Lid, Multi color",
+    "url": "https://www.amazon.eg/dp/B08WJMVRKT",
+    "last_price": 14.17,
+    "lowest_price": 14.17,
+    "highest_price": 14.17,
+    "last_alerted_price": 14.17,
+    "history": [
+      {
+        "timestamp": 1795789578,
+        "price": 14.17
+      }
+    ],
+    "last_seen": 1795789578
+  },
+  "B0FL81R89C": {
+    "title": "Tank Magnet 1000ml Bottle High-Capacity Insulated Stainless Steel, Cold Drink Ready, Leakproof - Electric Blue",
+    "url": "https://www.amazon.eg/dp/B0FL81R89C",
+    "last_price": 686.38,
+    "lowest_price": 686.38,
+    "highest_price": 686.38,
+    "last_alerted_price": 686.38,
+    "history": [
+      {
+        "timestamp": 1795789578,
+        "price": 686.38
+      }
+    ],
+    "last_seen": 1795789578
+  },
+  "B0DWLXDXW3": {
+    "title": "Wooden Tortilla Press Maker - Manual and Ergonomic Design for Easy and Fast Dough Preparation Perfect for Home or Restaurant Use Made of Thick High Quality Wood for Durability.",
+    "url": "https://www.amazon.eg/dp/B0DWLXDXW3",
+    "last_price": 216.27,
+    "lowest_price": 216.27,
+    "highest_price": 216.27,
+    "last_alerted_price": 216.27,
+    "history": [
+      {
+        "timestamp": 1795789578,
+        "price": 216.27
+      }
+    ],
+    "last_seen": 1795789578
+  },
+  "B07HD5H3LP": {
+    "title": "MCP Kitchen Weighing Scale With Tare Function SF 400A with Adaptor 10 kg Digital Multi-Purpose food weight machine",
+    "url": "https://www.amazon.eg/dp/B07HD5H3LP",
+    "last_price": 238.0,
+    "lowest_price": 238.0,
+    "highest_price": 238.0,
+    "last_alerted_price": 238.0,
+    "history": [
+      {
+        "timestamp": 1795789578,
+        "price": 238.0
+      }
+    ],
+    "last_seen": 1795789578
+  },
+  "B0H56135HS": {
+    "title": "Next Store Double Stainless Steel Frying Pan (2 Handles) with Pyrex Thermal Lid and Titanium Coating Anti Scratch - Perfect Heat Distribution (Size 30)",
+    "url": "https://www.amazon.eg/dp/B0H56135HS",
+    "last_price": 607.62,
+    "lowest_price": 607.62,
+    "highest_price": 607.62,
+    "last_alerted_price": 607.62,
+    "history": [
+      {
+        "timestamp": 1795789579,
+        "price": 607.62
+      }
+    ],
+    "last_seen": 1795789579
   }
 }
