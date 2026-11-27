@@ -309,6 +309,13 @@ def candidate_cards(soup):
 def parse_products(html):
     soup = BeautifulSoup(html, 'html.parser')
     products = []
+    logging.info(
+        'HTML diag | len=%s | s_cards=%s | dp_links=%s | data_asin=%s',
+        len(html),
+        len(soup.select('[data-component-type="s-search-result"]')),
+        len(soup.select('a[href*="/dp/"]')),
+        len(soup.select('[data-asin]')),
+    )
     for card in candidate_cards(soup):
         try:
             asin = (card.get('data-asin') or '').strip()
